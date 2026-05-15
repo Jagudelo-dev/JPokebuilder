@@ -1,0 +1,157 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #2c3e50;
+    color: #ecf0f1;
+    min-height: 100vh;
+}
+
+header {
+    background: #1abc9c;
+    padding: 1.2rem;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
+
+h1 {
+    font-size: 2rem;
+    letter-spacing: 1px;
+}
+
+#app {
+    max-width: 1400px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+/* Equipo: slots en grid */
+.team-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.slot {
+    background: #34495e;
+    border-radius: 12px;
+    padding: 1rem;
+    text-align: center;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+    border: 2px solid transparent;
+}
+
+.slot:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 16px rgba(0,0,0,0.4);
+}
+
+.slot.selected {
+    border-color: #1abc9c;
+    box-shadow: 0 0 0 2px rgba(26, 188, 156, 0.5);
+}
+
+.slot .pokemon-icon {
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+}
+
+.slot .pokemon-name {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.slot .pokemon-item {
+    font-size: 0.85rem;
+    color: #bdc3c7;
+}
+
+/* Panel de edición */
+.editor {
+    background: #2c3e50;
+    border-radius: 16px;
+    padding: 2rem;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.editor-column {
+    flex: 1 1 300px;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.form-group label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 0.3rem;
+    color: #1abc9c;
+}
+
+select, input[type="number"], input[type="text"] {
+    width: 100%;
+    padding: 0.6rem;
+    border-radius: 8px;
+    border: 1px solid #7f8c8d;
+    background: #ecf0f1;
+    color: #2c3e50;
+    font-size: 0.95rem;
+}
+
+.stat-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.5rem;
+}
+
+.stat-row .stat-label {
+    width: 80px;
+    font-weight: 600;
+}
+
+.stat-row input {
+    width: 80px;
+}
+
+.total-stats {
+    margin-top: 1rem;
+    background: #1abc9c;
+    padding: 1rem;
+    border-radius: 12px;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.total-stats span {
+    font-weight: bold;
+}
+
+.moves-list {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.move-slot {
+    flex: 1 1 calc(50% - 0.5rem);
+}
+
+.error-message {
+    color: #e74c3c;
+    font-size: 0.85rem;
+    margin-top: 0.2rem;
+}
