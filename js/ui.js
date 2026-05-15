@@ -104,7 +104,11 @@ function renderEditor() {
                         <label>Movimiento ${i+1}</label>
                         <select id="move${i}">
                             <option value="">- Vacío -</option>
-                            ${availableMoves.map(m => `<option value="${m}" ${pokemon.moves[i] === m ? 'selected' : ''}>${m}</option>`).join('')}
+                            ${availableMoves.map(m => {
+                                const moveData = MOVES[m];
+                                const details = moveData ? ` [${moveData.type}] ${moveData.power ? moveData.power + 'p' : '—'}` : '';
+                                return `<option value="${m}" ${pokemon.moves[i] === m ? 'selected' : ''}>${m}${details}</option>`;
+                            }).join('')}
                         </select>
                     </li>
                 `).join('')}
