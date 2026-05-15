@@ -115,6 +115,12 @@ function renderEditor() {
             </ul>
         </div>
 
+        <!-- NUEVO: Columna de cobertura ofensiva -->
+        <div class="editor-column">
+            <h3>Cobertura Ofensiva</h3>
+            <div id="coverageDisplay"></div>
+        </div>
+
         <div class="editor-column">
             <h3>IVs / EVs</h3>
             ${['hp','atk','def','spa','spd','spe'].map(stat => `
@@ -131,7 +137,6 @@ function renderEditor() {
                 ${stats ? Object.entries(stats).map(([key, val]) => `<span>${key.toUpperCase()}: ${val}</span>`).join(' ') : ''}
             </div>
 
-            <!-- --- NUEVO: Gráfico de stats base y promedio --- -->
             <h3>Stats Base</h3>
             <canvas id="statsRadar" width="250" height="250" style="display:block; margin: 0 auto;"></canvas>
             <div style="text-align:center; font-size:0.8rem; margin-top:0.3rem;">
@@ -139,7 +144,6 @@ function renderEditor() {
                 <span style="color:#e67e22; margin-left:1rem;">■ Promedio equipo</span>
             </div>
 
-            <!-- --- NUEVO: Tabla de resistencias y debilidades --- -->
             <h3>Resistencias y Debilidades</h3>
             <div id="typeEffectiveness"></div>
         </div>
@@ -170,6 +174,7 @@ function renderEditor() {
     for (let i = 0; i < 4; i++) {
         document.getElementById(`move${i}`).addEventListener('change', (e) => {
             pokemon.moves[i] = e.target.value;
+            updateCoverage(); // ← Actualizar cobertura al cambiar movimiento
         });
     }
 
@@ -188,11 +193,11 @@ function renderEditor() {
 
     validateEVs();
 
-    // --- NUEVO: Dibujar gráfico de stats base + promedio del equipo ---
+    // Dibujar gráfico de stats base + promedio del equipo
     const avgStats = calculateTeamAverageStats(team);
     drawStatsGraph('statsRadar', base.baseStats, avgStats);
 
-    // --- NUEVO: Mostrar tabla de resistencias/debilidades según tipos del Pokémon ---
+    // Mostrar tabla de resistencias/debilidades según tipos del Pokémon
     const effectiveness = getTypeEffectiveness(base.types);
     const categories = categorizeEffectiveness(effectiveness);
     const typeDiv = document.getElementById('typeEffectiveness');
@@ -204,6 +209,9 @@ function renderEditor() {
             <p><strong>Neutral:</strong> ${categories.neutral.join(', ')}</p>
         `;
     }
+
+    // Calcular cobertura inicial
+    updateCoverage();
 }
 
 function validateEVs() {
@@ -215,5 +223,16 @@ function validateEVs() {
         msgEl.textContent = `Total de EVs (${totalEV}) supera el límite de 510.`;
     } else {
         msgEl.textContent = '';
+    }
+}
+
+// --- NUEVA FUNCIÓN: actualizar la cobertura ofensiva en la UI ---
+function updateCoverage() {
+    const pokemon = team.getSlot(selectedSlot);
+    if (!pokemon || !pokemon.baseData) return;
+    const coverageData = calculateCoverage(pokemon.moves);
+    const div = document.getElementById('coverageDisplay');
+    if (div) {
+        div.innerHTML = renderCoverageHTML(coverageData);
     }
 }
