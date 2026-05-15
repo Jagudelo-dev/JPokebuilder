@@ -126,17 +126,29 @@ function renderEditor() {
             <div class="total-stats">
                 ${stats ? Object.entries(stats).map(([key, val]) => `<span>${key.toUpperCase()}: ${val}</span>`).join(' ') : ''}
             </div>
+
+            <!-- --- NUEVO: Gráfico de stats base y promedio --- -->
+            <h3>Stats Base</h3>
+            <canvas id="statsRadar" width="250" height="250" style="display:block; margin: 0 auto;"></canvas>
+            <div style="text-align:center; font-size:0.8rem; margin-top:0.3rem;">
+                <span style="color:#1abc9c;">■ Pokémon</span>
+                <span style="color:#e67e22; margin-left:1rem;">■ Promedio equipo</span>
+            </div>
+
+            <!-- --- NUEVO: Tabla de resistencias y debilidades --- -->
+            <h3>Resistencias y Debilidades</h3>
+            <div id="typeEffectiveness"></div>
         </div>
     `;
 
     // Event listeners para actualizar el Pokémon
     document.getElementById('nickname').addEventListener('input', (e) => {
         pokemon.nickname = e.target.value;
-        renderTeamSlots(); // actualizar nombre en el slot
+        renderTeamSlots();
     });
     document.getElementById('level').addEventListener('input', (e) => {
         pokemon.level = parseInt(e.target.value) || 50;
-        renderEditor(); // recrea para actualizar movimientos disponibles y stats
+        renderEditor();
     });
     document.getElementById('ability').addEventListener('change', (e) => {
         pokemon.ability = e.target.value;
@@ -171,6 +183,23 @@ function renderEditor() {
     });
 
     validateEVs();
+
+    // --- NUEVO: Dibujar gráfico de stats base + promedio del equipo ---
+    const avgStats = calculateTeamAverageStats(team);
+    drawStatsGraph('statsRadar', base.baseStats, avgStats);
+
+    // --- NUEVO: Mostrar tabla de resistencias/debilidades según tipos del Pokémon ---
+    const effectiveness = getTypeEffectiveness(base.types);
+    const categories = categorizeEffectiveness(effectiveness);
+    const typeDiv = document.getElementById('typeEffectiveness');
+    if (typeDiv) {
+        typeDiv.innerHTML = `
+            <p><strong>Inmune a:</strong> ${categories.inmune.length ? categories.inmune.join(', ') : 'Ninguno'}</p>
+            <p><strong>Resiste (½ o ¼):</strong> ${categories.resiste.map(r => `${r.type} (×${r.multiplier})`).join(', ') || 'Ninguno'}</p>
+            <p><strong>Débil (×2 o ×4):</strong> ${categories.debil.map(d => `${d.type} (×${d.multiplier})`).join(', ') || 'Ninguno'}</p>
+            <p><strong>Neutral:</strong> ${categories.neutral.join(', ')}</p>
+        `;
+    }
 }
 
 function validateEVs() {
