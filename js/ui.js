@@ -66,7 +66,12 @@ function renderEditor() {
 
     panel.innerHTML = `
         <div class="editor-column">
-            <h2>${base.id ? '#' + base.id + ' ' : ''}${Object.keys(POKEDEX).find(k => POKEDEX[k] === base)}</h2>
+            <h2>
+                ${base.id ? '#' + base.id + ' ' : ''}${Object.keys(POKEDEX).find(k => POKEDEX[k] === base)}
+                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/${base.id}.png"
+                     alt="${Object.keys(POKEDEX).find(k => POKEDEX[k] === base)}"
+                     style="height: 60px; vertical-align: middle; margin-left: 0.5rem;">
+            </h2>
             <div class="form-group">
                 <label>Apodo</label>
                 <input type="text" id="nickname" value="${pokemon.nickname || ''}" placeholder="Nombre del Pokémon">
@@ -115,10 +120,16 @@ function renderEditor() {
             </ul>
         </div>
 
-        <!-- NUEVO: Columna de cobertura ofensiva -->
+        <!-- Columna de cobertura ofensiva -->
         <div class="editor-column">
             <h3>Cobertura Ofensiva</h3>
             <div id="coverageDisplay"></div>
+        </div>
+
+        <!-- Columna del asistente táctico -->
+        <div class="editor-column">
+            <h3>🧠 Asistente Táctico</h3>
+            <div id="advisorPanel"></div>
         </div>
 
         <div class="editor-column">
@@ -157,13 +168,16 @@ function renderEditor() {
     document.getElementById('level').addEventListener('input', (e) => {
         pokemon.level = parseInt(e.target.value) || 50;
         renderEditor();
+        // updateAdvice() se llamará al final de renderEditor()
     });
     document.getElementById('ability').addEventListener('change', (e) => {
         pokemon.ability = e.target.value;
+        updateAdvice();
     });
     document.getElementById('item').addEventListener('change', (e) => {
         pokemon.item = e.target.value;
         renderTeamSlots();
+        updateAdvice();
     });
     document.getElementById('nature').addEventListener('change', (e) => {
         pokemon.nature = e.target.value;
@@ -174,7 +188,8 @@ function renderEditor() {
     for (let i = 0; i < 4; i++) {
         document.getElementById(`move${i}`).addEventListener('change', (e) => {
             pokemon.moves[i] = e.target.value;
-            updateCoverage(); // ← Actualizar cobertura al cambiar movimiento
+            updateCoverage();
+            updateAdvice();
         });
     }
 
@@ -210,8 +225,9 @@ function renderEditor() {
         `;
     }
 
-    // Calcular cobertura inicial
+    // Calcular cobertura y asistente inicial
     updateCoverage();
+    updateAdvice();
 }
 
 function validateEVs() {
@@ -226,7 +242,7 @@ function validateEVs() {
     }
 }
 
-// --- NUEVA FUNCIÓN: actualizar la cobertura ofensiva en la UI ---
+// Actualizar cobertura ofensiva en la UI
 function updateCoverage() {
     const pokemon = team.getSlot(selectedSlot);
     if (!pokemon || !pokemon.baseData) return;
@@ -234,5 +250,14 @@ function updateCoverage() {
     const div = document.getElementById('coverageDisplay');
     if (div) {
         div.innerHTML = renderCoverageHTML(coverageData);
+    }
+}
+
+// Actualizar panel del asistente táctico
+function updateAdvice() {
+    const advice = getAdvice(team, selectedSlot);
+    const panel = document.getElementById('advisorPanel');
+    if (panel) {
+        panel.innerHTML = renderAdviceHTML(advice);
     }
 }

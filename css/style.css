@@ -214,3 +214,62 @@ select, input[type="number"], input[type="text"] {
     margin: 0.3rem 0;
     font-size: 0.9rem;
 }
+/* ====== Panel de Asistente ====== */
+.advice-list {
+    list-style: none;
+    padding: 0;
+}
+
+.advice-item {
+    padding: 0.5rem;
+    margin-bottom: 0.3rem;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    border-left: 4px solid transparent;
+}
+
+.advice-item.success {
+    background: #1e3a2f;
+    border-color: #2ecc71;
+    color: #a3e4bc;
+}
+
+.advice-item.warning {
+    background: #3a2e1e;
+    border-color: #e67e22;
+    color: #f5cba7;
+}
+
+.advice-item.info {
+    background: #1e2f3a;
+    border-color: #3498db;
+    color: #a9cce3;
+}
+
+/* ====== Tooltip para movimientos (opcional futuro) ====== */
+.move-tooltip {
+    position: relative;
+    cursor: help;
+}
+
+.move-tooltip::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #1e272e;
+    color: white;
+    padding: 0.3rem 0.6rem;
+    border-radius: 6px;
+    font-size: 0.75rem;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s;
+    z-index: 10;
+}
+
+.move-tooltip:hover::after {
+    opacity: 1;
+}
