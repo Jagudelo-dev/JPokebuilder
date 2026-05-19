@@ -1,0 +1,145 @@
+{
+  "id": 18,
+  "name": "Pidgeot",
+  "types": [
+    "Normal",
+    "Volador"
+  ],
+  "baseStats": {
+    "hp": 83,
+    "atk": 80,
+    "def": 75,
+    "spa": 70,
+    "spd": 70,
+    "spe": 101
+  },
+  "abilities": [
+    "Vista Lince",
+    "Tangled Feet",
+    "Big Pecks"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Tornado"
+      },
+      {
+        "level": 1,
+        "move": "Ataque Arena"
+      },
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Ataque Rápido"
+      },
+      {
+        "level": 1,
+        "move": "Ataque Aéreo"
+      },
+      {
+        "level": 1,
+        "move": "Onda Ígnea"
+      },
+      {
+        "level": 21,
+        "move": "Remolino"
+      },
+      {
+        "level": 22,
+        "move": "Ciclón"
+      },
+      {
+        "level": 31,
+        "move": "Ataque Ala"
+      },
+      {
+        "level": 34,
+        "move": "Danza Pluma"
+      },
+      {
+        "level": 44,
+        "move": "Agilidad"
+      },
+      {
+        "level": 44,
+        "move": "Respiro"
+      },
+      {
+        "level": 50,
+        "move": "Viento Afín"
+      },
+      {
+        "level": 53,
+        "move": "Viento Cortante"
+      },
+      {
+        "level": 54,
+        "move": "Espejo"
+      },
+      {
+        "level": 56,
+        "move": "Golpe Aéreo"
+      },
+      {
+        "level": 62,
+        "move": "Tajo Aéreo"
+      },
+      {
+        "level": 68,
+        "move": "Vendaval"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Vuelo",
+      "Golpe Cabeza",
+      "Derribo",
+      "Doble Filo",
+      "Hiperrayo",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Reflejo",
+      "Venganza",
+      "Rapidez",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bofetón Lodo",
+      "Detección",
+      "Aguante",
+      "Contoneo",
+      "Ala de Acero",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Alboroto",
+      "Imagen",
+      "Daño Secreto",
+      "Aire Afilado",
+      "Don Natural",
+      "Picoteo",
+      "Ida y Vuelta",
+      "Gigaimpacto",
+      "Despejar",
+      "Seducción",
+      "Viento Aciago",
+      "Canon",
+      "Avivar",
+      "Confidencia",
+      "Aguzar"
+    ]
+  }
+}

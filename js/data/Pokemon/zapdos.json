@@ -1,0 +1,172 @@
+{
+  "id": 145,
+  "name": "Zapdos",
+  "types": [
+    "Eléctrico",
+    "Volador"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "atk": 90,
+    "def": 85,
+    "spa": 125,
+    "spd": 90,
+    "spe": 100
+  },
+  "abilities": [
+    "Presión",
+    "Estática"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Picotazo"
+      },
+      {
+        "level": 1,
+        "move": "Pico Taladro"
+      },
+      {
+        "level": 1,
+        "move": "Impactrueno"
+      },
+      {
+        "level": 13,
+        "move": "Onda Trueno"
+      },
+      {
+        "level": 16,
+        "move": "Malicioso"
+      },
+      {
+        "level": 22,
+        "move": "Picoteo"
+      },
+      {
+        "level": 29,
+        "move": "Poder Pasado"
+      },
+      {
+        "level": 32,
+        "move": "Rayo"
+      },
+      {
+        "level": 37,
+        "move": "Detección"
+      },
+      {
+        "level": 50,
+        "move": "Chispazo"
+      },
+      {
+        "level": 51,
+        "move": "Trueno"
+      },
+      {
+        "level": 55,
+        "move": "Agilidad"
+      },
+      {
+        "level": 57,
+        "move": "Respiro"
+      },
+      {
+        "level": 60,
+        "move": "Pantalla de Luz"
+      },
+      {
+        "level": 61,
+        "move": "Carga"
+      },
+      {
+        "level": 72,
+        "move": "Ataque Aéreo"
+      },
+      {
+        "level": 85,
+        "move": "Danza Lluvia"
+      },
+      {
+        "level": 92,
+        "move": "Electrocañón"
+      },
+      {
+        "level": 92,
+        "move": "Aura Magnética"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Viento Cortante",
+      "Remolino",
+      "Vuelo",
+      "Golpe Cabeza",
+      "Derribo",
+      "Doble Filo",
+      "Rugido",
+      "Hiperrayo",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Reflejo",
+      "Venganza",
+      "Rapidez",
+      "Destello",
+      "Descanso",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bofetón Lodo",
+      "Tormenta Arena",
+      "Aguante",
+      "Contoneo",
+      "Ala de Acero",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Relevo",
+      "Poder Oculto",
+      "Ciclón",
+      "Día Soleado",
+      "Golpe Roca",
+      "Onda Ígnea",
+      "Granizo",
+      "Imagen",
+      "Refuerzo",
+      "Daño Secreto",
+      "Meteorobola",
+      "Aire Afilado",
+      "Eco Metálico",
+      "Doble Rayo",
+      "Paranormal",
+      "Golpe Aéreo",
+      "Onda Voltio",
+      "Don Natural",
+      "Viento Afín",
+      "Ida y Vuelta",
+      "Pájaro Osado",
+      "Gigaimpacto",
+      "Despejar",
+      "Rayo Carga",
+      "Viento Aciago",
+      "Bola Voltio",
+      "Canon",
+      "Caída Libre",
+      "Acróbata",
+      "Voltiocambio",
+      "Voltio Cruel",
+      "Vendaval",
+      "Confidencia",
+      "Onda Anómala",
+      "Campo Eléctrico",
+      "Aguzar",
+      "Alto Voltaje",
+      "Ala Bis",
+      "Tera Blast",
+      "Plancha Voltaica"
+    ]
+  }
+}

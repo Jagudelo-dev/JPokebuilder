@@ -1,0 +1,160 @@
+{
+  "id": 101,
+  "name": "Electrode",
+  "types": [
+    "Eléctrico"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "atk": 50,
+    "def": 70,
+    "spa": 80,
+    "spd": 80,
+    "spe": 150
+  },
+  "abilities": [
+    "Soundproof",
+    "Estática",
+    "Aftermath"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Bomba Sónica"
+      },
+      {
+        "level": 1,
+        "move": "Impactrueno"
+      },
+      {
+        "level": 1,
+        "move": "Chirrido"
+      },
+      {
+        "level": 1,
+        "move": "Carga"
+      },
+      {
+        "level": 1,
+        "move": "Aura Magnética"
+      },
+      {
+        "level": 8,
+        "move": "Onda Anómala"
+      },
+      {
+        "level": 21,
+        "move": "Chispa"
+      },
+      {
+        "level": 22,
+        "move": "Autodestrucción"
+      },
+      {
+        "level": 26,
+        "move": "Rayo Carga"
+      },
+      {
+        "level": 29,
+        "move": "Pantalla de Luz"
+      },
+      {
+        "level": 29,
+        "move": "Rodar"
+      },
+      {
+        "level": 29,
+        "move": "Bola Voltio"
+      },
+      {
+        "level": 36,
+        "move": "Rayo"
+      },
+      {
+        "level": 40,
+        "move": "Rapidez"
+      },
+      {
+        "level": 40,
+        "move": "Levitón"
+      },
+      {
+        "level": 41,
+        "move": "Chispazo"
+      },
+      {
+        "level": 46,
+        "move": "Giro Bola"
+      },
+      {
+        "level": 48,
+        "move": "Manto Espejo"
+      },
+      {
+        "level": 50,
+        "move": "Explosión"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Golpe Cabeza",
+      "Derribo",
+      "Doble Filo",
+      "Hiperrayo",
+      "Onda Trueno",
+      "Trueno",
+      "Tóxico",
+      "Agilidad",
+      "Furia",
+      "Teletransporte",
+      "Mimético",
+      "Doble Equipo",
+      "Reflejo",
+      "Venganza",
+      "Cabezazo",
+      "Destello",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Cara Susto",
+      "Electrocañón",
+      "Aguante",
+      "Contoneo",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Tormento",
+      "Imagen",
+      "Mofa",
+      "Refuerzo",
+      "Capa Mágica",
+      "Daño Secreto",
+      "Eco Metálico",
+      "Doble Rayo",
+      "Onda Voltio",
+      "Don Natural",
+      "Golpe Bajo",
+      "Gigaimpacto",
+      "Telequinesis",
+      "Juego Sucio",
+      "Canon",
+      "Voltiocambio",
+      "Electrotela",
+      "Voltio Cruel",
+      "Confidencia",
+      "Campo Eléctrico",
+      "Tera Blast",
+      "Plancha Voltaica"
+    ]
+  }
+}

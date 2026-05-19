@@ -1,0 +1,264 @@
+{
+  "id": 113,
+  "name": "Chansey",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 250,
+    "atk": 5,
+    "def": 5,
+    "spa": 35,
+    "spd": 105,
+    "spe": 50
+  },
+  "abilities": [
+    "Cura Natural",
+    "Dicha",
+    "Healer"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Destructor"
+      },
+      {
+        "level": 1,
+        "move": "Doble Bofetón"
+      },
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Látigo"
+      },
+      {
+        "level": 1,
+        "move": "Beso Dulce"
+      },
+      {
+        "level": 1,
+        "move": "Encanto"
+      },
+      {
+        "level": 1,
+        "move": "Antojo"
+      },
+      {
+        "level": 1,
+        "move": "Copión"
+      },
+      {
+        "level": 1,
+        "move": "Voz Cautivadora"
+      },
+      {
+        "level": 6,
+        "move": "Viento Feérico"
+      },
+      {
+        "level": 8,
+        "move": "Eco Voz"
+      },
+      {
+        "level": 9,
+        "move": "Alivio"
+      },
+      {
+        "level": 11,
+        "move": "Ojitos Tiernos"
+      },
+      {
+        "level": 12,
+        "move": "Gota Vital"
+      },
+      {
+        "level": 13,
+        "move": "Amortiguador"
+      },
+      {
+        "level": 18,
+        "move": "Beso Drenaje"
+      },
+      {
+        "level": 20,
+        "move": "Ofrenda"
+      },
+      {
+        "level": 24,
+        "move": "Canto"
+      },
+      {
+        "level": 25,
+        "move": "Paz Mental"
+      },
+      {
+        "level": 27,
+        "move": "Derribo"
+      },
+      {
+        "level": 27,
+        "move": "Lanzamiento"
+      },
+      {
+        "level": 30,
+        "move": "Gruñido"
+      },
+      {
+        "level": 32,
+        "move": "Refuerzo"
+      },
+      {
+        "level": 35,
+        "move": "Bomba Huevo"
+      },
+      {
+        "level": 38,
+        "move": "Reducción"
+      },
+      {
+        "level": 38,
+        "move": "Pulso Cura"
+      },
+      {
+        "level": 42,
+        "move": "Deseo Cura"
+      },
+      {
+        "level": 44,
+        "move": "Rizo Defensa"
+      },
+      {
+        "level": 48,
+        "move": "Pantalla de Luz"
+      },
+      {
+        "level": 48,
+        "move": "Última Baza"
+      },
+      {
+        "level": 54,
+        "move": "Doble Filo"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Puño Fuego",
+      "Puño Hielo",
+      "Puño Trueno",
+      "Megapatada",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Lanzallamas",
+      "Pistola Agua",
+      "Rayo Hielo",
+      "Ventisca",
+      "Rayo Burbuja",
+      "Hiperrayo",
+      "Sumisión",
+      "Contraataque",
+      "Sísmico",
+      "Fuerza",
+      "Rayo Solar",
+      "Rayo",
+      "Onda Trueno",
+      "Trueno",
+      "Terremoto",
+      "Tóxico",
+      "Psíquico",
+      "Furia",
+      "Teletransporte",
+      "Mimético",
+      "Doble Equipo",
+      "Reflejo",
+      "Venganza",
+      "Metrónomo",
+      "Llamarada",
+      "Rapidez",
+      "Cabezazo",
+      "Comesueños",
+      "Destello",
+      "Psicoonda",
+      "Descanso",
+      "Avalancha",
+      "Triataque",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bofetón Lodo",
+      "Electrocañón",
+      "Viento Hielo",
+      "Tormenta Arena",
+      "Aguante",
+      "Rodar",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Campana Cura",
+      "Retribución",
+      "Presente",
+      "Frustración",
+      "Velo Sagrado",
+      "Puño Dinámico",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Más Psique",
+      "Bola Sombra",
+      "Golpe Roca",
+      "Alboroto",
+      "Granizo",
+      "Imagen",
+      "Puño Certero",
+      "Reciclaje",
+      "Demolición",
+      "Esfuerzo",
+      "Intercambio",
+      "Robo",
+      "Daño Secreto",
+      "Vozarrón",
+      "Aromaterapia",
+      "Tumba Rocas",
+      "Onda Voltio",
+      "Hidropulso",
+      "Gravedad",
+      "Don Natural",
+      "Puño Drenaje",
+      "Onda Certera",
+      "Gigaimpacto",
+      "Bomba Fango",
+      "Cabezazo Zen",
+      "Treparrocas",
+      "Seducción",
+      "Trampa Rocas",
+      "Hierba Lazo",
+      "Rayo Carga",
+      "Telequinesis",
+      "Canon",
+      "Poder Reserva",
+      "Cambio de Banda",
+      "Calcinación",
+      "Represalia",
+      "Terratemblor",
+      "Avivar",
+      "Voltio Cruel",
+      "Confidencia",
+      "Campo Eléctrico",
+      "Brillo Mágico",
+      "Puño Incremento",
+      "Aguzar",
+      "Pataleta",
+      "Tera Blast",
+      "Snowscape",
+      "Trailblaze",
+      "Chilling Water"
+    ]
+  }
+}

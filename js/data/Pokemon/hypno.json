@@ -1,0 +1,211 @@
+{
+  "id": 97,
+  "name": "Hypno",
+  "types": [
+    "Psíquico"
+  ],
+  "baseStats": {
+    "hp": 85,
+    "atk": 73,
+    "def": 70,
+    "spa": 73,
+    "spd": 115,
+    "spe": 67
+  },
+  "abilities": [
+    "Insomnio",
+    "Forewarn",
+    "Foco Interno"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Destructor"
+      },
+      {
+        "level": 1,
+        "move": "Anulación"
+      },
+      {
+        "level": 1,
+        "move": "Confusión"
+      },
+      {
+        "level": 1,
+        "move": "Hipnosis"
+      },
+      {
+        "level": 1,
+        "move": "Barrera"
+      },
+      {
+        "level": 1,
+        "move": "Pesadilla"
+      },
+      {
+        "level": 1,
+        "move": "Trapicheo"
+      },
+      {
+        "level": 24,
+        "move": "Golpe Cabeza"
+      },
+      {
+        "level": 28,
+        "move": "Psicorrayo"
+      },
+      {
+        "level": 29,
+        "move": "Telépata"
+      },
+      {
+        "level": 29,
+        "move": "Espabila"
+      },
+      {
+        "level": 33,
+        "move": "Gas Venenoso"
+      },
+      {
+        "level": 37,
+        "move": "Psíquico"
+      },
+      {
+        "level": 37,
+        "move": "Sincrorruido"
+      },
+      {
+        "level": 43,
+        "move": "Meditación"
+      },
+      {
+        "level": 49,
+        "move": "Contoneo"
+      },
+      {
+        "level": 55,
+        "move": "Comesueños"
+      },
+      {
+        "level": 55,
+        "move": "Más Psique"
+      },
+      {
+        "level": 55,
+        "move": "Maquinación"
+      },
+      {
+        "level": 57,
+        "move": "Psicocarga"
+      },
+      {
+        "level": 60,
+        "move": "Premonición"
+      },
+      {
+        "level": 64,
+        "move": "Cabezazo Zen"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Puño Fuego",
+      "Puño Hielo",
+      "Puño Trueno",
+      "Megapatada",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Hiperrayo",
+      "Sumisión",
+      "Patada Baja",
+      "Contraataque",
+      "Sísmico",
+      "Onda Trueno",
+      "Tóxico",
+      "Furia",
+      "Teletransporte",
+      "Tinieblas",
+      "Mimético",
+      "Doble Equipo",
+      "Rayo Confuso",
+      "Pantalla de Luz",
+      "Niebla",
+      "Reflejo",
+      "Venganza",
+      "Metrónomo",
+      "Rapidez",
+      "Cabezazo",
+      "Destello",
+      "Psicoonda",
+      "Descanso",
+      "Triataque",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Cara Susto",
+      "Electrocañón",
+      "Aguante",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Velo Sagrado",
+      "Puño Dinámico",
+      "Relevo",
+      "Otra Vez",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Bola Sombra",
+      "Tormento",
+      "Imagen",
+      "Puño Certero",
+      "Mofa",
+      "Refuerzo",
+      "Truco",
+      "Imitación",
+      "Capa Mágica",
+      "Reciclaje",
+      "Demolición",
+      "Desarme",
+      "Esfuerzo",
+      "Intercambio",
+      "Sellar",
+      "Robo",
+      "Daño Secreto",
+      "Doble Rayo",
+      "Paz Mental",
+      "Don Natural",
+      "Lanzamiento",
+      "Puño Drenaje",
+      "Onda Certera",
+      "Gigaimpacto",
+      "Espacio Raro",
+      "Seducción",
+      "Hierba Lazo",
+      "Telequinesis",
+      "Zona Mágica",
+      "Puntapié",
+      "Juego Sucio",
+      "Canon",
+      "Poder Reserva",
+      "Cambio de Banda",
+      "Infortunio",
+      "Beso Drenaje",
+      "Confidencia",
+      "Brillo Mágico",
+      "Puño Incremento",
+      "Campo Psíquico",
+      "Plancha Corporal",
+      "Vasta Fuerza",
+      "Tera Blast",
+      "Trailblaze",
+      "Psicorruido"
+    ]
+  }
+}

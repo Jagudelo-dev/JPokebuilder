@@ -1,0 +1,178 @@
+{
+  "id": 99,
+  "name": "Kingler",
+  "types": [
+    "Agua"
+  ],
+  "baseStats": {
+    "hp": 55,
+    "atk": 130,
+    "def": 115,
+    "spa": 50,
+    "spd": 50,
+    "spe": 75
+  },
+  "abilities": [
+    "Mandíbula Fuerte",
+    "Armadura Concha",
+    "Sheer Force"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Vice Grip"
+      },
+      {
+        "level": 1,
+        "move": "Malicioso"
+      },
+      {
+        "level": 1,
+        "move": "Pistola Agua"
+      },
+      {
+        "level": 1,
+        "move": "Agilidad"
+      },
+      {
+        "level": 1,
+        "move": "Amnesia"
+      },
+      {
+        "level": 1,
+        "move": "Burbuja"
+      },
+      {
+        "level": 1,
+        "move": "Garra Metal"
+      },
+      {
+        "level": 1,
+        "move": "Chapoteo Lodo"
+      },
+      {
+        "level": 1,
+        "move": "Machada"
+      },
+      {
+        "level": 1,
+        "move": "Vastaguardia"
+      },
+      {
+        "level": 15,
+        "move": "Rayo Burbuja"
+      },
+      {
+        "level": 23,
+        "move": "Disparo Lodo"
+      },
+      {
+        "level": 25,
+        "move": "Guillotina"
+      },
+      {
+        "level": 34,
+        "move": "Pisotón"
+      },
+      {
+        "level": 36,
+        "move": "Concha Filo"
+      },
+      {
+        "level": 38,
+        "move": "Protección"
+      },
+      {
+        "level": 42,
+        "move": "Martillazo"
+      },
+      {
+        "level": 44,
+        "move": "Atizar"
+      },
+      {
+        "level": 48,
+        "move": "Danza Espada"
+      },
+      {
+        "level": 49,
+        "move": "Fortaleza"
+      },
+      {
+        "level": 51,
+        "move": "Salmuera"
+      },
+      {
+        "level": 65,
+        "move": "Azote"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Corte",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Hidrobomba",
+      "Surf",
+      "Rayo Hielo",
+      "Ventisca",
+      "Hiperrayo",
+      "Fuerza",
+      "Excavar",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Venganza",
+      "Descanso",
+      "Avalancha",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Bofetón Lodo",
+      "Viento Hielo",
+      "Aguante",
+      "Falso Tortazo",
+      "Contoneo",
+      "Corte Furia",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Poder Pasado",
+      "Golpe Roca",
+      "Torbellino",
+      "Granizo",
+      "Imagen",
+      "Fuerza Bruta",
+      "Demolición",
+      "Desarme",
+      "Daño Secreto",
+      "Buceo",
+      "Tumba Rocas",
+      "Defensa Férrea",
+      "Hidropulso",
+      "Don Natural",
+      "Lanzamiento",
+      "Tijera X",
+      "Gigaimpacto",
+      "Seducción",
+      "Afilagarras",
+      "Canon",
+      "Cambio de Banda",
+      "Escaldar",
+      "Último Lugar",
+      "Confidencia",
+      "Fuerza Equina",
+      "Giro Vil",
+      "Pataleta",
+      "Hidroariete"
+    ]
+  }
+}

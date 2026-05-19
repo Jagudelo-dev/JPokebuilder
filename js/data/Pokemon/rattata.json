@@ -1,0 +1,154 @@
+{
+  "id": 19,
+  "name": "Rattata",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 30,
+    "atk": 56,
+    "def": 35,
+    "spa": 25,
+    "spd": 35,
+    "spe": 72
+  },
+  "abilities": [
+    "Run Away",
+    "Agallas",
+    "Hustle"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Látigo"
+      },
+      {
+        "level": 7,
+        "move": "Ataque Rápido"
+      },
+      {
+        "level": 10,
+        "move": "Mordisco"
+      },
+      {
+        "level": 13,
+        "move": "Aguzar"
+      },
+      {
+        "level": 14,
+        "move": "Hipercolmillo"
+      },
+      {
+        "level": 16,
+        "move": "Derribo"
+      },
+      {
+        "level": 19,
+        "move": "Golpe Bajo"
+      },
+      {
+        "level": 22,
+        "move": "Triturar"
+      },
+      {
+        "level": 23,
+        "move": "Foco Energía"
+      },
+      {
+        "level": 25,
+        "move": "Buena Baza"
+      },
+      {
+        "level": 27,
+        "move": "Persecución"
+      },
+      {
+        "level": 31,
+        "move": "Doble Filo"
+      },
+      {
+        "level": 34,
+        "move": "Superdiente"
+      },
+      {
+        "level": 41,
+        "move": "Esfuerzo"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Corte",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Pistola Agua",
+      "Rayo Hielo",
+      "Ventisca",
+      "Rayo Burbuja",
+      "Contraataque",
+      "Rayo",
+      "Onda Trueno",
+      "Trueno",
+      "Excavar",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Chirrido",
+      "Doble Equipo",
+      "Rizo Defensa",
+      "Venganza",
+      "Rapidez",
+      "Cabezazo",
+      "Golpes Furia",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Rueda Fuego",
+      "Ronquido",
+      "Maldición",
+      "Inversión",
+      "Protección",
+      "Bomba Lodo",
+      "Bofetón Lodo",
+      "Viento Hielo",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Bola Sombra",
+      "Golpe Roca",
+      "Alboroto",
+      "Imagen",
+      "Mofa",
+      "Desquite",
+      "Daño Secreto",
+      "Antojo",
+      "Onda Voltio",
+      "Don Natural",
+      "Picoteo",
+      "Ida y Vuelta",
+      "Yo Primero",
+      "Última Baza",
+      "Cabezazo Zen",
+      "Seducción",
+      "Hierba Lazo",
+      "Rayo Carga",
+      "Canon",
+      "Represalia",
+      "Sacrificio",
+      "Avivar",
+      "Voltio Cruel",
+      "Confidencia"
+    ]
+  }
+}

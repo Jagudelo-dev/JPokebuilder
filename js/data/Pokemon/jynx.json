@@ -1,0 +1,221 @@
+{
+  "id": 124,
+  "name": "Jynx",
+  "types": [
+    "Hielo",
+    "Psíquico"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "atk": 50,
+    "def": 35,
+    "spa": 115,
+    "spd": 95,
+    "spe": 95
+  },
+  "abilities": [
+    "Oblivious",
+    "Forewarn",
+    "Piel Seca"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Destructor"
+      },
+      {
+        "level": 1,
+        "move": "Beso Amoroso"
+      },
+      {
+        "level": 1,
+        "move": "Nieve Polvo"
+      },
+      {
+        "level": 1,
+        "move": "Beso Dulce"
+      },
+      {
+        "level": 1,
+        "move": "Copión"
+      },
+      {
+        "level": 1,
+        "move": "Beso Drenaje"
+      },
+      {
+        "level": 12,
+        "move": "Confusión"
+      },
+      {
+        "level": 16,
+        "move": "Antojo"
+      },
+      {
+        "level": 18,
+        "move": "Chirrido"
+      },
+      {
+        "level": 18,
+        "move": "Lengüetazo"
+      },
+      {
+        "level": 20,
+        "move": "Canto"
+      },
+      {
+        "level": 21,
+        "move": "Arrumaco"
+      },
+      {
+        "level": 23,
+        "move": "Doble Bofetón"
+      },
+      {
+        "level": 28,
+        "move": "Espabila"
+      },
+      {
+        "level": 31,
+        "move": "Puño Hielo"
+      },
+      {
+        "level": 33,
+        "move": "Alud"
+      },
+      {
+        "level": 35,
+        "move": "Mal de Ojo"
+      },
+      {
+        "level": 39,
+        "move": "Golpe Cuerpo"
+      },
+      {
+        "level": 40,
+        "move": "Psíquico"
+      },
+      {
+        "level": 41,
+        "move": "Llanto Falso"
+      },
+      {
+        "level": 44,
+        "move": "Estrujón"
+      },
+      {
+        "level": 47,
+        "move": "Golpe"
+      },
+      {
+        "level": 51,
+        "move": "Canto Mortal"
+      },
+      {
+        "level": 58,
+        "move": "Ventisca"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Megapatada",
+      "Golpe Cabeza",
+      "Derribo",
+      "Doble Filo",
+      "Pistola Agua",
+      "Rayo Hielo",
+      "Rayo Burbuja",
+      "Hiperrayo",
+      "Sumisión",
+      "Contraataque",
+      "Sísmico",
+      "Tóxico",
+      "Furia",
+      "Teletransporte",
+      "Mimético",
+      "Doble Equipo",
+      "Pantalla de Luz",
+      "Reflejo",
+      "Venganza",
+      "Metrónomo",
+      "Cabezazo",
+      "Comesueños",
+      "Destello",
+      "Psicoonda",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Pesadilla",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bofetón Lodo",
+      "Viento Hielo",
+      "Aguante",
+      "Encanto",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Campana Cura",
+      "Retribución",
+      "Frustración",
+      "Puño Dinámico",
+      "Otra Vez",
+      "Dulce Aroma",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Más Psique",
+      "Bola Sombra",
+      "Premonición",
+      "Alboroto",
+      "Granizo",
+      "Tormento",
+      "Imagen",
+      "Puño Certero",
+      "Mofa",
+      "Refuerzo",
+      "Truco",
+      "Imitación",
+      "Capa Mágica",
+      "Reciclaje",
+      "Demolición",
+      "Intercambio",
+      "Daño Secreto",
+      "Vozarrón",
+      "Doble Rayo",
+      "Carámbano",
+      "Paz Mental",
+      "Hidropulso",
+      "Don Natural",
+      "Vendetta",
+      "Lanzamiento",
+      "Puño Drenaje",
+      "Onda Certera",
+      "Energibola",
+      "Gigaimpacto",
+      "Maquinación",
+      "Psicocorte",
+      "Cabezazo Zen",
+      "Espacio Raro",
+      "Seducción",
+      "Hierba Lazo",
+      "Zona Extraña",
+      "Psicocarga",
+      "Telequinesis",
+      "Zona Mágica",
+      "Canon",
+      "Eco Voz",
+      "Poder Reserva",
+      "Cambio de Banda",
+      "Vaho Gélido",
+      "Confidencia",
+      "Puño Incremento",
+      "Campo Psíquico",
+      "Velo Aurora",
+      "Vasta Fuerza",
+      "Triple Axel"
+    ]
+  }
+}

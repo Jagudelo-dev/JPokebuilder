@@ -1,0 +1,162 @@
+{
+  "id": 44,
+  "name": "Gloom",
+  "types": [
+    "Planta",
+    "Veneno"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "atk": 65,
+    "def": 70,
+    "spa": 85,
+    "spd": 75,
+    "spe": 40
+  },
+  "abilities": [
+    "Clorofila",
+    "Stench"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Absorber"
+      },
+      {
+        "level": 1,
+        "move": "Desarrollo"
+      },
+      {
+        "level": 1,
+        "move": "Polvo Veneno"
+      },
+      {
+        "level": 1,
+        "move": "Paralizador"
+      },
+      {
+        "level": 1,
+        "move": "Dulce Aroma"
+      },
+      {
+        "level": 18,
+        "move": "Hoja Afilada"
+      },
+      {
+        "level": 19,
+        "move": "Somnífero"
+      },
+      {
+        "level": 23,
+        "move": "Megaagotar"
+      },
+      {
+        "level": 28,
+        "move": "Ácido"
+      },
+      {
+        "level": 29,
+        "move": "Conjuro"
+      },
+      {
+        "level": 35,
+        "move": "Luz Lunar"
+      },
+      {
+        "level": 35,
+        "move": "Don Natural"
+      },
+      {
+        "level": 38,
+        "move": "Danza Pétalo"
+      },
+      {
+        "level": 39,
+        "move": "Tóxico"
+      },
+      {
+        "level": 45,
+        "move": "Fuerza Lunar"
+      },
+      {
+        "level": 47,
+        "move": "Gigadrenado"
+      },
+      {
+        "level": 50,
+        "move": "Tormenta Floral"
+      },
+      {
+        "level": 52,
+        "move": "Rayo Solar"
+      },
+      {
+        "level": 56,
+        "move": "Campo de Hierba"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Danza Espada",
+      "Corte",
+      "Golpe Cabeza",
+      "Derribo",
+      "Doble Filo",
+      "Drenadoras",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Reflejo",
+      "Venganza",
+      "Destello",
+      "Descanso",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Azote",
+      "Protección",
+      "Bomba Lodo",
+      "Aguante",
+      "Encanto",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Síntesis",
+      "Poder Oculto",
+      "Día Soleado",
+      "Imagen",
+      "Adaptación",
+      "Refuerzo",
+      "Arraigo",
+      "Daño Secreto",
+      "Danza Caos",
+      "Cosquillas",
+      "Semilladora",
+      "Hoja Mágica",
+      "Lanzamiento",
+      "Bilis",
+      "Abatidoras",
+      "Bomba Germen",
+      "Puño Drenaje",
+      "Energibola",
+      "Lluevehojas",
+      "Seducción",
+      "Hierba Lazo",
+      "Carga Tóxica",
+      "Bomba Ácida",
+      "Cede Paso",
+      "Canon",
+      "Confidencia",
+      "Brillo Mágico",
+      "Acoso",
+      "Absorbefuerza",
+      "Bola de Polen",
+      "Fitoimpulso",
+      "Tera Blast",
+      "Trailblaze"
+    ]
+  }
+}

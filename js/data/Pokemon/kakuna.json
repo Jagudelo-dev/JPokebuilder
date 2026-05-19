@@ -1,0 +1,34 @@
+{
+  "id": 14,
+  "name": "Kakuna",
+  "types": [
+    "Bicho",
+    "Veneno"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "atk": 25,
+    "def": 50,
+    "spa": 25,
+    "spd": 25,
+    "spe": 35
+  },
+  "abilities": [
+    "Mudar"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Fortaleza"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Disparo Demora",
+      "Defensa Férrea",
+      "Picadura",
+      "Electrotela"
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "id": 146,
+  "name": "Moltres",
+  "types": [
+    "Fuego",
+    "Volador"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "atk": 100,
+    "def": 90,
+    "spa": 125,
+    "spd": 85,
+    "spe": 90
+  },
+  "abilities": [
+    "Presión",
+    "Flame Body"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Tornado"
+      },
+      {
+        "level": 1,
+        "move": "Ataque Ala"
+      },
+      {
+        "level": 1,
+        "move": "Ascuas"
+      },
+      {
+        "level": 1,
+        "move": "Picotazo"
+      },
+      {
+        "level": 1,
+        "move": "Giro Fuego"
+      },
+      {
+        "level": 29,
+        "move": "Poder Pasado"
+      },
+      {
+        "level": 30,
+        "move": "Calcinación"
+      },
+      {
+        "level": 37,
+        "move": "Aguante"
+      },
+      {
+        "level": 49,
+        "move": "Lanzallamas"
+      },
+      {
+        "level": 50,
+        "move": "Tajo Aéreo"
+      },
+      {
+        "level": 51,
+        "move": "Malicioso"
+      },
+      {
+        "level": 55,
+        "move": "Agilidad"
+      },
+      {
+        "level": 57,
+        "move": "Respiro"
+      },
+      {
+        "level": 60,
+        "move": "Ataque Aéreo"
+      },
+      {
+        "level": 61,
+        "move": "Velo Sagrado"
+      },
+      {
+        "level": 65,
+        "move": "Sofoco"
+      },
+      {
+        "level": 71,
+        "move": "Rayo Solar"
+      },
+      {
+        "level": 73,
+        "move": "Onda Ígnea"
+      },
+      {
+        "level": 85,
+        "move": "Día Soleado"
+      },
+      {
+        "level": 92,
+        "move": "Vendaval"
+      },
+      {
+        "level": 99,
+        "move": "Llama Final"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Viento Cortante",
+      "Remolino",
+      "Vuelo",
+      "Golpe Cabeza",
+      "Derribo",
+      "Doble Filo",
+      "Rugido",
+      "Hiperrayo",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Reflejo",
+      "Venganza",
+      "Llamarada",
+      "Rapidez",
+      "Descanso",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bofetón Lodo",
+      "Detección",
+      "Tormenta Arena",
+      "Contoneo",
+      "Ala de Acero",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Sol Matinal",
+      "Poder Oculto",
+      "Ciclón",
+      "Danza Lluvia",
+      "Golpe Roca",
+      "Fuego Fatuo",
+      "Imagen",
+      "Refuerzo",
+      "Daño Secreto",
+      "Meteorobola",
+      "Aire Afilado",
+      "Paranormal",
+      "Golpe Aéreo",
+      "Don Natural",
+      "Picoteo",
+      "Viento Afín",
+      "Ida y Vuelta",
+      "Envite Ígneo",
+      "Pájaro Osado",
+      "Gigaimpacto",
+      "Despejar",
+      "Viento Aciago",
+      "Nitrocarga",
+      "Canon",
+      "Caída Libre",
+      "Acróbata",
+      "Confidencia",
+      "Llama Embrujada",
+      "Aguzar",
+      "Envidia Ardiente",
+      "Ala Bis",
+      "Arenas Ardientes",
+      "Tera Blast",
+      "Cólera Ardiente"
+    ]
+  }
+}

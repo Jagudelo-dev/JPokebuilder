@@ -1,0 +1,207 @@
+{
+  "id": 24,
+  "name": "Arbok",
+  "types": [
+    "Veneno"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "atk": 95,
+    "def": 69,
+    "spa": 65,
+    "spd": 79,
+    "spe": 80
+  },
+  "abilities": [
+    "Intimidación",
+    "Mudar",
+    "Unnerve"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Constricción"
+      },
+      {
+        "level": 1,
+        "move": "Picotazo Veneno"
+      },
+      {
+        "level": 1,
+        "move": "Malicioso"
+      },
+      {
+        "level": 1,
+        "move": "Golpe Bajo"
+      },
+      {
+        "level": 1,
+        "move": "Colmillo Rayo"
+      },
+      {
+        "level": 1,
+        "move": "Colmillo Hielo"
+      },
+      {
+        "level": 1,
+        "move": "Colmillo Ígneo"
+      },
+      {
+        "level": 17,
+        "move": "Mordisco"
+      },
+      {
+        "level": 22,
+        "move": "Triturar"
+      },
+      {
+        "level": 27,
+        "move": "Deslumbrar"
+      },
+      {
+        "level": 28,
+        "move": "Puya Nociva"
+      },
+      {
+        "level": 32,
+        "move": "Bomba Ácida"
+      },
+      {
+        "level": 34,
+        "move": "Bomba Fango"
+      },
+      {
+        "level": 36,
+        "move": "Atizar"
+      },
+      {
+        "level": 36,
+        "move": "Chirrido"
+      },
+      {
+        "level": 39,
+        "move": "Bomba Lodo"
+      },
+      {
+        "level": 42,
+        "move": "Bilis"
+      },
+      {
+        "level": 46,
+        "move": "Reserva"
+      },
+      {
+        "level": 46,
+        "move": "Escupir"
+      },
+      {
+        "level": 46,
+        "move": "Tragar"
+      },
+      {
+        "level": 47,
+        "move": "Ácido"
+      },
+      {
+        "level": 48,
+        "move": "Eructo"
+      },
+      {
+        "level": 51,
+        "move": "Niebla"
+      },
+      {
+        "level": 52,
+        "move": "Tóxico"
+      },
+      {
+        "level": 56,
+        "move": "Lanzamugre"
+      },
+      {
+        "level": 56,
+        "move": "Enrosque"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Atadura",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Hiperrayo",
+      "Fuerza",
+      "Megaagotar",
+      "Terremoto",
+      "Fisura",
+      "Excavar",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Venganza",
+      "Cabezazo",
+      "Chupavidas",
+      "Descanso",
+      "Avalancha",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Rencor",
+      "Protección",
+      "Cara Susto",
+      "Bofetón Lodo",
+      "Gigadrenado",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Divide Dolor",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Tormento",
+      "Imagen",
+      "Desarme",
+      "Alivio",
+      "Robo",
+      "Daño Secreto",
+      "Colmillo Veneno",
+      "Tumba Rocas",
+      "Disparo Lodo",
+      "Cola Veneno",
+      "Don Natural",
+      "Vendetta",
+      "Púas Tóxicas",
+      "Pulso Umbrío",
+      "Acua Cola",
+      "Bomba Germen",
+      "Trapicheo",
+      "Gigaimpacto",
+      "Seducción",
+      "Carga Tóxica",
+      "Onda Tóxica",
+      "Canon",
+      "Terratemblor",
+      "Cola Dragón",
+      "Alarido",
+      "Confidencia",
+      "Acoso",
+      "Golpe Mordaza",
+      "Giro Vil",
+      "Psicocolmillo",
+      "Pataleta",
+      "Vasto Impacto",
+      "Ráfaga Escamas",
+      "Golpe Rastrero",
+      "Desahogo",
+      "Tera Blast",
+      "Trailblaze"
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "id": 66,
+  "name": "Machop",
+  "types": [
+    "Lucha"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "atk": 80,
+    "def": 50,
+    "spa": 35,
+    "spd": 35,
+    "spe": 35
+  },
+  "abilities": [
+    "Agallas",
+    "Indefenso",
+    "Firmeza"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Golpe Kárate"
+      },
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 6,
+        "move": "Golpe Roca"
+      },
+      {
+        "level": 8,
+        "move": "Venganza"
+      },
+      {
+        "level": 11,
+        "move": "Puño Bala"
+      },
+      {
+        "level": 13,
+        "move": "Puntapié"
+      },
+      {
+        "level": 18,
+        "move": "Doble Golpe"
+      },
+      {
+        "level": 20,
+        "move": "Patada Baja"
+      },
+      {
+        "level": 21,
+        "move": "Demolición"
+      },
+      {
+        "level": 21,
+        "move": "Desarme"
+      },
+      {
+        "level": 22,
+        "move": "Ultrapuño"
+      },
+      {
+        "level": 25,
+        "move": "Malicioso"
+      },
+      {
+        "level": 25,
+        "move": "Profecía"
+      },
+      {
+        "level": 25,
+        "move": "Desquite"
+      },
+      {
+        "level": 29,
+        "move": "Fuerza"
+      },
+      {
+        "level": 31,
+        "move": "Tiro Vital"
+      },
+      {
+        "level": 31,
+        "move": "Golpe Bis"
+      },
+      {
+        "level": 32,
+        "move": "Foco Energía"
+      },
+      {
+        "level": 34,
+        "move": "Espabila"
+      },
+      {
+        "level": 36,
+        "move": "Fuerza Bruta"
+      },
+      {
+        "level": 37,
+        "move": "Tajo Cruzado"
+      },
+      {
+        "level": 37,
+        "move": "Corpulencia"
+      },
+      {
+        "level": 39,
+        "move": "Sísmico"
+      },
+      {
+        "level": 43,
+        "move": "Cara Susto"
+      },
+      {
+        "level": 43,
+        "move": "A Bocajarro"
+      },
+      {
+        "level": 46,
+        "move": "Sumisión"
+      },
+      {
+        "level": 49,
+        "move": "Puño Dinámico"
+      },
+      {
+        "level": 52,
+        "move": "Doble Filo"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Puño Fuego",
+      "Puño Hielo",
+      "Puño Trueno",
+      "Megapatada",
+      "Patada Giro",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Lanzallamas",
+      "Contraataque",
+      "Terremoto",
+      "Fisura",
+      "Excavar",
+      "Tóxico",
+      "Meditación",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Pantalla de Luz",
+      "Metrónomo",
+      "Llamarada",
+      "Cabezazo",
+      "Descanso",
+      "Avalancha",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Inversión",
+      "Protección",
+      "Bofetón Lodo",
+      "Detección",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Otra Vez",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Imagen",
+      "Puño Certero",
+      "Estímulo",
+      "Refuerzo",
+      "Imitación",
+      "Daño Secreto",
+      "Tumba Rocas",
+      "Cosquillas",
+      "Don Natural",
+      "Vendetta",
+      "Lanzamiento",
+      "Truco Fuerza",
+      "Puya Nociva",
+      "Onda Vacío",
+      "Onda Certera",
+      "Treparrocas",
+      "Seducción",
+      "Antiaéreo",
+      "Cuerpo Pesado",
+      "Canon",
+      "Anticipo",
+      "Calcinación",
+      "Represalia",
+      "Terratemblor",
+      "Avivar",
+      "Confidencia",
+      "Puño Incremento",
+      "Motivación"
+    ]
+  }
+}

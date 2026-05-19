@@ -1,0 +1,180 @@
+{
+  "id": 85,
+  "name": "Dodrio",
+  "types": [
+    "Normal",
+    "Volador"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "atk": 110,
+    "def": 70,
+    "spa": 60,
+    "spd": 60,
+    "spe": 110
+  },
+  "abilities": [
+    "Run Away",
+    "Madrugar",
+    "Tangled Feet"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Ataque Furia"
+      },
+      {
+        "level": 1,
+        "move": "Gruñido"
+      },
+      {
+        "level": 1,
+        "move": "Supersónico"
+      },
+      {
+        "level": 1,
+        "move": "Picotazo"
+      },
+      {
+        "level": 1,
+        "move": "Ataque Rápido"
+      },
+      {
+        "level": 1,
+        "move": "Espejo"
+      },
+      {
+        "level": 1,
+        "move": "Persecución"
+      },
+      {
+        "level": 1,
+        "move": "Picoteo"
+      },
+      {
+        "level": 8,
+        "move": "Malicioso"
+      },
+      {
+        "level": 15,
+        "move": "Ataque Ala"
+      },
+      {
+        "level": 22,
+        "move": "Doble Golpe"
+      },
+      {
+        "level": 28,
+        "move": "Acupresión"
+      },
+      {
+        "level": 30,
+        "move": "Pico Taladro"
+      },
+      {
+        "level": 38,
+        "move": "Danza Espada"
+      },
+      {
+        "level": 38,
+        "move": "Alboroto"
+      },
+      {
+        "level": 39,
+        "move": "Furia"
+      },
+      {
+        "level": 43,
+        "move": "Patada Salto"
+      },
+      {
+        "level": 43,
+        "move": "Plancha"
+      },
+      {
+        "level": 45,
+        "move": "Triataque"
+      },
+      {
+        "level": 51,
+        "move": "Agilidad"
+      },
+      {
+        "level": 54,
+        "move": "Esfuerzo"
+      },
+      {
+        "level": 60,
+        "move": "Golpe"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Remolino",
+      "Vuelo",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Hiperrayo",
+      "Patada Baja",
+      "Tóxico",
+      "Mimético",
+      "Doble Equipo",
+      "Reflejo",
+      "Venganza",
+      "Rapidez",
+      "Cabezazo",
+      "Ataque Aéreo",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Azote",
+      "Protección",
+      "Cara Susto",
+      "Bofetón Lodo",
+      "Aguante",
+      "Contoneo",
+      "Ala de Acero",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Relevo",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Tormento",
+      "Imagen",
+      "Mofa",
+      "Refuerzo",
+      "Desarme",
+      "Daño Secreto",
+      "Danza Pluma",
+      "Aire Afilado",
+      "Golpe Aéreo",
+      "Respiro",
+      "Don Natural",
+      "Viento Afín",
+      "Vendetta",
+      "Buena Baza",
+      "Pájaro Osado",
+      "Gigaimpacto",
+      "Seducción",
+      "Canon",
+      "Eco Voz",
+      "Acróbata",
+      "Avivar",
+      "Taladradora",
+      "Confidencia",
+      "Golpe Mordaza",
+      "Pataleta",
+      "Tera Blast",
+      "Pounce",
+      "Trailblaze"
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": 33,
+  "name": "Nidorino",
+  "types": [
+    "Veneno"
+  ],
+  "baseStats": {
+    "hp": 61,
+    "atk": 72,
+    "def": 57,
+    "spa": 55,
+    "spd": 55,
+    "spe": 65
+  },
+  "abilities": [
+    "Poison Point",
+    "Rivalry",
+    "Hustle"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Cornada"
+      },
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Malicioso"
+      },
+      {
+        "level": 1,
+        "move": "Picotazo"
+      },
+      {
+        "level": 14,
+        "move": "Picotazo Veneno"
+      },
+      {
+        "level": 23,
+        "move": "Tóxico"
+      },
+      {
+        "level": 23,
+        "move": "Foco Energía"
+      },
+      {
+        "level": 26,
+        "move": "Refuerzo"
+      },
+      {
+        "level": 32,
+        "move": "Ataque Furia"
+      },
+      {
+        "level": 35,
+        "move": "Púas Tóxicas"
+      },
+      {
+        "level": 41,
+        "move": "Perforador"
+      },
+      {
+        "level": 43,
+        "move": "Camelo"
+      },
+      {
+        "level": 43,
+        "move": "Puya Nociva"
+      },
+      {
+        "level": 50,
+        "move": "Doble Patada"
+      },
+      {
+        "level": 50,
+        "move": "Seducción"
+      },
+      {
+        "level": 71,
+        "move": "Tierra Viva"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Corte",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Pistola Agua",
+      "Rayo Hielo",
+      "Ventisca",
+      "Rayo Burbuja",
+      "Contraataque",
+      "Fuerza",
+      "Rayo",
+      "Trueno",
+      "Excavar",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Rizo Defensa",
+      "Reflejo",
+      "Venganza",
+      "Cabezazo",
+      "Amnesia",
+      "Descanso",
+      "Superdiente",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bomba Lodo",
+      "Bofetón Lodo",
+      "Detección",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Golpe Roca",
+      "Paliza",
+      "Imagen",
+      "Daño Secreto",
+      "Onda Voltio",
+      "Hidropulso",
+      "Don Natural",
+      "Golpe Bajo",
+      "Garra Umbría",
+      "Afilagarras",
+      "Carga Tóxica",
+      "Canon",
+      "Eco Voz",
+      "Taladradora",
+      "Confidencia",
+      "Trampa Venenosa",
+      "Cuerno Certero",
+      "Pataleta"
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": 58,
+  "name": "Growlithe",
+  "types": [
+    "Fuego"
+  ],
+  "baseStats": {
+    "hp": 55,
+    "atk": 70,
+    "def": 45,
+    "spa": 70,
+    "spd": 50,
+    "spe": 60
+  },
+  "abilities": [
+    "Intimidación",
+    "Absorbe Fuego",
+    "Justiciero"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Mordisco"
+      },
+      {
+        "level": 1,
+        "move": "Rugido"
+      },
+      {
+        "level": 4,
+        "move": "Aullido"
+      },
+      {
+        "level": 18,
+        "move": "Ascuas"
+      },
+      {
+        "level": 19,
+        "move": "Rastreo"
+      },
+      {
+        "level": 23,
+        "move": "Malicioso"
+      },
+      {
+        "level": 25,
+        "move": "Inversión"
+      },
+      {
+        "level": 28,
+        "move": "Colmillo Ígneo"
+      },
+      {
+        "level": 30,
+        "move": "Derribo"
+      },
+      {
+        "level": 31,
+        "move": "Pirotecnia"
+      },
+      {
+        "level": 34,
+        "move": "Rueda Fuego"
+      },
+      {
+        "level": 35,
+        "move": "Carantoña"
+      },
+      {
+        "level": 37,
+        "move": "Refuerzo"
+      },
+      {
+        "level": 39,
+        "move": "Agilidad"
+      },
+      {
+        "level": 42,
+        "move": "Triturar"
+      },
+      {
+        "level": 43,
+        "move": "Enfado"
+      },
+      {
+        "level": 45,
+        "move": "Onda Ígnea"
+      },
+      {
+        "level": 48,
+        "move": "Envite Ígneo"
+      },
+      {
+        "level": 48,
+        "move": "Represalia"
+      },
+      {
+        "level": 50,
+        "move": "Lanzallamas"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Doble Patada",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Golpe",
+      "Doble Filo",
+      "Fuerza",
+      "Furia Dragón",
+      "Giro Fuego",
+      "Excavar",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Reflejo",
+      "Venganza",
+      "Llamarada",
+      "Rapidez",
+      "Cabezazo",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Cara Susto",
+      "Bofetón Lodo",
+      "Aguante",
+      "Encanto",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Velo Sagrado",
+      "Dragoaliento",
+      "Cola Férrea",
+      "Sol Matinal",
+      "Poder Oculto",
+      "Día Soleado",
+      "Golpe Roca",
+      "Fuego Fatuo",
+      "Imagen",
+      "Daño Secreto",
+      "Sofoco",
+      "Golpe Aéreo",
+      "Antojo",
+      "Don Natural",
+      "A Bocajarro",
+      "Colmillo Rayo",
+      "Seducción",
+      "Nitrocarga",
+      "Canon",
+      "Calcinación",
+      "Voltio Cruel",
+      "Alarido",
+      "Confidencia",
+      "Llama Final",
+      "Psicocolmillo",
+      "Raging Fury",
+      "Tera Blast",
+      "Cólera Ardiente"
+    ]
+  }
+}

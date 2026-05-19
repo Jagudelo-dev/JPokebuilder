@@ -1,0 +1,193 @@
+{
+  "id": 103,
+  "name": "Exeggutor",
+  "types": [
+    "Planta",
+    "Psíquico"
+  ],
+  "baseStats": {
+    "hp": 95,
+    "atk": 95,
+    "def": 85,
+    "spa": 125,
+    "spd": 75,
+    "spe": 55
+  },
+  "abilities": [
+    "Clorofila",
+    "Harvest"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Absorber"
+      },
+      {
+        "level": 1,
+        "move": "Megaagotar"
+      },
+      {
+        "level": 1,
+        "move": "Drenadoras"
+      },
+      {
+        "level": 1,
+        "move": "Rayo Solar"
+      },
+      {
+        "level": 1,
+        "move": "Paralizador"
+      },
+      {
+        "level": 1,
+        "move": "Confusión"
+      },
+      {
+        "level": 1,
+        "move": "Hipnosis"
+      },
+      {
+        "level": 1,
+        "move": "Reflejo"
+      },
+      {
+        "level": 1,
+        "move": "Bombardeo"
+      },
+      {
+        "level": 1,
+        "move": "Gigadrenado"
+      },
+      {
+        "level": 1,
+        "move": "Síntesis"
+      },
+      {
+        "level": 1,
+        "move": "Alboroto"
+      },
+      {
+        "level": 1,
+        "move": "Paranormal"
+      },
+      {
+        "level": 1,
+        "move": "Semilladora"
+      },
+      {
+        "level": 1,
+        "move": "Abatidoras"
+      },
+      {
+        "level": 1,
+        "move": "Bomba Germen"
+      },
+      {
+        "level": 1,
+        "move": "Latigazo"
+      },
+      {
+        "level": 17,
+        "move": "Psicocarga"
+      },
+      {
+        "level": 28,
+        "move": "Pisotón"
+      },
+      {
+        "level": 31,
+        "move": "Bomba Huevo"
+      },
+      {
+        "level": 37,
+        "move": "Mazazo"
+      },
+      {
+        "level": 47,
+        "move": "Lluevehojas"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Danza Espada",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Psicorrayo",
+      "Hiperrayo",
+      "Patada Baja",
+      "Fuerza",
+      "Terremoto",
+      "Tóxico",
+      "Psíquico",
+      "Furia",
+      "Teletransporte",
+      "Mimético",
+      "Doble Equipo",
+      "Pantalla de Luz",
+      "Venganza",
+      "Autodestrucción",
+      "Comesueños",
+      "Destello",
+      "Psicoonda",
+      "Explosión",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Pesadilla",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bomba Lodo",
+      "Aguante",
+      "Rodar",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Poder Oculto",
+      "Día Soleado",
+      "Más Psique",
+      "Poder Pasado",
+      "Premonición",
+      "Imagen",
+      "Adaptación",
+      "Refuerzo",
+      "Truco",
+      "Intercambio",
+      "Sellar",
+      "Alivio",
+      "Daño Secreto",
+      "Bloqueo",
+      "Hoja Mágica",
+      "Paz Mental",
+      "Gravedad",
+      "Don Natural",
+      "Cambiafuerza",
+      "Energibola",
+      "Gigaimpacto",
+      "Psicocorte",
+      "Cabezazo Zen",
+      "Espacio Raro",
+      "Seducción",
+      "Hierba Lazo",
+      "Telequinesis",
+      "Canon",
+      "Poder Reserva",
+      "Terratemblor",
+      "Campo de Hierba",
+      "Confidencia",
+      "Acoso",
+      "Campo Psíquico",
+      "Pataleta",
+      "Vasta Fuerza",
+      "Fitoimpulso",
+      "Pulso de Campo",
+      "Tera Blast",
+      "Psicorruido"
+    ]
+  }
+}

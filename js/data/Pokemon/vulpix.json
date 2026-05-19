@@ -1,0 +1,192 @@
+{
+  "id": 37,
+  "name": "Vulpix",
+  "types": [
+    "Fuego"
+  ],
+  "baseStats": {
+    "hp": 38,
+    "atk": 41,
+    "def": 40,
+    "spa": 50,
+    "spd": 65,
+    "spe": 65
+  },
+  "abilities": [
+    "Absorbe Fuego",
+    "Sequía"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Látigo"
+      },
+      {
+        "level": 1,
+        "move": "Ascuas"
+      },
+      {
+        "level": 4,
+        "move": "Anulación"
+      },
+      {
+        "level": 9,
+        "move": "Maquinación"
+      },
+      {
+        "level": 9,
+        "move": "Ojitos Tiernos"
+      },
+      {
+        "level": 12,
+        "move": "Rencor"
+      },
+      {
+        "level": 15,
+        "move": "Rueda Fuego"
+      },
+      {
+        "level": 16,
+        "move": "Ataque Rápido"
+      },
+      {
+        "level": 16,
+        "move": "Calcinación"
+      },
+      {
+        "level": 17,
+        "move": "Fuego Fatuo"
+      },
+      {
+        "level": 20,
+        "move": "Finta"
+      },
+      {
+        "level": 21,
+        "move": "Rugido"
+      },
+      {
+        "level": 24,
+        "move": "Pirotecnia"
+      },
+      {
+        "level": 25,
+        "move": "Velo Sagrado"
+      },
+      {
+        "level": 25,
+        "move": "Sellar"
+      },
+      {
+        "level": 28,
+        "move": "Rayo Confuso"
+      },
+      {
+        "level": 28,
+        "move": "Infortunio"
+      },
+      {
+        "level": 31,
+        "move": "Vendetta"
+      },
+      {
+        "level": 35,
+        "move": "Lanzallamas"
+      },
+      {
+        "level": 37,
+        "move": "Rabia"
+      },
+      {
+        "level": 37,
+        "move": "Seducción"
+      },
+      {
+        "level": 42,
+        "move": "Giro Fuego"
+      },
+      {
+        "level": 44,
+        "move": "Paranormal"
+      },
+      {
+        "level": 44,
+        "move": "Infierno"
+      },
+      {
+        "level": 47,
+        "move": "Llamarada"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Excavar",
+      "Tóxico",
+      "Hipnosis",
+      "Agilidad",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Reflejo",
+      "Venganza",
+      "Rapidez",
+      "Cabezazo",
+      "Descanso",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Azote",
+      "Protección",
+      "Aguante",
+      "Encanto",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Divide Dolor",
+      "Relevo",
+      "Otra Vez",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Día Soleado",
+      "Más Psique",
+      "Onda Ígnea",
+      "Legado",
+      "Imagen",
+      "Refuerzo",
+      "Imitación",
+      "Daño Secreto",
+      "Meteorobola",
+      "Sofoco",
+      "Aullido",
+      "Antojo",
+      "Deseo Cura",
+      "Don Natural",
+      "Cambiafuerza",
+      "Envite Ígneo",
+      "Pulso Umbrío",
+      "Energibola",
+      "Cabezazo Zen",
+      "Viento Aciago",
+      "Nitrocarga",
+      "Juego Sucio",
+      "Canon",
+      "Plumerazo",
+      "Alarido",
+      "Confidencia",
+      "Llama Embrujada",
+      "Envidia Ardiente",
+      "Tera Blast"
+    ]
+  }
+}

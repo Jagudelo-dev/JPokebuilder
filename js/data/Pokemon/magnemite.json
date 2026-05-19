@@ -1,0 +1,165 @@
+{
+  "id": 81,
+  "name": "Magnemite",
+  "types": [
+    "Eléctrico",
+    "Acero"
+  ],
+  "baseStats": {
+    "hp": 25,
+    "atk": 35,
+    "def": 70,
+    "spa": 95,
+    "spd": 55,
+    "spe": 45
+  },
+  "abilities": [
+    "Magnet Pull",
+    "Robustez",
+    "Analytic"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Eco Metálico"
+      },
+      {
+        "level": 13,
+        "move": "Pantalla de Luz"
+      },
+      {
+        "level": 21,
+        "move": "Bomba Sónica"
+      },
+      {
+        "level": 25,
+        "move": "Impactrueno"
+      },
+      {
+        "level": 26,
+        "move": "Rayo"
+      },
+      {
+        "level": 26,
+        "move": "Chispa"
+      },
+      {
+        "level": 27,
+        "move": "Fijar Blanco"
+      },
+      {
+        "level": 27,
+        "move": "Bola Voltio"
+      },
+      {
+        "level": 29,
+        "move": "Supersónico"
+      },
+      {
+        "level": 30,
+        "move": "Bomba Imán"
+      },
+      {
+        "level": 35,
+        "move": "Onda Trueno"
+      },
+      {
+        "level": 35,
+        "move": "Foco Resplandor"
+      },
+      {
+        "level": 38,
+        "move": "Chispazo"
+      },
+      {
+        "level": 41,
+        "move": "Rapidez"
+      },
+      {
+        "level": 43,
+        "move": "Disparo Espejo"
+      },
+      {
+        "level": 44,
+        "move": "Trueno"
+      },
+      {
+        "level": 45,
+        "move": "Electrocañón"
+      },
+      {
+        "level": 46,
+        "move": "Levitón"
+      },
+      {
+        "level": 47,
+        "move": "Chirrido"
+      },
+      {
+        "level": 49,
+        "move": "Giro Bola"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Golpe Cabeza",
+      "Derribo",
+      "Doble Filo",
+      "Tóxico",
+      "Furia",
+      "Teletransporte",
+      "Mimético",
+      "Doble Equipo",
+      "Rayo Confuso",
+      "Reflejo",
+      "Venganza",
+      "Destello",
+      "Explosión",
+      "Descanso",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Tormenta Arena",
+      "Aguante",
+      "Rodar",
+      "Contoneo",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Más Psique",
+      "Imagen",
+      "Carga",
+      "Refuerzo",
+      "Capa Mágica",
+      "Reciclaje",
+      "Daño Secreto",
+      "Doble Rayo",
+      "Defensa Férrea",
+      "Onda Voltio",
+      "Gravedad",
+      "Don Natural",
+      "Cabeza de Hierro",
+      "Rayo Carga",
+      "Cuerpo Pesado",
+      "Canon",
+      "Voltiocambio",
+      "Electrotela",
+      "Voltio Cruel",
+      "Confidencia",
+      "Onda Anómala",
+      "Campo Eléctrico",
+      "Metaláser",
+      "Alto Voltaje",
+      "Tera Blast"
+    ]
+  }
+}

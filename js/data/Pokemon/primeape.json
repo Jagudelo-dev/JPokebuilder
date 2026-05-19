@@ -1,0 +1,229 @@
+{
+  "id": 57,
+  "name": "Primeape",
+  "types": [
+    "Lucha"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "atk": 105,
+    "def": 60,
+    "spa": 60,
+    "spd": 70,
+    "spe": 95
+  },
+  "abilities": [
+    "Espíritu Vital",
+    "Irascible",
+    "Defiant"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Golpe Kárate"
+      },
+      {
+        "level": 1,
+        "move": "Arañazo"
+      },
+      {
+        "level": 1,
+        "move": "Malicioso"
+      },
+      {
+        "level": 1,
+        "move": "Patada Baja"
+      },
+      {
+        "level": 1,
+        "move": "Contraataque"
+      },
+      {
+        "level": 1,
+        "move": "Golpes Furia"
+      },
+      {
+        "level": 1,
+        "move": "Otra Vez"
+      },
+      {
+        "level": 1,
+        "move": "Mofa"
+      },
+      {
+        "level": 1,
+        "move": "Antojo"
+      },
+      {
+        "level": 1,
+        "move": "Lanzamiento"
+      },
+      {
+        "level": 8,
+        "move": "Bofetón Lodo"
+      },
+      {
+        "level": 12,
+        "move": "Persecución"
+      },
+      {
+        "level": 15,
+        "move": "Represalia"
+      },
+      {
+        "level": 25,
+        "move": "Buena Baza"
+      },
+      {
+        "level": 27,
+        "move": "Foco Energía"
+      },
+      {
+        "level": 28,
+        "move": "Furia"
+      },
+      {
+        "level": 30,
+        "move": "Cabezazo"
+      },
+      {
+        "level": 33,
+        "move": "Ida y Vuelta"
+      },
+      {
+        "level": 35,
+        "move": "Rage Fist"
+      },
+      {
+        "level": 37,
+        "move": "Sísmico"
+      },
+      {
+        "level": 44,
+        "move": "Contoneo"
+      },
+      {
+        "level": 45,
+        "move": "Chirrido"
+      },
+      {
+        "level": 45,
+        "move": "Tajo Cruzado"
+      },
+      {
+        "level": 46,
+        "move": "Golpe"
+      },
+      {
+        "level": 48,
+        "move": "Pataleta"
+      },
+      {
+        "level": 53,
+        "move": "Enfado"
+      },
+      {
+        "level": 53,
+        "move": "Castigo"
+      },
+      {
+        "level": 59,
+        "move": "A Bocajarro"
+      },
+      {
+        "level": 63,
+        "move": "Sacrificio"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Día de Pago",
+      "Puño Fuego",
+      "Puño Hielo",
+      "Puño Trueno",
+      "Megapatada",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Hiperrayo",
+      "Sumisión",
+      "Fuerza",
+      "Rayo",
+      "Trueno",
+      "Terremoto",
+      "Excavar",
+      "Tóxico",
+      "Mimético",
+      "Doble Equipo",
+      "Rizo Defensa",
+      "Venganza",
+      "Metrónomo",
+      "Rapidez",
+      "Descanso",
+      "Avalancha",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Inversión",
+      "Rencor",
+      "Protección",
+      "Cara Susto",
+      "Detección",
+      "Aguante",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Puño Dinámico",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Más Psique",
+      "Golpe Roca",
+      "Alboroto",
+      "Imagen",
+      "Puño Certero",
+      "Refuerzo",
+      "Imitación",
+      "Demolición",
+      "Esfuerzo",
+      "Daño Secreto",
+      "Sofoco",
+      "Tumba Rocas",
+      "Golpe Aéreo",
+      "Corpulencia",
+      "Don Natural",
+      "Vendetta",
+      "Puya Nociva",
+      "Bomba Germen",
+      "Puño Drenaje",
+      "Onda Vacío",
+      "Onda Certera",
+      "Gigaimpacto",
+      "Garra Umbría",
+      "Treparrocas",
+      "Lanzamugre",
+      "Roca Afilada",
+      "Seducción",
+      "Trampa Rocas",
+      "Afilagarras",
+      "Antiaéreo",
+      "Puntapié",
+      "Canon",
+      "Acróbata",
+      "Terratemblor",
+      "Avivar",
+      "Golpe Bis",
+      "Confidencia",
+      "Puño Incremento",
+      "Golpe Mordaza",
+      "Desahogo",
+      "Tera Blast"
+    ]
+  }
+}

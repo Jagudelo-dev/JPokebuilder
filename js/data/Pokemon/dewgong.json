@@ -1,0 +1,196 @@
+{
+  "id": 87,
+  "name": "Dewgong",
+  "types": [
+    "Agua",
+    "Hielo"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "atk": 70,
+    "def": 80,
+    "spa": 70,
+    "spd": 95,
+    "spe": 70
+  },
+  "abilities": [
+    "Sebo",
+    "Hydration",
+    "Ice Body"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Golpe Cabeza"
+      },
+      {
+        "level": 1,
+        "move": "Perforador"
+      },
+      {
+        "level": 1,
+        "move": "Gruñido"
+      },
+      {
+        "level": 1,
+        "move": "Pistola Agua"
+      },
+      {
+        "level": 1,
+        "move": "Rayo Burbuja"
+      },
+      {
+        "level": 1,
+        "move": "Rayo Aurora"
+      },
+      {
+        "level": 1,
+        "move": "Viento Hielo"
+      },
+      {
+        "level": 1,
+        "move": "Sorpresa"
+      },
+      {
+        "level": 1,
+        "move": "Doble Rayo"
+      },
+      {
+        "level": 13,
+        "move": "Otra Vez"
+      },
+      {
+        "level": 17,
+        "move": "Canto Helado"
+      },
+      {
+        "level": 23,
+        "move": "Acua Aro"
+      },
+      {
+        "level": 31,
+        "move": "Acua Jet"
+      },
+      {
+        "level": 32,
+        "move": "Cascada"
+      },
+      {
+        "level": 33,
+        "move": "Salmuera"
+      },
+      {
+        "level": 34,
+        "move": "Frío Polar"
+      },
+      {
+        "level": 41,
+        "move": "Buceo"
+      },
+      {
+        "level": 43,
+        "move": "Acua Cola"
+      },
+      {
+        "level": 44,
+        "move": "Descanso"
+      },
+      {
+        "level": 50,
+        "move": "Derribo"
+      },
+      {
+        "level": 56,
+        "move": "Rayo Hielo"
+      },
+      {
+        "level": 60,
+        "move": "Velo Sagrado"
+      },
+      {
+        "level": 62,
+        "move": "Doble Filo"
+      },
+      {
+        "level": 65,
+        "move": "Granizo"
+      },
+      {
+        "level": 65,
+        "move": "Snowscape"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Día de Pago",
+      "Golpe Cuerpo",
+      "Anulación",
+      "Hidrobomba",
+      "Surf",
+      "Ventisca",
+      "Hiperrayo",
+      "Fuerza",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Niebla",
+      "Venganza",
+      "Lengüetazo",
+      "Cabezazo",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Canto Mortal",
+      "Aguante",
+      "Encanto",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Megacuerno",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Torbellino",
+      "Alboroto",
+      "Reserva",
+      "Escupir",
+      "Tragar",
+      "Imagen",
+      "Refuerzo",
+      "Desarme",
+      "Esfuerzo",
+      "Daño Secreto",
+      "Meteorobola",
+      "Agua Lodosa",
+      "Carámbano",
+      "Hidropulso",
+      "Don Natural",
+      "Lanzamiento",
+      "Gigaimpacto",
+      "Alud",
+      "Seducción",
+      "Danza Amiga",
+      "Canon",
+      "Eco Voz",
+      "Vaho Gélido",
+      "Taladradora",
+      "Eructo",
+      "Carantoña",
+      "Confidencia",
+      "Cuerno Certero",
+      "Hidroariete",
+      "Viraje",
+      "Triple Axel",
+      "Tera Blast",
+      "Ice Spinner",
+      "Chilling Water",
+      "Canto Encantador"
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "id": 8,
+  "name": "Wartortle",
+  "types": [
+    "Agua"
+  ],
+  "baseStats": {
+    "hp": 59,
+    "atk": 63,
+    "def": 80,
+    "spa": 65,
+    "spd": 80,
+    "spe": 58
+  },
+  "abilities": [
+    "Torrente",
+    "Cura Lluvia"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Látigo"
+      },
+      {
+        "level": 1,
+        "move": "Burbuja"
+      },
+      {
+        "level": 15,
+        "move": "Pistola Agua"
+      },
+      {
+        "level": 24,
+        "move": "Mordisco"
+      },
+      {
+        "level": 25,
+        "move": "Giro Rápido"
+      },
+      {
+        "level": 28,
+        "move": "Hidropulso"
+      },
+      {
+        "level": 31,
+        "move": "Refugio"
+      },
+      {
+        "level": 31,
+        "move": "Protección"
+      },
+      {
+        "level": 32,
+        "move": "Acua Cola"
+      },
+      {
+        "level": 33,
+        "move": "Rayo Burbuja"
+      },
+      {
+        "level": 35,
+        "move": "Rompecoraza"
+      },
+      {
+        "level": 37,
+        "move": "Danza Lluvia"
+      },
+      {
+        "level": 39,
+        "move": "Cabezazo"
+      },
+      {
+        "level": 40,
+        "move": "Defensa Férrea"
+      },
+      {
+        "level": 46,
+        "move": "Golpe Cabeza"
+      },
+      {
+        "level": 47,
+        "move": "Hidrobomba"
+      },
+      {
+        "level": 50,
+        "move": "Wave Crash"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Puño Hielo",
+      "Megapatada",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Neblina",
+      "Surf",
+      "Rayo Hielo",
+      "Ventisca",
+      "Sumisión",
+      "Contraataque",
+      "Sísmico",
+      "Fuerza",
+      "Excavar",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Rizo Defensa",
+      "Niebla",
+      "Reflejo",
+      "Venganza",
+      "Cascada",
+      "Descanso",
+      "Avalancha",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Azote",
+      "Bofetón Lodo",
+      "Viento Hielo",
+      "Enfado",
+      "Aguante",
+      "Rodar",
+      "Falso Tortazo",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Puño Dinámico",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Manto Espejo",
+      "Golpe Roca",
+      "Torbellino",
+      "Sorpresa",
+      "Granizo",
+      "Imagen",
+      "Puño Certero",
+      "Refuerzo",
+      "Demolición",
+      "Bostezo",
+      "Daño Secreto",
+      "Buceo",
+      "Meteorobola",
+      "Tumba Rocas",
+      "Salpicar",
+      "Agua Lodosa",
+      "Disparo Lodo",
+      "Giro Bola",
+      "Salmuera",
+      "Don Natural",
+      "Lanzamiento",
+      "Acua Aro",
+      "Esfera Aural",
+      "Pulso Dragón",
+      "Cabezazo Zen",
+      "Seducción",
+      "Acua Jet",
+      "Canon",
+      "Escaldar",
+      "Voto Agua",
+      "Avivar",
+      "Confidencia",
+      "Puño Incremento",
+      "Hidroariete",
+      "Gota Vital",
+      "Viraje",
+      "Tera Blast",
+      "Ice Spinner",
+      "Chilling Water"
+    ]
+  }
+}

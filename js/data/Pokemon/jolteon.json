@@ -1,0 +1,207 @@
+{
+  "id": 135,
+  "name": "Jolteon",
+  "types": [
+    "Eléctrico"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "atk": 65,
+    "def": 60,
+    "spa": 110,
+    "spd": 95,
+    "spe": 130
+  },
+  "abilities": [
+    "Absorbe Electricidad",
+    "Quick Feet"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Ataque Arena"
+      },
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Derribo"
+      },
+      {
+        "level": 1,
+        "move": "Doble Filo"
+      },
+      {
+        "level": 1,
+        "move": "Mordisco"
+      },
+      {
+        "level": 1,
+        "move": "Gruñido"
+      },
+      {
+        "level": 1,
+        "move": "Impactrueno"
+      },
+      {
+        "level": 1,
+        "move": "Ataque Rápido"
+      },
+      {
+        "level": 1,
+        "move": "Rapidez"
+      },
+      {
+        "level": 1,
+        "move": "Encanto"
+      },
+      {
+        "level": 1,
+        "move": "Relevo"
+      },
+      {
+        "level": 1,
+        "move": "Refuerzo"
+      },
+      {
+        "level": 1,
+        "move": "Bostezo"
+      },
+      {
+        "level": 1,
+        "move": "Antojo"
+      },
+      {
+        "level": 1,
+        "move": "Copión"
+      },
+      {
+        "level": 9,
+        "move": "Ojitos Tiernos"
+      },
+      {
+        "level": 25,
+        "move": "Rayo"
+      },
+      {
+        "level": 25,
+        "move": "Mimético"
+      },
+      {
+        "level": 34,
+        "move": "Paz Mental"
+      },
+      {
+        "level": 37,
+        "move": "Látigo"
+      },
+      {
+        "level": 40,
+        "move": "Onda Trueno"
+      },
+      {
+        "level": 42,
+        "move": "Doble Patada"
+      },
+      {
+        "level": 43,
+        "move": "Colmillo Rayo"
+      },
+      {
+        "level": 44,
+        "move": "Agilidad"
+      },
+      {
+        "level": 48,
+        "move": "Pin Misil"
+      },
+      {
+        "level": 50,
+        "move": "Última Baza"
+      },
+      {
+        "level": 54,
+        "move": "Trueno"
+      },
+      {
+        "level": 78,
+        "move": "Chispazo"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Día de Pago",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Rugido",
+      "Hiperrayo",
+      "Fuerza",
+      "Excavar",
+      "Tóxico",
+      "Furia",
+      "Doble Equipo",
+      "Pantalla de Luz",
+      "Reflejo",
+      "Foco Energía",
+      "Venganza",
+      "Cabezazo",
+      "Destello",
+      "Descanso",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bofetón Lodo",
+      "Electrocañón",
+      "Detección",
+      "Aguante",
+      "Falso Tortazo",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Campana Cura",
+      "Retribución",
+      "Frustración",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Bola Sombra",
+      "Golpe Roca",
+      "Imagen",
+      "Carga",
+      "Daño Secreto",
+      "Vozarrón",
+      "Meteorobola",
+      "Llanto Falso",
+      "Eco Metálico",
+      "Doble Rayo",
+      "Onda Voltio",
+      "Don Natural",
+      "Levitón",
+      "Gigaimpacto",
+      "Seducción",
+      "Rayo Carga",
+      "Bola Voltio",
+      "Canon",
+      "Eco Voz",
+      "Poder Reserva",
+      "Represalia",
+      "Voltiocambio",
+      "Avivar",
+      "Electrotela",
+      "Voltio Cruel",
+      "Confidencia",
+      "Onda Anómala",
+      "Campo Eléctrico",
+      "Aguzar",
+      "Alto Voltaje",
+      "Tera Blast",
+      "Trailblaze",
+      "Canto Encantador"
+    ]
+  }
+}

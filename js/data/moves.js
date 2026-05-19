@@ -1,4 +1,4 @@
-// js/movesData.js - Todos los movimientos (Gen 1-9) generado automáticamente
+// js/data/moves.js - Todos los movimientos (Gen 1-9) generado automáticamente
 const MOVES = {
   "Destructor": {
     "type": "Normal",

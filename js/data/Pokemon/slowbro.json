@@ -1,0 +1,223 @@
+{
+  "id": 80,
+  "name": "Slowbro",
+  "types": [
+    "Agua",
+    "Psíquico"
+  ],
+  "baseStats": {
+    "hp": 95,
+    "atk": 75,
+    "def": 110,
+    "spa": 100,
+    "spd": 80,
+    "spe": 30
+  },
+  "abilities": [
+    "Oblivious",
+    "Own Tempo",
+    "Regeneración"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Pisotón"
+      },
+      {
+        "level": 1,
+        "move": "Golpe Cabeza"
+      },
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Anulación"
+      },
+      {
+        "level": 1,
+        "move": "Confusión"
+      },
+      {
+        "level": 1,
+        "move": "Maldición"
+      },
+      {
+        "level": 1,
+        "move": "Bostezo"
+      },
+      {
+        "level": 27,
+        "move": "Gruñido"
+      },
+      {
+        "level": 29,
+        "move": "Hidropulso"
+      },
+      {
+        "level": 30,
+        "move": "Descanso"
+      },
+      {
+        "level": 33,
+        "move": "Pistola Agua"
+      },
+      {
+        "level": 34,
+        "move": "Cabezazo Zen"
+      },
+      {
+        "level": 36,
+        "move": "Surf"
+      },
+      {
+        "level": 37,
+        "move": "Refugio"
+      },
+      {
+        "level": 41,
+        "move": "Relajo"
+      },
+      {
+        "level": 44,
+        "move": "Amnesia"
+      },
+      {
+        "level": 55,
+        "move": "Psíquico"
+      },
+      {
+        "level": 55,
+        "move": "Más Psique"
+      },
+      {
+        "level": 61,
+        "move": "Danza Lluvia"
+      },
+      {
+        "level": 68,
+        "move": "Pulso Cura"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Día de Pago",
+      "Puño Hielo",
+      "Megapatada",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Lanzallamas",
+      "Hidrobomba",
+      "Rayo Hielo",
+      "Ventisca",
+      "Psicorrayo",
+      "Rayo Burbuja",
+      "Hiperrayo",
+      "Sumisión",
+      "Contraataque",
+      "Sísmico",
+      "Fuerza",
+      "Onda Trueno",
+      "Terremoto",
+      "Fisura",
+      "Excavar",
+      "Tóxico",
+      "Furia",
+      "Teletransporte",
+      "Mimético",
+      "Doble Equipo",
+      "Pantalla de Luz",
+      "Reflejo",
+      "Venganza",
+      "Metrónomo",
+      "Llamarada",
+      "Cascada",
+      "Rapidez",
+      "Cabezazo",
+      "Comesueños",
+      "Destello",
+      "Psicoonda",
+      "Triataque",
+      "Sustituto",
+      "Pesadilla",
+      "Ronquido",
+      "Protección",
+      "Bofetón Lodo",
+      "Electrocañón",
+      "Viento Hielo",
+      "Aguante",
+      "Contoneo",
+      "Corte Furia",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Velo Sagrado",
+      "Puño Dinámico",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Día Soleado",
+      "Bola Sombra",
+      "Premonición",
+      "Golpe Roca",
+      "Torbellino",
+      "Granizo",
+      "Imagen",
+      "Puño Certero",
+      "Refuerzo",
+      "Truco",
+      "Capa Mágica",
+      "Reciclaje",
+      "Demolición",
+      "Intercambio",
+      "Sellar",
+      "Daño Secreto",
+      "Buceo",
+      "Meteorobola",
+      "Doble Rayo",
+      "Agua Lodosa",
+      "Golpe Aéreo",
+      "Defensa Férrea",
+      "Bloqueo",
+      "Disparo Lodo",
+      "Paz Mental",
+      "Salmuera",
+      "Don Natural",
+      "Lanzamiento",
+      "Acua Cola",
+      "Puño Drenaje",
+      "Onda Certera",
+      "Gigaimpacto",
+      "Maquinación",
+      "Alud",
+      "Espacio Raro",
+      "Seducción",
+      "Hierba Lazo",
+      "Zona Extraña",
+      "Psicocarga",
+      "Telequinesis",
+      "Juego Sucio",
+      "Cede Paso",
+      "Canon",
+      "Eco Voz",
+      "Poder Reserva",
+      "Escaldar",
+      "Calcinación",
+      "Terratemblor",
+      "Concha Filo",
+      "Confidencia",
+      "Campo Psíquico",
+      "Hidroariete",
+      "Plancha Corporal",
+      "Vasta Fuerza",
+      "Tera Blast",
+      "Snowscape",
+      "Chilling Water",
+      "Psicorruido"
+    ]
+  }
+}

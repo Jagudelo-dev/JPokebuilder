@@ -1,0 +1,253 @@
+{
+  "id": 40,
+  "name": "Wigglytuff",
+  "types": [
+    "Normal",
+    "Hada"
+  ],
+  "baseStats": {
+    "hp": 140,
+    "atk": 70,
+    "def": 45,
+    "spa": 85,
+    "spd": 50,
+    "spe": 45
+  },
+  "abilities": [
+    "Gran Encanto",
+    "Competitive",
+    "Frisk"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Destructor"
+      },
+      {
+        "level": 1,
+        "move": "Doble Bofetón"
+      },
+      {
+        "level": 1,
+        "move": "Golpe Cuerpo"
+      },
+      {
+        "level": 1,
+        "move": "Doble Filo"
+      },
+      {
+        "level": 1,
+        "move": "Canto"
+      },
+      {
+        "level": 1,
+        "move": "Anulación"
+      },
+      {
+        "level": 1,
+        "move": "Mimético"
+      },
+      {
+        "level": 1,
+        "move": "Reducción"
+      },
+      {
+        "level": 1,
+        "move": "Rizo Defensa"
+      },
+      {
+        "level": 1,
+        "move": "Venganza"
+      },
+      {
+        "level": 1,
+        "move": "Descanso"
+      },
+      {
+        "level": 1,
+        "move": "Beso Dulce"
+      },
+      {
+        "level": 1,
+        "move": "Encanto"
+      },
+      {
+        "level": 1,
+        "move": "Reserva"
+      },
+      {
+        "level": 1,
+        "move": "Escupir"
+      },
+      {
+        "level": 1,
+        "move": "Tragar"
+      },
+      {
+        "level": 1,
+        "move": "Vozarrón"
+      },
+      {
+        "level": 1,
+        "move": "Antojo"
+      },
+      {
+        "level": 1,
+        "move": "Giro Bola"
+      },
+      {
+        "level": 1,
+        "move": "Copión"
+      },
+      {
+        "level": 1,
+        "move": "Canon"
+      },
+      {
+        "level": 1,
+        "move": "Eco Voz"
+      },
+      {
+        "level": 1,
+        "move": "Voz Cautivadora"
+      },
+      {
+        "level": 1,
+        "move": "Carantoña"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Puño Fuego",
+      "Puño Hielo",
+      "Puño Trueno",
+      "Megapatada",
+      "Golpe Cabeza",
+      "Derribo",
+      "Lanzallamas",
+      "Pistola Agua",
+      "Rayo Hielo",
+      "Ventisca",
+      "Rayo Burbuja",
+      "Hiperrayo",
+      "Sumisión",
+      "Contraataque",
+      "Sísmico",
+      "Fuerza",
+      "Rayo Solar",
+      "Rayo",
+      "Onda Trueno",
+      "Trueno",
+      "Excavar",
+      "Tóxico",
+      "Psíquico",
+      "Furia",
+      "Teletransporte",
+      "Chirrido",
+      "Doble Equipo",
+      "Pantalla de Luz",
+      "Reflejo",
+      "Metrónomo",
+      "Autodestrucción",
+      "Llamarada",
+      "Rapidez",
+      "Cabezazo",
+      "Amnesia",
+      "Comesueños",
+      "Destello",
+      "Psicoonda",
+      "Triataque",
+      "Sustituto",
+      "Ladrón",
+      "Pesadilla",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bofetón Lodo",
+      "Electrocañón",
+      "Viento Hielo",
+      "Detección",
+      "Tormenta Arena",
+      "Aguante",
+      "Rodar",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Campana Cura",
+      "Retribución",
+      "Frustración",
+      "Velo Sagrado",
+      "Divide Dolor",
+      "Puño Dinámico",
+      "Relevo",
+      "Otra Vez",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Más Psique",
+      "Bola Sombra",
+      "Alboroto",
+      "Imagen",
+      "Puño Certero",
+      "Mofa",
+      "Refuerzo",
+      "Imitación",
+      "Capa Mágica",
+      "Reciclaje",
+      "Demolición",
+      "Desarme",
+      "Esfuerzo",
+      "Intercambio",
+      "Robo",
+      "Daño Secreto",
+      "Llanto Falso",
+      "Bote",
+      "Hoja Mágica",
+      "Paz Mental",
+      "Onda Voltio",
+      "Hidropulso",
+      "Gravedad",
+      "Don Natural",
+      "Lanzamiento",
+      "Última Baza",
+      "Pulso Umbrío",
+      "Puño Drenaje",
+      "Onda Certera",
+      "Energibola",
+      "Gigaimpacto",
+      "Maquinación",
+      "Cabezazo Zen",
+      "Seducción",
+      "Trampa Rocas",
+      "Hierba Lazo",
+      "Rayo Carga",
+      "Psicocarga",
+      "Telequinesis",
+      "Zona Mágica",
+      "Poder Reserva",
+      "Cambio de Banda",
+      "Calcinación",
+      "Represalia",
+      "Avivar",
+      "Voltio Cruel",
+      "Beso Drenaje",
+      "Campo de Niebla",
+      "Confidencia",
+      "Brillo Mágico",
+      "Puño Incremento",
+      "Aguzar",
+      "Plancha Corporal",
+      "Vasta Fuerza",
+      "Allanador Férreo",
+      "Bruma Explosiva",
+      "Tera Blast",
+      "Ice Spinner",
+      "Trailblaze",
+      "Chilling Water",
+      "Canto Encantador",
+      "Psicorruido"
+    ]
+  }
+}

@@ -1,4 +1,5 @@
-// generateMoves.js - Genera js/movesData.js con todos los movimientos de la Gen 1 a la 9
+// tools/generateMoves.js
+// Genera js/data/moves.js y js/data/moves_en_es.json
 const fs = require('fs');
 const path = require('path');
 
@@ -6,6 +7,7 @@ async function fetchAllMoves() {
     const res = await fetch('https://pokeapi.co/api/v2/move?limit=1000');
     const data = await res.json();
     const moves = {};
+    const enToEs = {};
 
     for (const entry of data.results) {
         const detailRes = await fetch(entry.url);
@@ -15,9 +17,11 @@ async function fetchAllMoves() {
         if (gen > 9) continue;
 
         const spanishName = move.names.find(n => n.language.name === 'es')?.name;
-        if (!spanishName) continue;
+        const englishName = move.names.find(n => n.language.name === 'en')?.name;
+        if (!spanishName || !englishName) continue;
 
         const category = move.damage_class?.name || 'status';
+
         moves[spanishName] = {
             type: translateType(move.type.name),
             power: move.power ?? 0,
@@ -25,8 +29,11 @@ async function fetchAllMoves() {
             pp: move.pp ?? 0,
             category: category === 'physical' ? 'Físico' : category === 'special' ? 'Especial' : 'Estado'
         };
+
+        enToEs[englishName] = spanishName;
     }
-    return moves;
+
+    return { moves, enToEs };
 }
 
 function translateType(englishType) {
@@ -42,11 +49,15 @@ function translateType(englishType) {
 
 (async () => {
     console.log('Descargando datos de la PokéAPI...');
-    const allMoves = await fetchAllMoves();
-    const fileContent = `// js/movesData.js - Todos los movimientos (Gen 1-9) generado automáticamente
-const MOVES = ${JSON.stringify(allMoves, null, 2)};`;
+    const { moves, enToEs } = await fetchAllMoves();
 
-    const outputPath = path.join(__dirname, 'js', 'movesData.js');
-    fs.writeFileSync(outputPath, fileContent, 'utf8');
-    console.log(`✅ Archivo creado: ${outputPath} con ${Object.keys(allMoves).length} movimientos.`);
+    // Guardar movimientos en español
+    const movesContent = `// js/data/moves.js - Todos los movimientos (Gen 1-9) generado automáticamente
+const MOVES = ${JSON.stringify(moves, null, 2)};`;
+    fs.writeFileSync(path.join(__dirname, '..', 'js', 'data', 'moves.js'), movesContent, 'utf8');
+    console.log(`✅ Movimientos guardados: ${Object.keys(moves).length}`);
+
+    // Guardar mapeo inglés -> español
+    fs.writeFileSync(path.join(__dirname, '..', 'js', 'data', 'moves_en_es.json'), JSON.stringify(enToEs, null, 2), 'utf8');
+    console.log(`✅ Mapeo EN->ES guardado: ${Object.keys(enToEs).length} entradas.`);
 })();

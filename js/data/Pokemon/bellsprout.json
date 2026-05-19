@@ -1,0 +1,152 @@
+{
+  "id": 69,
+  "name": "Bellsprout",
+  "types": [
+    "Planta",
+    "Veneno"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "atk": 75,
+    "def": 35,
+    "spa": 70,
+    "spd": 30,
+    "spe": 40
+  },
+  "abilities": [
+    "Clorofila",
+    "Gluttony"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Látigo Cepa"
+      },
+      {
+        "level": 1,
+        "move": "Desarrollo"
+      },
+      {
+        "level": 13,
+        "move": "Constricción"
+      },
+      {
+        "level": 15,
+        "move": "Polvo Veneno"
+      },
+      {
+        "level": 18,
+        "move": "Somnífero"
+      },
+      {
+        "level": 21,
+        "move": "Paralizador"
+      },
+      {
+        "level": 26,
+        "move": "Ácido"
+      },
+      {
+        "level": 27,
+        "move": "Desarme"
+      },
+      {
+        "level": 30,
+        "move": "Dulce Aroma"
+      },
+      {
+        "level": 33,
+        "move": "Hoja Afilada"
+      },
+      {
+        "level": 35,
+        "move": "Bilis"
+      },
+      {
+        "level": 41,
+        "move": "Puya Nociva"
+      },
+      {
+        "level": 42,
+        "move": "Atizar"
+      },
+      {
+        "level": 47,
+        "move": "Estrujón"
+      },
+      {
+        "level": 52,
+        "move": "Latigazo"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Danza Espada",
+      "Corte",
+      "Atadura",
+      "Golpe Cabeza",
+      "Derribo",
+      "Doble Filo",
+      "Megaagotar",
+      "Rayo Solar",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Reflejo",
+      "Venganza",
+      "Chupavidas",
+      "Destello",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bomba Lodo",
+      "Gigadrenado",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Otra Vez",
+      "Síntesis",
+      "Poder Oculto",
+      "Día Soleado",
+      "Imagen",
+      "Adaptación",
+      "Arraigo",
+      "Daño Secreto",
+      "Meteorobola",
+      "Cosquillas",
+      "Semilladora",
+      "Hoja Mágica",
+      "Don Natural",
+      "Abatidoras",
+      "Golpe Bajo",
+      "Bomba Germen",
+      "Energibola",
+      "Lluevehojas",
+      "Seducción",
+      "Hierba Lazo",
+      "Carga Tóxica",
+      "Onda Tóxica",
+      "Bomba Ácida",
+      "Canon",
+      "Niebla Clara",
+      "Eructo",
+      "Campo de Hierba",
+      "Confidencia",
+      "Acoso",
+      "Absorbefuerza",
+      "Plancha",
+      "Fitoimpulso",
+      "Tera Blast",
+      "Pounce",
+      "Trailblaze"
+    ]
+  }
+}

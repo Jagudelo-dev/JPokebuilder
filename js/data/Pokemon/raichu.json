@@ -1,0 +1,210 @@
+{
+  "id": 26,
+  "name": "Raichu",
+  "types": [
+    "Eléctrico"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "atk": 90,
+    "def": 55,
+    "spa": 90,
+    "spd": 80,
+    "spe": 110
+  },
+  "abilities": [
+    "Estática",
+    "Pararrayos"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 0,
+        "move": "Puño Trueno"
+      },
+      {
+        "level": 1,
+        "move": "Atizar"
+      },
+      {
+        "level": 1,
+        "move": "Látigo"
+      },
+      {
+        "level": 1,
+        "move": "Gruñido"
+      },
+      {
+        "level": 1,
+        "move": "Impactrueno"
+      },
+      {
+        "level": 1,
+        "move": "Rayo"
+      },
+      {
+        "level": 1,
+        "move": "Onda Trueno"
+      },
+      {
+        "level": 1,
+        "move": "Trueno"
+      },
+      {
+        "level": 1,
+        "move": "Agilidad"
+      },
+      {
+        "level": 1,
+        "move": "Ataque Rápido"
+      },
+      {
+        "level": 1,
+        "move": "Doble Equipo"
+      },
+      {
+        "level": 1,
+        "move": "Pantalla de Luz"
+      },
+      {
+        "level": 1,
+        "move": "Beso Dulce"
+      },
+      {
+        "level": 1,
+        "move": "Encanto"
+      },
+      {
+        "level": 1,
+        "move": "Chispa"
+      },
+      {
+        "level": 1,
+        "move": "Otra Vez"
+      },
+      {
+        "level": 1,
+        "move": "Sorpresa"
+      },
+      {
+        "level": 1,
+        "move": "Amago"
+      },
+      {
+        "level": 1,
+        "move": "Maquinación"
+      },
+      {
+        "level": 1,
+        "move": "Chispazo"
+      },
+      {
+        "level": 1,
+        "move": "Bola Voltio"
+      },
+      {
+        "level": 1,
+        "move": "Camaradería"
+      },
+      {
+        "level": 1,
+        "move": "Moflete Estático"
+      },
+      {
+        "level": 15,
+        "move": "Rapidez"
+      },
+      {
+        "level": 37,
+        "move": "Cola Férrea"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Día de Pago",
+      "Megapatada",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Surf",
+      "Hiperrayo",
+      "Sumisión",
+      "Contraataque",
+      "Sísmico",
+      "Fuerza",
+      "Excavar",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Rizo Defensa",
+      "Reflejo",
+      "Venganza",
+      "Cabezazo",
+      "Destello",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Inversión",
+      "Protección",
+      "Bofetón Lodo",
+      "Electrocañón",
+      "Detección",
+      "Aguante",
+      "Rodar",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Velo Sagrado",
+      "Puño Dinámico",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Golpe Roca",
+      "Alboroto",
+      "Imagen",
+      "Puño Certero",
+      "Carga",
+      "Refuerzo",
+      "Demolición",
+      "Desarme",
+      "Esfuerzo",
+      "Daño Secreto",
+      "Doble Rayo",
+      "Antojo",
+      "Paz Mental",
+      "Onda Voltio",
+      "Don Natural",
+      "Lanzamiento",
+      "Levitón",
+      "Onda Certera",
+      "Gigaimpacto",
+      "Seducción",
+      "Hierba Lazo",
+      "Rayo Carga",
+      "Canon",
+      "Eco Voz",
+      "Voltiocambio",
+      "Electrotela",
+      "Voltio Cruel",
+      "Voz Cautivadora",
+      "Beso Drenaje",
+      "Carantoña",
+      "Confidencia",
+      "Onda Anómala",
+      "Campo Eléctrico",
+      "Aguzar",
+      "Cambiavelocidad",
+      "Giro Vil",
+      "Alto Voltaje",
+      "Tera Blast",
+      "Trailblaze",
+      "Canto Encantador",
+      "Palma Rauda"
+    ]
+  }
+}

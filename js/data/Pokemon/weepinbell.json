@@ -1,0 +1,155 @@
+{
+  "id": 70,
+  "name": "Weepinbell",
+  "types": [
+    "Planta",
+    "Veneno"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "atk": 90,
+    "def": 50,
+    "spa": 85,
+    "spd": 45,
+    "spe": 55
+  },
+  "abilities": [
+    "Clorofila",
+    "Gluttony"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Látigo Cepa"
+      },
+      {
+        "level": 1,
+        "move": "Constricción"
+      },
+      {
+        "level": 1,
+        "move": "Desarrollo"
+      },
+      {
+        "level": 15,
+        "move": "Polvo Veneno"
+      },
+      {
+        "level": 18,
+        "move": "Somnífero"
+      },
+      {
+        "level": 23,
+        "move": "Paralizador"
+      },
+      {
+        "level": 27,
+        "move": "Desarme"
+      },
+      {
+        "level": 29,
+        "move": "Ácido"
+      },
+      {
+        "level": 33,
+        "move": "Dulce Aroma"
+      },
+      {
+        "level": 35,
+        "move": "Bilis"
+      },
+      {
+        "level": 38,
+        "move": "Hoja Afilada"
+      },
+      {
+        "level": 47,
+        "move": "Estrujón"
+      },
+      {
+        "level": 47,
+        "move": "Puya Nociva"
+      },
+      {
+        "level": 49,
+        "move": "Atizar"
+      },
+      {
+        "level": 58,
+        "move": "Latigazo"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Danza Espada",
+      "Corte",
+      "Atadura",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Megaagotar",
+      "Rayo Solar",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Reflejo",
+      "Venganza",
+      "Rapidez",
+      "Chupavidas",
+      "Destello",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bomba Lodo",
+      "Gigadrenado",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Otra Vez",
+      "Sol Matinal",
+      "Síntesis",
+      "Poder Oculto",
+      "Día Soleado",
+      "Imagen",
+      "Adaptación",
+      "Arraigo",
+      "Daño Secreto",
+      "Meteorobola",
+      "Cosquillas",
+      "Semilladora",
+      "Hoja Mágica",
+      "Don Natural",
+      "Abatidoras",
+      "Golpe Bajo",
+      "Bomba Germen",
+      "Energibola",
+      "Lluevehojas",
+      "Seducción",
+      "Hierba Lazo",
+      "Picadura",
+      "Carga Tóxica",
+      "Onda Tóxica",
+      "Bomba Ácida",
+      "Canon",
+      "Niebla Clara",
+      "Campo de Hierba",
+      "Confidencia",
+      "Acoso",
+      "Absorbefuerza",
+      "Plancha",
+      "Fitoimpulso",
+      "Tera Blast",
+      "Pounce",
+      "Trailblaze"
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "id": 136,
+  "name": "Flareon",
+  "types": [
+    "Fuego"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "atk": 130,
+    "def": 60,
+    "spa": 95,
+    "spd": 110,
+    "spe": 65
+  },
+  "abilities": [
+    "Absorbe Fuego",
+    "Agallas"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Ataque Arena"
+      },
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Derribo"
+      },
+      {
+        "level": 1,
+        "move": "Doble Filo"
+      },
+      {
+        "level": 1,
+        "move": "Gruñido"
+      },
+      {
+        "level": 1,
+        "move": "Ascuas"
+      },
+      {
+        "level": 1,
+        "move": "Ataque Rápido"
+      },
+      {
+        "level": 1,
+        "move": "Rapidez"
+      },
+      {
+        "level": 1,
+        "move": "Encanto"
+      },
+      {
+        "level": 1,
+        "move": "Relevo"
+      },
+      {
+        "level": 1,
+        "move": "Refuerzo"
+      },
+      {
+        "level": 1,
+        "move": "Bostezo"
+      },
+      {
+        "level": 1,
+        "move": "Antojo"
+      },
+      {
+        "level": 1,
+        "move": "Copión"
+      },
+      {
+        "level": 9,
+        "move": "Ojitos Tiernos"
+      },
+      {
+        "level": 10,
+        "move": "Doble Patada"
+      },
+      {
+        "level": 24,
+        "move": "Foco Energía"
+      },
+      {
+        "level": 25,
+        "move": "Mimético"
+      },
+      {
+        "level": 34,
+        "move": "Paz Mental"
+      },
+      {
+        "level": 37,
+        "move": "Látigo"
+      },
+      {
+        "level": 40,
+        "move": "Mordisco"
+      },
+      {
+        "level": 42,
+        "move": "Malicioso"
+      },
+      {
+        "level": 42,
+        "move": "Polución"
+      },
+      {
+        "level": 43,
+        "move": "Colmillo Ígneo"
+      },
+      {
+        "level": 44,
+        "move": "Giro Fuego"
+      },
+      {
+        "level": 45,
+        "move": "Envite Ígneo"
+      },
+      {
+        "level": 48,
+        "move": "Furia"
+      },
+      {
+        "level": 50,
+        "move": "Última Baza"
+      },
+      {
+        "level": 54,
+        "move": "Lanzallamas"
+      },
+      {
+        "level": 64,
+        "move": "Cara Susto"
+      },
+      {
+        "level": 71,
+        "move": "Llamarada"
+      },
+      {
+        "level": 78,
+        "move": "Humareda"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Día de Pago",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Rugido",
+      "Hiperrayo",
+      "Fuerza",
+      "Excavar",
+      "Tóxico",
+      "Doble Equipo",
+      "Reflejo",
+      "Venganza",
+      "Cabezazo",
+      "Descanso",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bofetón Lodo",
+      "Electrocañón",
+      "Detección",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Campana Cura",
+      "Retribución",
+      "Frustración",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Bola Sombra",
+      "Golpe Roca",
+      "Onda Ígnea",
+      "Fuego Fatuo",
+      "Imagen",
+      "Fuerza Bruta",
+      "Esfuerzo",
+      "Daño Secreto",
+      "Vozarrón",
+      "Meteorobola",
+      "Llanto Falso",
+      "Sofoco",
+      "Don Natural",
+      "Gigaimpacto",
+      "Seducción",
+      "Nitrocarga",
+      "Canon",
+      "Eco Voz",
+      "Poder Reserva",
+      "Calcinación",
+      "Represalia",
+      "Avivar",
+      "Confidencia",
+      "Llama Embrujada",
+      "Aguzar",
+      "Envidia Ardiente",
+      "Arenas Ardientes",
+      "Tera Blast",
+      "Trailblaze",
+      "Canto Encantador",
+      "Cólera Ardiente"
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "id": 42,
+  "name": "Golbat",
+  "types": [
+    "Veneno",
+    "Volador"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "atk": 80,
+    "def": 70,
+    "spa": 65,
+    "spd": 75,
+    "spe": 90
+  },
+  "abilities": [
+    "Foco Interno",
+    "Infiltrator"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 0,
+        "move": "Triturar"
+      },
+      {
+        "level": 1,
+        "move": "Tornado"
+      },
+      {
+        "level": 1,
+        "move": "Remolino"
+      },
+      {
+        "level": 1,
+        "move": "Mordisco"
+      },
+      {
+        "level": 1,
+        "move": "Absorber"
+      },
+      {
+        "level": 1,
+        "move": "Ataque Rápido"
+      },
+      {
+        "level": 1,
+        "move": "Chirrido"
+      },
+      {
+        "level": 1,
+        "move": "Chupavidas"
+      },
+      {
+        "level": 1,
+        "move": "Impresionar"
+      },
+      {
+        "level": 6,
+        "move": "Hipnosis"
+      },
+      {
+        "level": 10,
+        "move": "Supersónico"
+      },
+      {
+        "level": 21,
+        "move": "Rayo Confuso"
+      },
+      {
+        "level": 24,
+        "move": "Rapidez"
+      },
+      {
+        "level": 25,
+        "move": "Veneno X"
+      },
+      {
+        "level": 32,
+        "move": "Ataque Ala"
+      },
+      {
+        "level": 35,
+        "move": "Aire Afilado"
+      },
+      {
+        "level": 39,
+        "move": "Acróbata"
+      },
+      {
+        "level": 40,
+        "move": "Tóxico"
+      },
+      {
+        "level": 42,
+        "move": "Mal de Ojo"
+      },
+      {
+        "level": 43,
+        "move": "Niebla"
+      },
+      {
+        "level": 43,
+        "move": "Carga Tóxica"
+      },
+      {
+        "level": 49,
+        "move": "Colmillo Veneno"
+      },
+      {
+        "level": 51,
+        "move": "Tajo Aéreo"
+      },
+      {
+        "level": 51,
+        "move": "Anticipo"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Viento Cortante",
+      "Vuelo",
+      "Golpe Cabeza",
+      "Derribo",
+      "Doble Filo",
+      "Hiperrayo",
+      "Megaagotar",
+      "Agilidad",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Venganza",
+      "Descanso",
+      "Superdiente",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bomba Lodo",
+      "Detección",
+      "Gigadrenado",
+      "Aguante",
+      "Contoneo",
+      "Ala de Acero",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Poder Oculto",
+      "Ciclón",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Bola Sombra",
+      "Alboroto",
+      "Onda Ígnea",
+      "Tormento",
+      "Imagen",
+      "Mofa",
+      "Robo",
+      "Daño Secreto",
+      "Golpe Aéreo",
+      "Respiro",
+      "Don Natural",
+      "Picoteo",
+      "Viento Afín",
+      "Ida y Vuelta",
+      "Vendetta",
+      "Buena Baza",
+      "Pájaro Osado",
+      "Gigaimpacto",
+      "Maquinación",
+      "Cabezazo Zen",
+      "Despejar",
+      "Seducción",
+      "Viento Aciago",
+      "Canon",
+      "Confidencia",
+      "Trampa Venenosa",
+      "Ala Bis"
+    ]
+  }
+}

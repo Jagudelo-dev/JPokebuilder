@@ -1,0 +1,219 @@
+{
+  "id": 108,
+  "name": "Lickitung",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "atk": 55,
+    "def": 75,
+    "spa": 60,
+    "spd": 75,
+    "spe": 30
+  },
+  "abilities": [
+    "Own Tempo",
+    "Oblivious",
+    "Cloud Nine"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Constricción"
+      },
+      {
+        "level": 1,
+        "move": "Supersónico"
+      },
+      {
+        "level": 1,
+        "move": "Lengüetazo"
+      },
+      {
+        "level": 6,
+        "move": "Descanso"
+      },
+      {
+        "level": 7,
+        "move": "Pisotón"
+      },
+      {
+        "level": 10,
+        "move": "Ácido"
+      },
+      {
+        "level": 11,
+        "move": "Terratemblor"
+      },
+      {
+        "level": 15,
+        "move": "Anulación"
+      },
+      {
+        "level": 18,
+        "move": "Desarme"
+      },
+      {
+        "level": 18,
+        "move": "Cabezazo Zen"
+      },
+      {
+        "level": 23,
+        "move": "Rizo Defensa"
+      },
+      {
+        "level": 25,
+        "move": "Atadura"
+      },
+      {
+        "level": 25,
+        "move": "Doble Filo"
+      },
+      {
+        "level": 31,
+        "move": "Atizar"
+      },
+      {
+        "level": 33,
+        "move": "Rodar"
+      },
+      {
+        "level": 37,
+        "move": "Yo Primero"
+      },
+      {
+        "level": 37,
+        "move": "Guardia Baja"
+      },
+      {
+        "level": 39,
+        "move": "Chirrido"
+      },
+      {
+        "level": 40,
+        "move": "Golpe"
+      },
+      {
+        "level": 43,
+        "move": "Gigaimpacto"
+      },
+      {
+        "level": 49,
+        "move": "Latigazo"
+      },
+      {
+        "level": 51,
+        "move": "Alivio"
+      },
+      {
+        "level": 53,
+        "move": "Estrujón"
+      },
+      {
+        "level": 60,
+        "move": "Tambor"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Puño Fuego",
+      "Puño Hielo",
+      "Puño Trueno",
+      "Danza Espada",
+      "Corte",
+      "Megapatada",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Lanzallamas",
+      "Pistola Agua",
+      "Hidrobomba",
+      "Surf",
+      "Rayo Hielo",
+      "Ventisca",
+      "Rayo Burbuja",
+      "Hiperrayo",
+      "Sumisión",
+      "Contraataque",
+      "Sísmico",
+      "Fuerza",
+      "Rayo Solar",
+      "Rayo",
+      "Trueno",
+      "Terremoto",
+      "Fisura",
+      "Excavar",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Venganza",
+      "Llamarada",
+      "Cabezazo",
+      "Amnesia",
+      "Comesueños",
+      "Avalancha",
+      "Sustituto",
+      "Ladrón",
+      "Pesadilla",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bofetón Lodo",
+      "Viento Hielo",
+      "Tormenta Arena",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Magnitud",
+      "Puño Dinámico",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Más Psique",
+      "Bola Sombra",
+      "Golpe Roca",
+      "Torbellino",
+      "Imagen",
+      "Puño Certero",
+      "Estímulo",
+      "Refuerzo",
+      "Demolición",
+      "Daño Secreto",
+      "Tumba Rocas",
+      "Agua Lodosa",
+      "Onda Voltio",
+      "Hidropulso",
+      "Machada",
+      "Don Natural",
+      "Lanzamiento",
+      "Acua Cola",
+      "Treparrocas",
+      "Seducción",
+      "Canon",
+      "Calcinación",
+      "Represalia",
+      "Cola Dragón",
+      "Avivar",
+      "Eructo",
+      "Confidencia",
+      "Puño Incremento",
+      "Giro Vil",
+      "Pataleta",
+      "Plancha Corporal",
+      "Allanador Férreo",
+      "Pulso de Campo"
+    ]
+  }
+}

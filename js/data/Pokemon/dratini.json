@@ -1,0 +1,157 @@
+{
+  "id": 147,
+  "name": "Dratini",
+  "types": [
+    "Dragón"
+  ],
+  "baseStats": {
+    "hp": 41,
+    "atk": 64,
+    "def": 45,
+    "spa": 50,
+    "spd": 50,
+    "spe": 50
+  },
+  "abilities": [
+    "Mudar",
+    "Marvel Scale"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Constricción"
+      },
+      {
+        "level": 1,
+        "move": "Malicioso"
+      },
+      {
+        "level": 10,
+        "move": "Onda Trueno"
+      },
+      {
+        "level": 15,
+        "move": "Ciclón"
+      },
+      {
+        "level": 20,
+        "move": "Agilidad"
+      },
+      {
+        "level": 30,
+        "move": "Atizar"
+      },
+      {
+        "level": 31,
+        "move": "Acua Cola"
+      },
+      {
+        "level": 31,
+        "move": "Cola Dragón"
+      },
+      {
+        "level": 35,
+        "move": "Carga Dragón"
+      },
+      {
+        "level": 40,
+        "move": "Furia Dragón"
+      },
+      {
+        "level": 43,
+        "move": "Velo Sagrado"
+      },
+      {
+        "level": 45,
+        "move": "Danza Lluvia"
+      },
+      {
+        "level": 45,
+        "move": "Danza Dragón"
+      },
+      {
+        "level": 50,
+        "move": "Hiperrayo"
+      },
+      {
+        "level": 50,
+        "move": "Enfado"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Atadura",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Supersónico",
+      "Lanzallamas",
+      "Neblina",
+      "Pistola Agua",
+      "Hidrobomba",
+      "Surf",
+      "Rayo Hielo",
+      "Ventisca",
+      "Rayo Burbuja",
+      "Giro Fuego",
+      "Rayo",
+      "Trueno",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Pantalla de Luz",
+      "Niebla",
+      "Reflejo",
+      "Venganza",
+      "Llamarada",
+      "Cascada",
+      "Rapidez",
+      "Cabezazo",
+      "Descanso",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Electrocañón",
+      "Viento Hielo",
+      "Detección",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Dragoaliento",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Día Soleado",
+      "Veloc. Extrema",
+      "Torbellino",
+      "Granizo",
+      "Imagen",
+      "Refuerzo",
+      "Daño Secreto",
+      "Onda Voltio",
+      "Hidropulso",
+      "Don Natural",
+      "Pulso Dragón",
+      "Gigaimpacto",
+      "Cometa Draco",
+      "Cabeza de Hierro",
+      "Seducción",
+      "Acua Jet",
+      "Canon",
+      "Calcinación",
+      "Confidencia",
+      "Giro Vil",
+      "Vasto Impacto",
+      "Ráfaga Escamas",
+      "Tera Blast",
+      "Chilling Water",
+      "Bramido Dragón"
+    ]
+  }
+}

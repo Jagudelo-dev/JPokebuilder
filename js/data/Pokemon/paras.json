@@ -1,0 +1,166 @@
+{
+  "id": 46,
+  "name": "Paras",
+  "types": [
+    "Bicho",
+    "Planta"
+  ],
+  "baseStats": {
+    "hp": 35,
+    "atk": 70,
+    "def": 55,
+    "spa": 45,
+    "spd": 55,
+    "spe": 25
+  },
+  "abilities": [
+    "Effect Spore",
+    "Piel Seca",
+    "Damp"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Arañazo"
+      },
+      {
+        "level": 2,
+        "move": "Somnífero"
+      },
+      {
+        "level": 11,
+        "move": "Absorber"
+      },
+      {
+        "level": 13,
+        "move": "Polvo Veneno"
+      },
+      {
+        "level": 13,
+        "move": "Paralizador"
+      },
+      {
+        "level": 15,
+        "move": "Golpes Furia"
+      },
+      {
+        "level": 15,
+        "move": "Carga Tóxica"
+      },
+      {
+        "level": 17,
+        "move": "Corte Furia"
+      },
+      {
+        "level": 20,
+        "move": "Chupavidas"
+      },
+      {
+        "level": 27,
+        "move": "Espora"
+      },
+      {
+        "level": 34,
+        "move": "Cuchillada"
+      },
+      {
+        "level": 41,
+        "move": "Desarrollo"
+      },
+      {
+        "level": 43,
+        "move": "Gigadrenado"
+      },
+      {
+        "level": 43,
+        "move": "Tijera X"
+      },
+      {
+        "level": 47,
+        "move": "Energibola"
+      },
+      {
+        "level": 49,
+        "move": "Aromaterapia"
+      },
+      {
+        "level": 49,
+        "move": "Polvo Ira"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Danza Espada",
+      "Corte",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Psicorrayo",
+      "Contraataque",
+      "Megaagotar",
+      "Drenadoras",
+      "Rayo Solar",
+      "Disparo Demora",
+      "Excavar",
+      "Tóxico",
+      "Agilidad",
+      "Furia",
+      "Mimético",
+      "Chirrido",
+      "Doble Equipo",
+      "Pantalla de Luz",
+      "Reflejo",
+      "Venganza",
+      "Cabezazo",
+      "Destello",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Azote",
+      "Protección",
+      "Bomba Lodo",
+      "Aguante",
+      "Falso Tortazo",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Persecución",
+      "Dulce Aroma",
+      "Garra Metal",
+      "Síntesis",
+      "Poder Oculto",
+      "Día Soleado",
+      "Golpe Roca",
+      "Imagen",
+      "Adaptación",
+      "Demolición",
+      "Desarme",
+      "Alivio",
+      "Daño Secreto",
+      "Semilladora",
+      "Golpe Aéreo",
+      "Don Natural",
+      "Abatidoras",
+      "Bomba Germen",
+      "Veneno X",
+      "Seducción",
+      "Hierba Lazo",
+      "Picadura",
+      "Afilagarras",
+      "Vastaguardia",
+      "Cede Paso",
+      "Canon",
+      "Estoicismo",
+      "Fertilizante",
+      "Aguijón Letal",
+      "Campo de Hierba",
+      "Confidencia"
+    ]
+  }
+}

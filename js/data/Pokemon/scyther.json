@@ -1,0 +1,183 @@
+{
+  "id": 123,
+  "name": "Scyther",
+  "types": [
+    "Bicho",
+    "Volador"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "atk": 110,
+    "def": 80,
+    "spa": 55,
+    "spd": 80,
+    "spe": 105
+  },
+  "abilities": [
+    "Enjambre",
+    "Experto",
+    "Firmeza"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Ataque Rápido"
+      },
+      {
+        "level": 1,
+        "move": "Onda Vacío"
+      },
+      {
+        "level": 6,
+        "move": "Viento Plata"
+      },
+      {
+        "level": 11,
+        "move": "Golpe Aéreo"
+      },
+      {
+        "level": 12,
+        "move": "Persecución"
+      },
+      {
+        "level": 17,
+        "move": "Malicioso"
+      },
+      {
+        "level": 18,
+        "move": "Falso Tortazo"
+      },
+      {
+        "level": 20,
+        "move": "Foco Energía"
+      },
+      {
+        "level": 24,
+        "move": "Doble Equipo"
+      },
+      {
+        "level": 29,
+        "move": "Cuchillada"
+      },
+      {
+        "level": 33,
+        "move": "Viento Cortante"
+      },
+      {
+        "level": 35,
+        "move": "Danza Espada"
+      },
+      {
+        "level": 41,
+        "move": "Tijera X"
+      },
+      {
+        "level": 42,
+        "move": "Agilidad"
+      },
+      {
+        "level": 43,
+        "move": "A Bocajarro"
+      },
+      {
+        "level": 44,
+        "move": "Aguzar"
+      },
+      {
+        "level": 45,
+        "move": "Tajo Umbrío"
+      },
+      {
+        "level": 46,
+        "move": "Corte Furia"
+      },
+      {
+        "level": 49,
+        "move": "Doble Golpe"
+      },
+      {
+        "level": 50,
+        "move": "Ataque Ala"
+      },
+      {
+        "level": 53,
+        "move": "Tajo Aéreo"
+      },
+      {
+        "level": 61,
+        "move": "Amago"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Corte",
+      "Golpe Cabeza",
+      "Derribo",
+      "Doble Filo",
+      "Hiperrayo",
+      "Contraataque",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Pantalla de Luz",
+      "Venganza",
+      "Rapidez",
+      "Cabezazo",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Inversión",
+      "Protección",
+      "Cara Susto",
+      "Detección",
+      "Aguante",
+      "Contoneo",
+      "Ala de Acero",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Velo Sagrado",
+      "Relevo",
+      "Sol Matinal",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Golpe Roca",
+      "Imagen",
+      "Refuerzo",
+      "Demolición",
+      "Desarme",
+      "Daño Secreto",
+      "Aire Afilado",
+      "Respiro",
+      "Don Natural",
+      "Viento Afín",
+      "Ida y Vuelta",
+      "Buena Baza",
+      "Zumbido",
+      "Gigaimpacto",
+      "Psicocorte",
+      "Despejar",
+      "Veneno X",
+      "Seducción",
+      "Picadura",
+      "Viento Aciago",
+      "Canon",
+      "Anticipo",
+      "Acróbata",
+      "Estoicismo",
+      "Confidencia",
+      "Plancha",
+      "Giro Vil",
+      "Golpe Rastrero",
+      "Ala Bis",
+      "Tera Blast",
+      "Pounce",
+      "Trailblaze"
+    ]
+  }
+}

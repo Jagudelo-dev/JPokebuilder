@@ -1,0 +1,185 @@
+{
+  "id": 27,
+  "name": "Sandshrew",
+  "types": [
+    "Tierra"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "atk": 75,
+    "def": 85,
+    "spa": 20,
+    "spd": 30,
+    "spe": 40
+  },
+  "abilities": [
+    "Velo Arena",
+    "Sand Rush"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Arañazo"
+      },
+      {
+        "level": 6,
+        "move": "Rizo Defensa"
+      },
+      {
+        "level": 10,
+        "move": "Ataque Arena"
+      },
+      {
+        "level": 13,
+        "move": "Giro Rápido"
+      },
+      {
+        "level": 17,
+        "move": "Cuchillada"
+      },
+      {
+        "level": 17,
+        "move": "Magnitud"
+      },
+      {
+        "level": 18,
+        "move": "Terratemblor"
+      },
+      {
+        "level": 21,
+        "move": "Rodar"
+      },
+      {
+        "level": 24,
+        "move": "Picotazo Veneno"
+      },
+      {
+        "level": 24,
+        "move": "Protección"
+      },
+      {
+        "level": 25,
+        "move": "Corte Furia"
+      },
+      {
+        "level": 27,
+        "move": "Agilidad"
+      },
+      {
+        "level": 30,
+        "move": "Excavar"
+      },
+      {
+        "level": 31,
+        "move": "Rapidez"
+      },
+      {
+        "level": 33,
+        "move": "Giro Bola"
+      },
+      {
+        "level": 38,
+        "move": "Danza Espada"
+      },
+      {
+        "level": 38,
+        "move": "Golpes Furia"
+      },
+      {
+        "level": 45,
+        "move": "Tormenta Arena"
+      },
+      {
+        "level": 45,
+        "move": "Bucle Arena"
+      },
+      {
+        "level": 46,
+        "move": "Terremoto"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Corte",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Sumisión",
+      "Patada Baja",
+      "Contraataque",
+      "Sísmico",
+      "Fuerza",
+      "Fisura",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Venganza",
+      "Cabezazo",
+      "Amnesia",
+      "Chupavidas",
+      "Descanso",
+      "Avalancha",
+      "Superdiente",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Azote",
+      "Bofetón Lodo",
+      "Púas",
+      "Detección",
+      "Aguante",
+      "Falso Tortazo",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Velo Sagrado",
+      "Puño Dinámico",
+      "Cola Férrea",
+      "Garra Metal",
+      "Poder Oculto",
+      "Día Soleado",
+      "Golpe Roca",
+      "Imagen",
+      "Puño Certero",
+      "Demolición",
+      "Desarme",
+      "Esfuerzo",
+      "Daño Secreto",
+      "Garra Brutal",
+      "Tumba Rocas",
+      "Golpe Aéreo",
+      "Disparo Lodo",
+      "Antojo",
+      "Don Natural",
+      "Lanzamiento",
+      "Puya Nociva",
+      "Tajo Umbrío",
+      "Tijera X",
+      "Tierra Viva",
+      "Garra Umbría",
+      "Treparrocas",
+      "Roca Afilada",
+      "Seducción",
+      "Trampa Rocas",
+      "Afilagarras",
+      "Antiaéreo",
+      "Canon",
+      "Guardia Baja",
+      "Avivar",
+      "Fertilizante",
+      "Confidencia",
+      "Fuerza Equina",
+      "Golpe Mordaza",
+      "Pataleta",
+      "Allanador Férreo",
+      "Arenas Ardientes",
+      "Tera Blast"
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "id": 12,
+  "name": "Butterfree",
+  "types": [
+    "Bicho",
+    "Volador"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "atk": 45,
+    "def": 50,
+    "spa": 90,
+    "spd": 80,
+    "spe": 70
+  },
+  "abilities": [
+    "Ojo Compuesto",
+    "Tinted Lens"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Disparo Demora"
+      },
+      {
+        "level": 1,
+        "move": "Confusión"
+      },
+      {
+        "level": 1,
+        "move": "Fortaleza"
+      },
+      {
+        "level": 1,
+        "move": "Picadura"
+      },
+      {
+        "level": 15,
+        "move": "Polvo Veneno"
+      },
+      {
+        "level": 16,
+        "move": "Paralizador"
+      },
+      {
+        "level": 17,
+        "move": "Somnífero"
+      },
+      {
+        "level": 21,
+        "move": "Supersónico"
+      },
+      {
+        "level": 26,
+        "move": "Remolino"
+      },
+      {
+        "level": 28,
+        "move": "Tornado"
+      },
+      {
+        "level": 30,
+        "move": "Viento Afín"
+      },
+      {
+        "level": 32,
+        "move": "Psicorrayo"
+      },
+      {
+        "level": 34,
+        "move": "Polvo Ira"
+      },
+      {
+        "level": 36,
+        "move": "Seducción"
+      },
+      {
+        "level": 40,
+        "move": "Velo Sagrado"
+      },
+      {
+        "level": 40,
+        "move": "Zumbido"
+      },
+      {
+        "level": 43,
+        "move": "Tajo Aéreo"
+      },
+      {
+        "level": 46,
+        "move": "Danza Aleteo"
+      },
+      {
+        "level": 47,
+        "move": "Viento Plata"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Viento Cortante",
+      "Golpe Cabeza",
+      "Derribo",
+      "Doble Filo",
+      "Hiperrayo",
+      "Megaagotar",
+      "Rayo Solar",
+      "Tóxico",
+      "Psíquico",
+      "Furia",
+      "Teletransporte",
+      "Mimético",
+      "Doble Equipo",
+      "Reflejo",
+      "Venganza",
+      "Rapidez",
+      "Comesueños",
+      "Destello",
+      "Psicoonda",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Pesadilla",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Gigadrenado",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Relevo",
+      "Dulce Aroma",
+      "Sol Matinal",
+      "Poder Oculto",
+      "Ciclón",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Más Psique",
+      "Bola Sombra",
+      "Imagen",
+      "Intercambio",
+      "Daño Secreto",
+      "Aire Afilado",
+      "Doble Rayo",
+      "Golpe Aéreo",
+      "Defensa Férrea",
+      "Respiro",
+      "Don Natural",
+      "Ida y Vuelta",
+      "Energibola",
+      "Gigaimpacto",
+      "Despejar",
+      "Viento Aciago",
+      "Carga Tóxica",
+      "Canon",
+      "Acróbata",
+      "Estoicismo",
+      "Electrotela",
+      "Vendaval",
+      "Beso Drenaje",
+      "Confidencia",
+      "Acoso",
+      "Bola de Polen",
+      "Ala Bis"
+    ]
+  }
+}

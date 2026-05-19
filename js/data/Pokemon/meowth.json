@@ -1,0 +1,188 @@
+{
+  "id": 52,
+  "name": "Meowth",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "atk": 45,
+    "def": 35,
+    "spa": 40,
+    "spd": 40,
+    "spe": 90
+  },
+  "abilities": [
+    "Recogida",
+    "Experto",
+    "Unnerve"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Arañazo"
+      },
+      {
+        "level": 1,
+        "move": "Gruñido"
+      },
+      {
+        "level": 12,
+        "move": "Mordisco"
+      },
+      {
+        "level": 17,
+        "move": "Día de Pago"
+      },
+      {
+        "level": 24,
+        "move": "Chirrido"
+      },
+      {
+        "level": 25,
+        "move": "Mofa"
+      },
+      {
+        "level": 28,
+        "move": "Finta"
+      },
+      {
+        "level": 33,
+        "move": "Golpes Furia"
+      },
+      {
+        "level": 35,
+        "move": "Carantoña"
+      },
+      {
+        "level": 38,
+        "move": "Maquinación"
+      },
+      {
+        "level": 41,
+        "move": "Buena Baza"
+      },
+      {
+        "level": 44,
+        "move": "Cuchillada"
+      },
+      {
+        "level": 45,
+        "move": "Contoneo"
+      },
+      {
+        "level": 46,
+        "move": "Seducción"
+      },
+      {
+        "level": 49,
+        "move": "Tajo Umbrío"
+      },
+      {
+        "level": 50,
+        "move": "Sorpresa"
+      },
+      {
+        "level": 54,
+        "move": "Amago"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Corte",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Látigo",
+      "Canto",
+      "Pistola Agua",
+      "Rayo Burbuja",
+      "Rayo",
+      "Onda Trueno",
+      "Trueno",
+      "Excavar",
+      "Tóxico",
+      "Hipnosis",
+      "Agilidad",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Rizo Defensa",
+      "Venganza",
+      "Rapidez",
+      "Cabezazo",
+      "Amnesia",
+      "Comesueños",
+      "Destello",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Pesadilla",
+      "Ronquido",
+      "Maldición",
+      "Azote",
+      "Rencor",
+      "Protección",
+      "Bofetón Lodo",
+      "Electrocañón",
+      "Viento Hielo",
+      "Detección",
+      "Aguante",
+      "Encanto",
+      "Falso Tortazo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Divide Dolor",
+      "Cola Férrea",
+      "Garra Metal",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Más Psique",
+      "Bola Sombra",
+      "Alboroto",
+      "Tormento",
+      "Imagen",
+      "Refuerzo",
+      "Ayuda",
+      "Desarme",
+      "Esfuerzo",
+      "Robo",
+      "Daño Secreto",
+      "Vozarrón",
+      "Llanto Falso",
+      "Rastreo",
+      "Golpe Aéreo",
+      "Antojo",
+      "Onda Voltio",
+      "Hidropulso",
+      "Don Natural",
+      "Ida y Vuelta",
+      "Vendetta",
+      "Castigo",
+      "Última Baza",
+      "Pulso Umbrío",
+      "Bomba Germen",
+      "Joya de Luz",
+      "Garra Umbría",
+      "Lanzamugre",
+      "Afilagarras",
+      "Juego Sucio",
+      "Canon",
+      "Eco Voz",
+      "Represalia",
+      "Avivar",
+      "Alarido",
+      "Confidencia",
+      "Golpe Mordaza",
+      "Desahogo",
+      "Tera Blast",
+      "Trailblaze",
+      "Chilling Water"
+    ]
+  }
+}

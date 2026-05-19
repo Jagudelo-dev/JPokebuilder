@@ -1,0 +1,200 @@
+{
+  "id": 73,
+  "name": "Tentacruel",
+  "types": [
+    "Agua",
+    "Veneno"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "atk": 70,
+    "def": 65,
+    "spa": 80,
+    "spd": 120,
+    "spe": 100
+  },
+  "abilities": [
+    "Cuerpo Claro",
+    "Liquid Ooze",
+    "Cura Lluvia"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Constricción"
+      },
+      {
+        "level": 1,
+        "move": "Supersónico"
+      },
+      {
+        "level": 1,
+        "move": "Ácido"
+      },
+      {
+        "level": 1,
+        "move": "Niebla"
+      },
+      {
+        "level": 1,
+        "move": "Manto Espejo"
+      },
+      {
+        "level": 1,
+        "move": "Clonatipo"
+      },
+      {
+        "level": 6,
+        "move": "Burbuja"
+      },
+      {
+        "level": 15,
+        "move": "Púas Tóxicas"
+      },
+      {
+        "level": 18,
+        "move": "Picotazo Veneno"
+      },
+      {
+        "level": 22,
+        "move": "Pistola Agua"
+      },
+      {
+        "level": 25,
+        "move": "Rayo Burbuja"
+      },
+      {
+        "level": 26,
+        "move": "Bomba Ácida"
+      },
+      {
+        "level": 27,
+        "move": "Surf"
+      },
+      {
+        "level": 27,
+        "move": "Restricción"
+      },
+      {
+        "level": 29,
+        "move": "Hidropulso"
+      },
+      {
+        "level": 34,
+        "move": "Armadura Ácida"
+      },
+      {
+        "level": 35,
+        "move": "Barrera"
+      },
+      {
+        "level": 36,
+        "move": "Salmuera"
+      },
+      {
+        "level": 36,
+        "move": "Puya Nociva"
+      },
+      {
+        "level": 43,
+        "move": "Chirrido"
+      },
+      {
+        "level": 47,
+        "move": "Infortunio"
+      },
+      {
+        "level": 50,
+        "move": "Hidrobomba"
+      },
+      {
+        "level": 55,
+        "move": "Estrujón"
+      },
+      {
+        "level": 56,
+        "move": "Onda Tóxica"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Danza Espada",
+      "Corte",
+      "Atadura",
+      "Golpe Cabeza",
+      "Derribo",
+      "Doble Filo",
+      "Rayo Hielo",
+      "Ventisca",
+      "Rayo Aurora",
+      "Hiperrayo",
+      "Megaagotar",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Rayo Confuso",
+      "Reflejo",
+      "Venganza",
+      "Cascada",
+      "Rapidez",
+      "Cabezazo",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Cara Susto",
+      "Bomba Lodo",
+      "Viento Hielo",
+      "Gigadrenado",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Velo Sagrado",
+      "Giro Rápido",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Torbellino",
+      "Granizo",
+      "Imagen",
+      "Capa Mágica",
+      "Desarme",
+      "Daño Secreto",
+      "Buceo",
+      "Meteorobola",
+      "Cosquillas",
+      "Agua Lodosa",
+      "Disparo Lodo",
+      "Don Natural",
+      "Acupresión",
+      "Vendetta",
+      "Acua Aro",
+      "Gigaimpacto",
+      "Veneno X",
+      "Lanzamugre",
+      "Seducción",
+      "Carga Tóxica",
+      "Canon",
+      "Escaldar",
+      "Confidencia",
+      "Trampa Venenosa",
+      "Brillo Mágico",
+      "Acoso",
+      "Golpe Mordaza",
+      "Giro Vil",
+      "Hidroariete",
+      "Golpe Rastrero",
+      "Gas Corrosivo",
+      "Viraje",
+      "Tera Blast",
+      "Pounce",
+      "Chilling Water"
+    ]
+  }
+}

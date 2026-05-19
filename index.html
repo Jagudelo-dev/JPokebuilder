@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Pokémon Team Builder (Gen V)</h1>
+        <h1>Pokémon Team Builder</h1>
     </header>
 
     <main id="app">
@@ -16,19 +16,29 @@
     </main>
 
     <!-- Dependencias en orden -->
-    <script src="js/data.js"></script>
-    <script src="js/movesData.js"></script>
-    <script src="js/typeChart.js"></script>
-    <script src="js/typeCalc.js"></script>
-    <script src="js/team.js"></script>
-    <script src="js/statsGraph.js"></script>
-    <script src="js/coverageCalc.js"></script>
-    <script src="js/advisorData.js"></script>
-    <script src="js/teamAdvisor.js"></script>
-    <script src="js/persistence.js"></script>    <!-- NUEVO -->
-    <script src="js/exportImport.js"></script>  <!-- NUEVO -->
-    <script src="js/ui.js"></script>
-    <script src="js/main.js"></script>
 
+    <!-- Core -->
+    <script src="js/core/typeChart.js"></script>
+    <script src="js/core/typeCalc.js"></script>
+    <script src="js/core/team.js"></script>
+    <script src="js/core/coverageCalc.js"></script>
+    <script src="js/core/statsGraph.js"></script>
+    <script src="js/core/advisor/advisorData.js"></script>
+    <script src="js/core/advisor/teamAdvisor.js"></script>
+
+    <!-- Data -->
+    <script src="js/data/static.js"></script>   <!-- ABILITIES, ITEMS, NATURES -->
+    <script src="js/data/moves.js"></script>    <!-- MOVES -->
+
+    <!-- IO -->
+    <script src="js/io/persistence.js"></script>
+    <script src="js/io/exportImport.js"></script>
+
+    <!-- UI -->
+    <script src="js/ui/ui.js"></script>
+
+    <!-- Main -->
+    <script src="js/data/pokemonLoader.js"></script>
+    <script src="js/main.js"></script>
 </body>
 </html>

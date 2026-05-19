@@ -1,0 +1,198 @@
+{
+  "id": 83,
+  "name": "Farfetch’d",
+  "types": [
+    "Normal",
+    "Volador"
+  ],
+  "baseStats": {
+    "hp": 52,
+    "atk": 90,
+    "def": 55,
+    "spa": 58,
+    "spd": 62,
+    "spe": 60
+  },
+  "abilities": [
+    "Vista Lince",
+    "Foco Interno",
+    "Defiant"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Ataque Arena"
+      },
+      {
+        "level": 1,
+        "move": "Picotazo"
+      },
+      {
+        "level": 1,
+        "move": "Ataque Rápido"
+      },
+      {
+        "level": 1,
+        "move": "Espejo"
+      },
+      {
+        "level": 1,
+        "move": "Puya Nociva"
+      },
+      {
+        "level": 4,
+        "move": "Foco Energía"
+      },
+      {
+        "level": 7,
+        "move": "Malicioso"
+      },
+      {
+        "level": 9,
+        "move": "Corte"
+      },
+      {
+        "level": 13,
+        "move": "Hoja Afilada"
+      },
+      {
+        "level": 13,
+        "move": "Golpe Aéreo"
+      },
+      {
+        "level": 15,
+        "move": "Ataque Furia"
+      },
+      {
+        "level": 21,
+        "move": "Desarme"
+      },
+      {
+        "level": 21,
+        "move": "Aire Afilado"
+      },
+      {
+        "level": 23,
+        "move": "Danza Espada"
+      },
+      {
+        "level": 26,
+        "move": "Corte Furia"
+      },
+      {
+        "level": 31,
+        "move": "Agilidad"
+      },
+      {
+        "level": 33,
+        "move": "Tajo Umbrío"
+      },
+      {
+        "level": 37,
+        "move": "Tajo Aéreo"
+      },
+      {
+        "level": 37,
+        "move": "Acróbata"
+      },
+      {
+        "level": 39,
+        "move": "Cuchillada"
+      },
+      {
+        "level": 40,
+        "move": "Ataque Aéreo"
+      },
+      {
+        "level": 43,
+        "move": "Amago"
+      },
+      {
+        "level": 44,
+        "move": "Falso Tortazo"
+      },
+      {
+        "level": 55,
+        "move": "Hoja Aguda"
+      },
+      {
+        "level": 55,
+        "move": "Pájaro Osado"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Viento Cortante",
+      "Tornado",
+      "Remolino",
+      "Vuelo",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Reflejo",
+      "Venganza",
+      "Rapidez",
+      "Cabezazo",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Azote",
+      "Protección",
+      "Bofetón Lodo",
+      "Profecía",
+      "Detección",
+      "Aguante",
+      "Contoneo",
+      "Ala de Acero",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Relevo",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Ciclón",
+      "Día Soleado",
+      "Más Psique",
+      "Alboroto",
+      "Onda Ígnea",
+      "Imagen",
+      "Refuerzo",
+      "Desquite",
+      "Daño Secreto",
+      "Danza Pluma",
+      "Antojo",
+      "Respiro",
+      "Don Natural",
+      "Picoteo",
+      "Viento Afín",
+      "Ida y Vuelta",
+      "A Bocajarro",
+      "As Oculto",
+      "Última Baza",
+      "Despejar",
+      "Seducción",
+      "Viento Aciago",
+      "Onda Simple",
+      "Canon",
+      "Represalia",
+      "Sacrificio",
+      "Avivar",
+      "Confidencia",
+      "Escaramuza",
+      "Cuchilla Solar",
+      "Aguzar",
+      "Golpe Mordaza",
+      "Giro Vil",
+      "Ala Bis"
+    ]
+  }
+}

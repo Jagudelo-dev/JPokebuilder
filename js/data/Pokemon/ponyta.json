@@ -1,0 +1,152 @@
+{
+  "id": 77,
+  "name": "Ponyta",
+  "types": [
+    "Fuego"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "atk": 85,
+    "def": 55,
+    "spa": 65,
+    "spd": 65,
+    "spe": 90
+  },
+  "abilities": [
+    "Run Away",
+    "Absorbe Fuego",
+    "Flame Body"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Ascuas"
+      },
+      {
+        "level": 1,
+        "move": "Ataque Rápido"
+      },
+      {
+        "level": 9,
+        "move": "Doble Golpe"
+      },
+      {
+        "level": 15,
+        "move": "Doble Patada"
+      },
+      {
+        "level": 15,
+        "move": "Rueda Fuego"
+      },
+      {
+        "level": 21,
+        "move": "Hipnosis"
+      },
+      {
+        "level": 21,
+        "move": "Nitrocarga"
+      },
+      {
+        "level": 30,
+        "move": "Látigo"
+      },
+      {
+        "level": 32,
+        "move": "Pisotón"
+      },
+      {
+        "level": 33,
+        "move": "Infierno"
+      },
+      {
+        "level": 35,
+        "move": "Gruñido"
+      },
+      {
+        "level": 37,
+        "move": "Doble Filo"
+      },
+      {
+        "level": 39,
+        "move": "Giro Fuego"
+      },
+      {
+        "level": 43,
+        "move": "Derribo"
+      },
+      {
+        "level": 45,
+        "move": "Bote"
+      },
+      {
+        "level": 48,
+        "move": "Agilidad"
+      },
+      {
+        "level": 48,
+        "move": "Envite Ígneo"
+      },
+      {
+        "level": 53,
+        "move": "Llamarada"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Golpe Cabeza",
+      "Perforador",
+      "Golpe Cuerpo",
+      "Golpe",
+      "Lanzallamas",
+      "Patada Baja",
+      "Fuerza",
+      "Rayo Solar",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Reflejo",
+      "Venganza",
+      "Rapidez",
+      "Cabezazo",
+      "Descanso",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Aguante",
+      "Encanto",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Cola Férrea",
+      "Sol Matinal",
+      "Poder Oculto",
+      "Día Soleado",
+      "Onda Ígnea",
+      "Fuego Fatuo",
+      "Imagen",
+      "Daño Secreto",
+      "Sofoco",
+      "Don Natural",
+      "Seducción",
+      "Canon",
+      "Eco Voz",
+      "Cambio de Banda",
+      "Calcinación",
+      "Voltio Cruel",
+      "Carantoña",
+      "Confidencia",
+      "Llama Embrujada",
+      "Fuerza Equina",
+      "Cuchilla Solar"
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "id": 127,
+  "name": "Pinsir",
+  "types": [
+    "Bicho"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "atk": 125,
+    "def": 100,
+    "spa": 55,
+    "spd": 70,
+    "spe": 85
+  },
+  "abilities": [
+    "Mandíbula Fuerte",
+    "Rompemoldes",
+    "Entusiasmo"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Vice Grip"
+      },
+      {
+        "level": 16,
+        "move": "Picadura"
+      },
+      {
+        "level": 21,
+        "move": "Atadura"
+      },
+      {
+        "level": 22,
+        "move": "Doble Golpe"
+      },
+      {
+        "level": 25,
+        "move": "Sísmico"
+      },
+      {
+        "level": 25,
+        "move": "Tiro Vital"
+      },
+      {
+        "level": 25,
+        "move": "Desquite"
+      },
+      {
+        "level": 30,
+        "move": "Guillotina"
+      },
+      {
+        "level": 30,
+        "move": "Tijera X"
+      },
+      {
+        "level": 31,
+        "move": "Demolición"
+      },
+      {
+        "level": 33,
+        "move": "Llave Corsé"
+      },
+      {
+        "level": 35,
+        "move": "Golpe"
+      },
+      {
+        "level": 36,
+        "move": "Fuerza"
+      },
+      {
+        "level": 36,
+        "move": "Foco Energía"
+      },
+      {
+        "level": 37,
+        "move": "Sumisión"
+      },
+      {
+        "level": 43,
+        "move": "Fortaleza"
+      },
+      {
+        "level": 49,
+        "move": "Cuchillada"
+      },
+      {
+        "level": 52,
+        "move": "Fuerza Bruta"
+      },
+      {
+        "level": 54,
+        "move": "Danza Espada"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Corte",
+      "Golpe Cabeza",
+      "Ataque Furia",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Hiperrayo",
+      "Disparo Demora",
+      "Terremoto",
+      "Excavar",
+      "Tóxico",
+      "Ataque Rápido",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Venganza",
+      "Descanso",
+      "Avalancha",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Azote",
+      "Inversión",
+      "Protección",
+      "Finta",
+      "Enfado",
+      "Aguante",
+      "Falso Tortazo",
+      "Contoneo",
+      "Corte Furia",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Golpe Roca",
+      "Imagen",
+      "Puño Certero",
+      "Refuerzo",
+      "Desarme",
+      "Daño Secreto",
+      "Tumba Rocas",
+      "Defensa Férrea",
+      "Corpulencia",
+      "Don Natural",
+      "Amago",
+      "A Bocajarro",
+      "Lanzamiento",
+      "Yo Primero",
+      "Onda Certera",
+      "Gigaimpacto",
+      "Treparrocas",
+      "Roca Afilada",
+      "Seducción",
+      "Trampa Rocas",
+      "Antiaéreo",
+      "Canon",
+      "Estoicismo",
+      "Terratemblor",
+      "Confidencia",
+      "Fuerza Equina",
+      "Golpe Mordaza",
+      "Giro Vil"
+    ]
+  }
+}

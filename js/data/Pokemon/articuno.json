@@ -1,0 +1,183 @@
+{
+  "id": 144,
+  "name": "Articuno",
+  "types": [
+    "Hielo",
+    "Volador"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "atk": 85,
+    "def": 100,
+    "spa": 95,
+    "spd": 125,
+    "spe": 85
+  },
+  "abilities": [
+    "Presión",
+    "Snow Cloak"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Tornado"
+      },
+      {
+        "level": 1,
+        "move": "Rayo Hielo"
+      },
+      {
+        "level": 1,
+        "move": "Picotazo"
+      },
+      {
+        "level": 1,
+        "move": "Nieve Polvo"
+      },
+      {
+        "level": 1,
+        "move": "Liofilización"
+      },
+      {
+        "level": 15,
+        "move": "Canto Helado"
+      },
+      {
+        "level": 16,
+        "move": "Malicioso"
+      },
+      {
+        "level": 24,
+        "move": "Manto Espejo"
+      },
+      {
+        "level": 29,
+        "move": "Poder Pasado"
+      },
+      {
+        "level": 37,
+        "move": "Telépata"
+      },
+      {
+        "level": 50,
+        "move": "Snowscape"
+      },
+      {
+        "level": 51,
+        "move": "Ventisca"
+      },
+      {
+        "level": 55,
+        "move": "Agilidad"
+      },
+      {
+        "level": 57,
+        "move": "Respiro"
+      },
+      {
+        "level": 60,
+        "move": "Neblina"
+      },
+      {
+        "level": 60,
+        "move": "Niebla"
+      },
+      {
+        "level": 61,
+        "move": "Reflejo"
+      },
+      {
+        "level": 64,
+        "move": "Viento Afín"
+      },
+      {
+        "level": 72,
+        "move": "Ataque Aéreo"
+      },
+      {
+        "level": 85,
+        "move": "Granizo"
+      },
+      {
+        "level": 85,
+        "move": "Frío Polar"
+      },
+      {
+        "level": 92,
+        "move": "Vendaval"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Viento Cortante",
+      "Remolino",
+      "Vuelo",
+      "Golpe Cabeza",
+      "Derribo",
+      "Doble Filo",
+      "Rugido",
+      "Pistola Agua",
+      "Rayo Burbuja",
+      "Hiperrayo",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Pantalla de Luz",
+      "Venganza",
+      "Rapidez",
+      "Descanso",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bofetón Lodo",
+      "Viento Hielo",
+      "Detección",
+      "Tormenta Arena",
+      "Aguante",
+      "Contoneo",
+      "Ala de Acero",
+      "Sonámbulo",
+      "Campana Cura",
+      "Retribución",
+      "Frustración",
+      "Poder Oculto",
+      "Ciclón",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Golpe Roca",
+      "Imagen",
+      "Refuerzo",
+      "Daño Secreto",
+      "Danza Pluma",
+      "Meteorobola",
+      "Aire Afilado",
+      "Doble Rayo",
+      "Paranormal",
+      "Golpe Aéreo",
+      "Carámbano",
+      "Hidropulso",
+      "Don Natural",
+      "Picoteo",
+      "Ida y Vuelta",
+      "Tajo Aéreo",
+      "Pájaro Osado",
+      "Gigaimpacto",
+      "Alud",
+      "Despejar",
+      "Viento Aciago",
+      "Canon",
+      "Caída Libre",
+      "Vaho Gélido",
+      "Confidencia",
+      "Aguzar",
+      "Velo Aurora",
+      "Triple Axel",
+      "Ala Bis",
+      "Tera Blast",
+      "Ice Spinner"
+    ]
+  }
+}

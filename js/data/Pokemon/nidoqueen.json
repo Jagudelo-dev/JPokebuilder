@@ -1,0 +1,221 @@
+{
+  "id": 31,
+  "name": "Nidoqueen",
+  "types": [
+    "Veneno",
+    "Tierra"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "atk": 92,
+    "def": 87,
+    "spa": 75,
+    "spd": 85,
+    "spe": 76
+  },
+  "abilities": [
+    "Poison Point",
+    "Rivalry",
+    "Sheer Force"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Arañazo"
+      },
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Golpe Cuerpo"
+      },
+      {
+        "level": 1,
+        "move": "Látigo"
+      },
+      {
+        "level": 1,
+        "move": "Mordisco"
+      },
+      {
+        "level": 1,
+        "move": "Gruñido"
+      },
+      {
+        "level": 1,
+        "move": "Supersónico"
+      },
+      {
+        "level": 1,
+        "move": "Contraataque"
+      },
+      {
+        "level": 1,
+        "move": "Tóxico"
+      },
+      {
+        "level": 1,
+        "move": "Golpes Furia"
+      },
+      {
+        "level": 1,
+        "move": "Triturar"
+      },
+      {
+        "level": 1,
+        "move": "Camelo"
+      },
+      {
+        "level": 1,
+        "move": "Refuerzo"
+      },
+      {
+        "level": 1,
+        "move": "Púas Tóxicas"
+      },
+      {
+        "level": 1,
+        "move": "Onda Tóxica"
+      },
+      {
+        "level": 12,
+        "move": "Doble Patada"
+      },
+      {
+        "level": 14,
+        "move": "Picotazo Veneno"
+      },
+      {
+        "level": 23,
+        "move": "Guardia Baja"
+      },
+      {
+        "level": 43,
+        "move": "Fuerza Bruta"
+      },
+      {
+        "level": 43,
+        "move": "Tierra Viva"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Día de Pago",
+      "Puño Fuego",
+      "Puño Hielo",
+      "Puño Trueno",
+      "Corte",
+      "Megapatada",
+      "Golpe Cabeza",
+      "Perforador",
+      "Derribo",
+      "Doble Filo",
+      "Rugido",
+      "Lanzallamas",
+      "Pistola Agua",
+      "Surf",
+      "Rayo Hielo",
+      "Ventisca",
+      "Rayo Burbuja",
+      "Hiperrayo",
+      "Sumisión",
+      "Sísmico",
+      "Fuerza",
+      "Rayo",
+      "Trueno",
+      "Terremoto",
+      "Fisura",
+      "Excavar",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Rizo Defensa",
+      "Reflejo",
+      "Foco Energía",
+      "Venganza",
+      "Llamarada",
+      "Cabezazo",
+      "Descanso",
+      "Avalancha",
+      "Superdiente",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bomba Lodo",
+      "Bofetón Lodo",
+      "Viento Hielo",
+      "Detección",
+      "Enfado",
+      "Tormenta Arena",
+      "Aguante",
+      "Encanto",
+      "Contoneo",
+      "Corte Furia",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Puño Dinámico",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Bola Sombra",
+      "Golpe Roca",
+      "Torbellino",
+      "Paliza",
+      "Alboroto",
+      "Tormento",
+      "Imagen",
+      "Puño Certero",
+      "Mofa",
+      "Demolición",
+      "Daño Secreto",
+      "Tumba Rocas",
+      "Bucle Arena",
+      "Golpe Aéreo",
+      "Disparo Lodo",
+      "Pedrada",
+      "Onda Voltio",
+      "Hidropulso",
+      "Don Natural",
+      "Lanzamiento",
+      "Puya Nociva",
+      "Acua Cola",
+      "Pulso Dragón",
+      "Onda Certera",
+      "Gigaimpacto",
+      "Alud",
+      "Garra Umbría",
+      "Treparrocas",
+      "Roca Afilada",
+      "Seducción",
+      "Trampa Rocas",
+      "Afilagarras",
+      "Carga Tóxica",
+      "Antiaéreo",
+      "Canon",
+      "Eco Voz",
+      "Infortunio",
+      "Calcinación",
+      "Último Lugar",
+      "Terratemblor",
+      "Cola Dragón",
+      "Taladradora",
+      "Confidencia",
+      "Trampa Venenosa",
+      "Puño Incremento",
+      "Fuerza Equina",
+      "Golpe Mordaza",
+      "Pataleta",
+      "Plancha Corporal",
+      "Arenas Ardientes"
+    ]
+  }
+}

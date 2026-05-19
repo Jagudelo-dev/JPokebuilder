@@ -1,0 +1,207 @@
+{
+  "id": 62,
+  "name": "Poliwrath",
+  "types": [
+    "Agua",
+    "Lucha"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "atk": 95,
+    "def": 95,
+    "spa": 70,
+    "spd": 90,
+    "spe": 70
+  },
+  "abilities": [
+    "Absorbe Agua",
+    "Damp",
+    "Nado Rápido"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Destructor"
+      },
+      {
+        "level": 1,
+        "move": "Doble Bofetón"
+      },
+      {
+        "level": 1,
+        "move": "Golpe Cuerpo"
+      },
+      {
+        "level": 1,
+        "move": "Doble Filo"
+      },
+      {
+        "level": 1,
+        "move": "Neblina"
+      },
+      {
+        "level": 1,
+        "move": "Pistola Agua"
+      },
+      {
+        "level": 1,
+        "move": "Hidrobomba"
+      },
+      {
+        "level": 1,
+        "move": "Rayo Burbuja"
+      },
+      {
+        "level": 1,
+        "move": "Sumisión"
+      },
+      {
+        "level": 1,
+        "move": "Hipnosis"
+      },
+      {
+        "level": 1,
+        "move": "Niebla"
+      },
+      {
+        "level": 1,
+        "move": "Burbuja"
+      },
+      {
+        "level": 1,
+        "move": "Tambor"
+      },
+      {
+        "level": 1,
+        "move": "Danza Lluvia"
+      },
+      {
+        "level": 1,
+        "move": "Corpulencia"
+      },
+      {
+        "level": 1,
+        "move": "Disparo Lodo"
+      },
+      {
+        "level": 1,
+        "move": "Tierra Viva"
+      },
+      {
+        "level": 43,
+        "move": "Puño Dinámico"
+      },
+      {
+        "level": 51,
+        "move": "Telépata"
+      },
+      {
+        "level": 53,
+        "move": "Llave Giro"
+      },
+      {
+        "level": 57,
+        "move": "Fuerza Bruta"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Puño Hielo",
+      "Megapatada",
+      "Golpe Cabeza",
+      "Derribo",
+      "Surf",
+      "Rayo Hielo",
+      "Ventisca",
+      "Hiperrayo",
+      "Patada Baja",
+      "Contraataque",
+      "Sísmico",
+      "Fuerza",
+      "Terremoto",
+      "Fisura",
+      "Excavar",
+      "Tóxico",
+      "Psíquico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Rizo Defensa",
+      "Venganza",
+      "Metrónomo",
+      "Cascada",
+      "Rapidez",
+      "Cabezazo",
+      "Amnesia",
+      "Psicoonda",
+      "Salpicadura",
+      "Descanso",
+      "Avalancha",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Inversión",
+      "Protección",
+      "Cara Susto",
+      "Bofetón Lodo",
+      "Viento Hielo",
+      "Detección",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Relevo",
+      "Otra Vez",
+      "Poder Oculto",
+      "Más Psique",
+      "Golpe Roca",
+      "Torbellino",
+      "Granizo",
+      "Imagen",
+      "Puño Certero",
+      "Mofa",
+      "Refuerzo",
+      "Demolición",
+      "Desarme",
+      "Esfuerzo",
+      "Daño Secreto",
+      "Buceo",
+      "Meteorobola",
+      "Tumba Rocas",
+      "Agua Lodosa",
+      "Hidropulso",
+      "Don Natural",
+      "A Bocajarro",
+      "Vendetta",
+      "Lanzamiento",
+      "Puya Nociva",
+      "Puño Drenaje",
+      "Onda Vacío",
+      "Onda Certera",
+      "Gigaimpacto",
+      "Treparrocas",
+      "Seducción",
+      "Puntapié",
+      "Canon",
+      "Escaldar",
+      "Terratemblor",
+      "Avivar",
+      "Golpe Bis",
+      "Confidencia",
+      "Puño Incremento",
+      "Lariat Oscuro",
+      "Fuerza Equina",
+      "Golpe Mordaza",
+      "Hidroariete",
+      "Motivación",
+      "Tera Blast",
+      "Chilling Water",
+      "Palma Rauda"
+    ]
+  }
+}

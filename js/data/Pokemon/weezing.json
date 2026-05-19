@@ -1,0 +1,165 @@
+{
+  "id": 110,
+  "name": "Weezing",
+  "types": [
+    "Veneno"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "atk": 90,
+    "def": 120,
+    "spa": 85,
+    "spd": 70,
+    "spe": 60
+  },
+  "abilities": [
+    "Levitación",
+    "Neutralizing Gas",
+    "Stench"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Psicorrayo"
+      },
+      {
+        "level": 1,
+        "move": "Chirrido"
+      },
+      {
+        "level": 1,
+        "move": "Polución"
+      },
+      {
+        "level": 1,
+        "move": "Residuos"
+      },
+      {
+        "level": 1,
+        "move": "Gas Venenoso"
+      },
+      {
+        "level": 1,
+        "move": "Onda Ígnea"
+      },
+      {
+        "level": 15,
+        "move": "Buena Baza"
+      },
+      {
+        "level": 19,
+        "move": "Niebla Clara"
+      },
+      {
+        "level": 29,
+        "move": "Giro Bola"
+      },
+      {
+        "level": 30,
+        "move": "Tóxico"
+      },
+      {
+        "level": 33,
+        "move": "Doble Golpe"
+      },
+      {
+        "level": 39,
+        "move": "Pantalla de Humo"
+      },
+      {
+        "level": 43,
+        "move": "Autodestrucción"
+      },
+      {
+        "level": 48,
+        "move": "Bomba Lodo"
+      },
+      {
+        "level": 49,
+        "move": "Niebla"
+      },
+      {
+        "level": 50,
+        "move": "Eructo"
+      },
+      {
+        "level": 51,
+        "move": "Mismo Destino"
+      },
+      {
+        "level": 53,
+        "move": "Explosión"
+      },
+      {
+        "level": 58,
+        "move": "Legado"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Lanzallamas",
+      "Hiperrayo",
+      "Rayo",
+      "Trueno",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Venganza",
+      "Llamarada",
+      "Destello",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Rencor",
+      "Protección",
+      "Cara Susto",
+      "Electrocañón",
+      "Aguante",
+      "Rodar",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Divide Dolor",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Bola Sombra",
+      "Alboroto",
+      "Tormento",
+      "Fuego Fatuo",
+      "Imagen",
+      "Mofa",
+      "Daño Secreto",
+      "Onda Voltio",
+      "Don Natural",
+      "Vendetta",
+      "Púas Tóxicas",
+      "Pulso Umbrío",
+      "Gigaimpacto",
+      "Lanzamugre",
+      "Seducción",
+      "Carga Tóxica",
+      "Onda Tóxica",
+      "Bomba Ácida",
+      "Canon",
+      "Calcinación",
+      "Confidencia",
+      "Trampa Venenosa",
+      "Acoso",
+      "Gas Corrosivo",
+      "Tera Blast"
+    ]
+  }
+}

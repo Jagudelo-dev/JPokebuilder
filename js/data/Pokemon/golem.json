@@ -1,0 +1,205 @@
+{
+  "id": 76,
+  "name": "Golem",
+  "types": [
+    "Roca",
+    "Tierra"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "atk": 120,
+    "def": 130,
+    "spa": 55,
+    "spd": 65,
+    "spe": 45
+  },
+  "abilities": [
+    "Cabeza Roca",
+    "Robustez",
+    "Velo Arena"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Megapuño"
+      },
+      {
+        "level": 1,
+        "move": "Ataque Arena"
+      },
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Rizo Defensa"
+      },
+      {
+        "level": 1,
+        "move": "Venganza"
+      },
+      {
+        "level": 1,
+        "move": "Magnitud"
+      },
+      {
+        "level": 1,
+        "move": "Chapoteo Lodo"
+      },
+      {
+        "level": 1,
+        "move": "Pulimento"
+      },
+      {
+        "level": 4,
+        "move": "Tormenta Arena"
+      },
+      {
+        "level": 9,
+        "move": "Bofetón Lodo"
+      },
+      {
+        "level": 15,
+        "move": "Derribo"
+      },
+      {
+        "level": 15,
+        "move": "Defensa Férrea"
+      },
+      {
+        "level": 16,
+        "move": "Lanzarrocas"
+      },
+      {
+        "level": 18,
+        "move": "Rodillo de Púas"
+      },
+      {
+        "level": 21,
+        "move": "Autodestrucción"
+      },
+      {
+        "level": 23,
+        "move": "Avalancha"
+      },
+      {
+        "level": 27,
+        "move": "Antiaéreo"
+      },
+      {
+        "level": 29,
+        "move": "Fortaleza"
+      },
+      {
+        "level": 34,
+        "move": "Rodar"
+      },
+      {
+        "level": 36,
+        "move": "Terremoto"
+      },
+      {
+        "level": 36,
+        "move": "Terratemblor"
+      },
+      {
+        "level": 37,
+        "move": "Pedrada"
+      },
+      {
+        "level": 42,
+        "move": "Trampa Rocas"
+      },
+      {
+        "level": 43,
+        "move": "Explosión"
+      },
+      {
+        "level": 49,
+        "move": "Roca Afilada"
+      },
+      {
+        "level": 62,
+        "move": "Doble Filo"
+      },
+      {
+        "level": 69,
+        "move": "Cuerpo Pesado"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Puño Fuego",
+      "Puño Trueno",
+      "Megapatada",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Rugido",
+      "Lanzallamas",
+      "Hiperrayo",
+      "Sumisión",
+      "Contraataque",
+      "Sísmico",
+      "Fuerza",
+      "Fisura",
+      "Excavar",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Metrónomo",
+      "Llamarada",
+      "Descanso",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Azote",
+      "Protección",
+      "Cara Susto",
+      "Aguante",
+      "Contoneo",
+      "Corte Furia",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Puño Dinámico",
+      "Poder Oculto",
+      "Día Soleado",
+      "Poder Pasado",
+      "Golpe Roca",
+      "Imagen",
+      "Puño Certero",
+      "Adaptación",
+      "Fuerza Bruta",
+      "Demolición",
+      "Daño Secreto",
+      "Tumba Rocas",
+      "Bloqueo",
+      "Disparo Lodo",
+      "Machada",
+      "Giro Bola",
+      "Don Natural",
+      "Lanzamiento",
+      "Golpe Bajo",
+      "Onda Certera",
+      "Tierra Viva",
+      "Gigaimpacto",
+      "Treparrocas",
+      "Cabeza de Hierro",
+      "Seducción",
+      "Vastaguardia",
+      "Canon",
+      "Calcinación",
+      "Confidencia",
+      "Puño Incremento",
+      "Fuerza Equina",
+      "Pataleta",
+      "Plancha Corporal",
+      "Tera Blast",
+      "Prensa Metálica"
+    ]
+  }
+}

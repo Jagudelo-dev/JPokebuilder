@@ -1,0 +1,183 @@
+{
+  "id": 5,
+  "name": "Charmeleon",
+  "types": [
+    "Fuego"
+  ],
+  "baseStats": {
+    "hp": 58,
+    "atk": 64,
+    "def": 58,
+    "spa": 80,
+    "spd": 65,
+    "spe": 80
+  },
+  "abilities": [
+    "Mar Llamas",
+    "Poder Solar"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Arañazo"
+      },
+      {
+        "level": 1,
+        "move": "Gruñido"
+      },
+      {
+        "level": 1,
+        "move": "Ascuas"
+      },
+      {
+        "level": 12,
+        "move": "Dragoaliento"
+      },
+      {
+        "level": 13,
+        "move": "Pantalla de Humo"
+      },
+      {
+        "level": 13,
+        "move": "Garra Metal"
+      },
+      {
+        "level": 15,
+        "move": "Malicioso"
+      },
+      {
+        "level": 20,
+        "move": "Golpes Furia"
+      },
+      {
+        "level": 24,
+        "move": "Furia"
+      },
+      {
+        "level": 27,
+        "move": "Cara Susto"
+      },
+      {
+        "level": 28,
+        "move": "Colmillo Ígneo"
+      },
+      {
+        "level": 32,
+        "move": "Pirotecnia"
+      },
+      {
+        "level": 33,
+        "move": "Cuchillada"
+      },
+      {
+        "level": 42,
+        "move": "Lanzallamas"
+      },
+      {
+        "level": 48,
+        "move": "Furia Dragón"
+      },
+      {
+        "level": 54,
+        "move": "Envite Ígneo"
+      },
+      {
+        "level": 54,
+        "move": "Infierno"
+      },
+      {
+        "level": 56,
+        "move": "Giro Fuego"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Puño Fuego",
+      "Puño Trueno",
+      "Danza Espada",
+      "Corte",
+      "Megapatada",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Mordisco",
+      "Rugido",
+      "Sumisión",
+      "Contraataque",
+      "Sísmico",
+      "Fuerza",
+      "Excavar",
+      "Tóxico",
+      "Mimético",
+      "Doble Equipo",
+      "Rizo Defensa",
+      "Reflejo",
+      "Venganza",
+      "Llamarada",
+      "Rapidez",
+      "Cabezazo",
+      "Descanso",
+      "Avalancha",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Tambor",
+      "Bofetón Lodo",
+      "Enfado",
+      "Aguante",
+      "Falso Tortazo",
+      "Contoneo",
+      "Corte Furia",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Puño Dinámico",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Día Soleado",
+      "Triturar",
+      "Poder Pasado",
+      "Golpe Roca",
+      "Paliza",
+      "Onda Ígnea",
+      "Fuego Fatuo",
+      "Imagen",
+      "Puño Certero",
+      "Refuerzo",
+      "Demolición",
+      "Daño Secreto",
+      "Meteorobola",
+      "Sofoco",
+      "Tumba Rocas",
+      "Golpe Aéreo",
+      "Garra Dragón",
+      "Danza Dragón",
+      "Don Natural",
+      "Lanzamiento",
+      "Pulso Dragón",
+      "Carga Dragón",
+      "Onda Certera",
+      "Garra Umbría",
+      "Seducción",
+      "Afilagarras",
+      "Nitrocarga",
+      "Canon",
+      "Eco Voz",
+      "Calcinación",
+      "Acróbata",
+      "Voto Fuego",
+      "Cola Dragón",
+      "Avivar",
+      "Confidencia",
+      "Puño Incremento",
+      "Vasto Impacto",
+      "Tera Blast",
+      "Cólera Ardiente"
+    ]
+  }
+}

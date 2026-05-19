@@ -1,0 +1,167 @@
+{
+  "id": 133,
+  "name": "Eevee",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 55,
+    "atk": 55,
+    "def": 50,
+    "spa": 45,
+    "spd": 65,
+    "spe": 55
+  },
+  "abilities": [
+    "Run Away",
+    "Adaptable",
+    "Anticipation"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Ataque Arena"
+      },
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Refuerzo"
+      },
+      {
+        "level": 9,
+        "move": "Ojitos Tiernos"
+      },
+      {
+        "level": 10,
+        "move": "Doble Patada"
+      },
+      {
+        "level": 10,
+        "move": "Rapidez"
+      },
+      {
+        "level": 16,
+        "move": "Gruñido"
+      },
+      {
+        "level": 20,
+        "move": "Alivio"
+      },
+      {
+        "level": 21,
+        "move": "Antojo"
+      },
+      {
+        "level": 25,
+        "move": "Mimético"
+      },
+      {
+        "level": 27,
+        "move": "Ataque Rápido"
+      },
+      {
+        "level": 29,
+        "move": "Encanto"
+      },
+      {
+        "level": 30,
+        "move": "Copión"
+      },
+      {
+        "level": 31,
+        "move": "Látigo"
+      },
+      {
+        "level": 34,
+        "move": "Paz Mental"
+      },
+      {
+        "level": 36,
+        "move": "Foco Energía"
+      },
+      {
+        "level": 36,
+        "move": "Relevo"
+      },
+      {
+        "level": 37,
+        "move": "Doble Filo"
+      },
+      {
+        "level": 37,
+        "move": "Mordisco"
+      },
+      {
+        "level": 45,
+        "move": "Derribo"
+      },
+      {
+        "level": 50,
+        "move": "Última Baza"
+      },
+      {
+        "level": 57,
+        "move": "As Oculto"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Día de Pago",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Rugido",
+      "Excavar",
+      "Tóxico",
+      "Furia",
+      "Doble Equipo",
+      "Reflejo",
+      "Venganza",
+      "Cabezazo",
+      "Descanso",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Azote",
+      "Protección",
+      "Bofetón Lodo",
+      "Detección",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Campana Cura",
+      "Retribución",
+      "Frustración",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Bola Sombra",
+      "Imagen",
+      "Deseo",
+      "Bostezo",
+      "Daño Secreto",
+      "Vozarrón",
+      "Meteorobola",
+      "Llanto Falso",
+      "Cosquillas",
+      "Don Natural",
+      "Seducción",
+      "Sincrorruido",
+      "Canon",
+      "Eco Voz",
+      "Poder Reserva",
+      "Represalia",
+      "Avivar",
+      "Confidencia",
+      "Aguzar",
+      "Tera Blast",
+      "Trailblaze",
+      "Canto Encantador"
+    ]
+  }
+}

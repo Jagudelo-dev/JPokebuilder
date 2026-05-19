@@ -1,0 +1,40 @@
+{
+  "id": 10,
+  "name": "Caterpie",
+  "types": [
+    "Bicho"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "atk": 30,
+    "def": 35,
+    "spa": 20,
+    "spd": 20,
+    "spe": 45
+  },
+  "abilities": [
+    "Shield Dust",
+    "Run Away"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Disparo Demora"
+      },
+      {
+        "level": 15,
+        "move": "Picadura"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Ronquido",
+      "Electrotela"
+    ]
+  }
+}

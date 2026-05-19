@@ -1,0 +1,191 @@
+{
+  "id": 93,
+  "name": "Haunter",
+  "types": [
+    "Fantasma",
+    "Veneno"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "atk": 50,
+    "def": 45,
+    "spa": 115,
+    "spd": 55,
+    "spe": 95
+  },
+  "abilities": [
+    "Levitación"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Tinieblas"
+      },
+      {
+        "level": 1,
+        "move": "Rayo Confuso"
+      },
+      {
+        "level": 1,
+        "move": "Lengüetazo"
+      },
+      {
+        "level": 1,
+        "move": "Polución"
+      },
+      {
+        "level": 1,
+        "move": "Rencor"
+      },
+      {
+        "level": 1,
+        "move": "Impresionar"
+      },
+      {
+        "level": 7,
+        "move": "Gas Venenoso"
+      },
+      {
+        "level": 13,
+        "move": "Mal de Ojo"
+      },
+      {
+        "level": 14,
+        "move": "Fuego Fatuo"
+      },
+      {
+        "level": 16,
+        "move": "Maldición"
+      },
+      {
+        "level": 18,
+        "move": "Carga Tóxica"
+      },
+      {
+        "level": 21,
+        "move": "Tóxico"
+      },
+      {
+        "level": 22,
+        "move": "Golpe Bajo"
+      },
+      {
+        "level": 25,
+        "move": "Puño Sombra"
+      },
+      {
+        "level": 28,
+        "move": "Vendetta"
+      },
+      {
+        "level": 29,
+        "move": "Hipnosis"
+      },
+      {
+        "level": 38,
+        "move": "Comesueños"
+      },
+      {
+        "level": 44,
+        "move": "Pulso Umbrío"
+      },
+      {
+        "level": 45,
+        "move": "Bola Sombra"
+      },
+      {
+        "level": 48,
+        "move": "Mismo Destino"
+      },
+      {
+        "level": 53,
+        "move": "Pesadilla"
+      },
+      {
+        "level": 55,
+        "move": "Infortunio"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Puño Fuego",
+      "Puño Hielo",
+      "Puño Trueno",
+      "Golpe Cabeza",
+      "Megaagotar",
+      "Rayo",
+      "Trueno",
+      "Psíquico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Niebla",
+      "Venganza",
+      "Metrónomo",
+      "Autodestrucción",
+      "Psicoonda",
+      "Explosión",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Protección",
+      "Cara Susto",
+      "Bomba Lodo",
+      "Electrocañón",
+      "Viento Hielo",
+      "Gigadrenado",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Divide Dolor",
+      "Otra Vez",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Más Psique",
+      "Alboroto",
+      "Tormento",
+      "Imagen",
+      "Mofa",
+      "Truco",
+      "Desarme",
+      "Intercambio",
+      "Sellar",
+      "Robo",
+      "Daño Secreto",
+      "Don Natural",
+      "Embargo",
+      "Lanzamiento",
+      "Púas Tóxicas",
+      "Puya Nociva",
+      "Onda Certera",
+      "Energibola",
+      "Maquinación",
+      "Garra Umbría",
+      "Espacio Raro",
+      "Lanzamugre",
+      "Seducción",
+      "Viento Aciago",
+      "Zona Extraña",
+      "Telequinesis",
+      "Onda Tóxica",
+      "Bomba Ácida",
+      "Juego Sucio",
+      "Canon",
+      "Cambio de Banda",
+      "Golpe Fantasma",
+      "Confidencia",
+      "Brillo Mágico",
+      "Acoso",
+      "Golpe Rastrero",
+      "Poltergeist",
+      "Gas Corrosivo",
+      "Tera Blast"
+    ]
+  }
+}

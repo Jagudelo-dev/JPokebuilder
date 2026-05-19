@@ -1,0 +1,158 @@
+{
+  "id": 2,
+  "name": "Ivysaur",
+  "types": [
+    "Planta",
+    "Veneno"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "atk": 62,
+    "def": 63,
+    "spa": 80,
+    "spd": 80,
+    "spe": 60
+  },
+  "abilities": [
+    "Espesura",
+    "Clorofila"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Gruñido"
+      },
+      {
+        "level": 1,
+        "move": "Drenadoras"
+      },
+      {
+        "level": 13,
+        "move": "Látigo Cepa"
+      },
+      {
+        "level": 15,
+        "move": "Derribo"
+      },
+      {
+        "level": 20,
+        "move": "Bomba Germen"
+      },
+      {
+        "level": 22,
+        "move": "Polvo Veneno"
+      },
+      {
+        "level": 29,
+        "move": "Dulce Aroma"
+      },
+      {
+        "level": 30,
+        "move": "Hoja Afilada"
+      },
+      {
+        "level": 31,
+        "move": "Doble Filo"
+      },
+      {
+        "level": 36,
+        "move": "Abatidoras"
+      },
+      {
+        "level": 38,
+        "move": "Desarrollo"
+      },
+      {
+        "level": 45,
+        "move": "Latigazo"
+      },
+      {
+        "level": 46,
+        "move": "Somnífero"
+      },
+      {
+        "level": 47,
+        "move": "Síntesis"
+      },
+      {
+        "level": 54,
+        "move": "Rayo Solar"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Danza Espada",
+      "Corte",
+      "Atadura",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Rugido",
+      "Fuerza",
+      "Megaagotar",
+      "Danza Pétalo",
+      "Disparo Demora",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Rizo Defensa",
+      "Pantalla de Luz",
+      "Reflejo",
+      "Venganza",
+      "Amnesia",
+      "Destello",
+      "Descanso",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bomba Lodo",
+      "Bofetón Lodo",
+      "Enfado",
+      "Gigadrenado",
+      "Aguante",
+      "Encanto",
+      "Falso Tortazo",
+      "Contoneo",
+      "Corte Furia",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Velo Sagrado",
+      "Poder Oculto",
+      "Día Soleado",
+      "Golpe Roca",
+      "Imagen",
+      "Adaptación",
+      "Refuerzo",
+      "Arraigo",
+      "Desarme",
+      "Daño Secreto",
+      "Meteorobola",
+      "Semilladora",
+      "Hoja Mágica",
+      "Don Natural",
+      "Energibola",
+      "Lluevehojas",
+      "Seducción",
+      "Hierba Lazo",
+      "Carga Tóxica",
+      "Bomba Ácida",
+      "Canon",
+      "Eco Voz",
+      "Voto Planta",
+      "Avivar",
+      "Campo de Hierba",
+      "Confidencia",
+      "Fitoimpulso",
+      "Tera Blast",
+      "Trailblaze"
+    ]
+  }
+}

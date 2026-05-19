@@ -1,0 +1,155 @@
+{
+  "id": 119,
+  "name": "Seaking",
+  "types": [
+    "Agua"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "atk": 92,
+    "def": 65,
+    "spa": 65,
+    "spd": 80,
+    "spe": 68
+  },
+  "abilities": [
+    "Nado Rápido",
+    "Velo Agua",
+    "Pararrayos"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Látigo"
+      },
+      {
+        "level": 1,
+        "move": "Supersónico"
+      },
+      {
+        "level": 1,
+        "move": "Psicorrayo"
+      },
+      {
+        "level": 1,
+        "move": "Picotazo"
+      },
+      {
+        "level": 1,
+        "move": "Ataque Rápido"
+      },
+      {
+        "level": 1,
+        "move": "Cabezazo"
+      },
+      {
+        "level": 1,
+        "move": "Hidrochorro"
+      },
+      {
+        "level": 1,
+        "move": "Puya Nociva"
+      },
+      {
+        "level": 17,
+        "move": "Hidropulso"
+      },
+      {
+        "level": 24,
+        "move": "Cornada"
+      },
+      {
+        "level": 24,
+        "move": "Azote"
+      },
+      {
+        "level": 27,
+        "move": "Acua Aro"
+      },
+      {
+        "level": 30,
+        "move": "Ataque Furia"
+      },
+      {
+        "level": 39,
+        "move": "Cascada"
+      },
+      {
+        "level": 48,
+        "move": "Perforador"
+      },
+      {
+        "level": 54,
+        "move": "Agilidad"
+      },
+      {
+        "level": 63,
+        "move": "Anegar"
+      },
+      {
+        "level": 69,
+        "move": "Megacuerno"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Danza Espada",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Pistola Agua",
+      "Hidrobomba",
+      "Surf",
+      "Rayo Hielo",
+      "Ventisca",
+      "Rayo Burbuja",
+      "Hiperrayo",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Venganza",
+      "Rapidez",
+      "Descanso",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bofetón Lodo",
+      "Viento Hielo",
+      "Aguante",
+      "Contoneo",
+      "Corte Furia",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Torbellino",
+      "Granizo",
+      "Imagen",
+      "Desarme",
+      "Daño Secreto",
+      "Buceo",
+      "Doble Rayo",
+      "Agua Lodosa",
+      "Bote",
+      "Disparo Lodo",
+      "Don Natural",
+      "Acua Cola",
+      "Gigaimpacto",
+      "Seducción",
+      "Canon",
+      "Escaldar",
+      "Taladradora",
+      "Confidencia",
+      "Golpe Mordaza",
+      "Cuerno Certero",
+      "Ráfaga Escamas",
+      "Viraje"
+    ]
+  }
+}

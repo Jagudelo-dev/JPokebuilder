@@ -1,0 +1,233 @@
+{
+  "id": 6,
+  "name": "Charizard",
+  "types": [
+    "Fuego",
+    "Volador"
+  ],
+  "baseStats": {
+    "hp": 78,
+    "atk": 84,
+    "def": 78,
+    "spa": 109,
+    "spd": 85,
+    "spe": 100
+  },
+  "abilities": [
+    "Mar Llamas",
+    "Poder Solar"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Arañazo"
+      },
+      {
+        "level": 1,
+        "move": "Malicioso"
+      },
+      {
+        "level": 1,
+        "move": "Gruñido"
+      },
+      {
+        "level": 1,
+        "move": "Ascuas"
+      },
+      {
+        "level": 1,
+        "move": "Contraataque"
+      },
+      {
+        "level": 1,
+        "move": "Pantalla de Humo"
+      },
+      {
+        "level": 1,
+        "move": "Garra Metal"
+      },
+      {
+        "level": 1,
+        "move": "Triturar"
+      },
+      {
+        "level": 1,
+        "move": "Onda Ígnea"
+      },
+      {
+        "level": 1,
+        "move": "Garra Dragón"
+      },
+      {
+        "level": 1,
+        "move": "Tajo Aéreo"
+      },
+      {
+        "level": 1,
+        "move": "Garra Umbría"
+      },
+      {
+        "level": 12,
+        "move": "Dragoaliento"
+      },
+      {
+        "level": 20,
+        "move": "Golpes Furia"
+      },
+      {
+        "level": 24,
+        "move": "Furia"
+      },
+      {
+        "level": 27,
+        "move": "Cara Susto"
+      },
+      {
+        "level": 28,
+        "move": "Colmillo Ígneo"
+      },
+      {
+        "level": 32,
+        "move": "Pirotecnia"
+      },
+      {
+        "level": 36,
+        "move": "Ataque Ala"
+      },
+      {
+        "level": 36,
+        "move": "Cuchillada"
+      },
+      {
+        "level": 46,
+        "move": "Lanzallamas"
+      },
+      {
+        "level": 54,
+        "move": "Furia Dragón"
+      },
+      {
+        "level": 55,
+        "move": "Giro Fuego"
+      },
+      {
+        "level": 62,
+        "move": "Infierno"
+      },
+      {
+        "level": 66,
+        "move": "Envite Ígneo"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Puño Fuego",
+      "Puño Trueno",
+      "Danza Espada",
+      "Corte",
+      "Vuelo",
+      "Megapatada",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Mordisco",
+      "Rugido",
+      "Hiperrayo",
+      "Sumisión",
+      "Sísmico",
+      "Fuerza",
+      "Rayo Solar",
+      "Terremoto",
+      "Fisura",
+      "Excavar",
+      "Tóxico",
+      "Mimético",
+      "Doble Equipo",
+      "Rizo Defensa",
+      "Reflejo",
+      "Venganza",
+      "Llamarada",
+      "Rapidez",
+      "Cabezazo",
+      "Descanso",
+      "Avalancha",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Tambor",
+      "Bofetón Lodo",
+      "Enfado",
+      "Tormenta Arena",
+      "Aguante",
+      "Falso Tortazo",
+      "Contoneo",
+      "Corte Furia",
+      "Ala de Acero",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Puño Dinámico",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Ciclón",
+      "Día Soleado",
+      "Poder Pasado",
+      "Golpe Roca",
+      "Paliza",
+      "Fuego Fatuo",
+      "Imagen",
+      "Puño Certero",
+      "Refuerzo",
+      "Demolición",
+      "Daño Secreto",
+      "Patada Ígnea",
+      "Anillo Ígneo",
+      "Meteorobola",
+      "Aire Afilado",
+      "Sofoco",
+      "Tumba Rocas",
+      "Golpe Aéreo",
+      "Danza Dragón",
+      "Respiro",
+      "Don Natural",
+      "Viento Afín",
+      "Lanzamiento",
+      "Pulso Dragón",
+      "Carga Dragón",
+      "Onda Certera",
+      "Gigaimpacto",
+      "Despejar",
+      "Seducción",
+      "Viento Aciago",
+      "Afilagarras",
+      "Nitrocarga",
+      "Canon",
+      "Eco Voz",
+      "Caída Libre",
+      "Calcinación",
+      "Acróbata",
+      "Voto Fuego",
+      "Terratemblor",
+      "Cola Dragón",
+      "Avivar",
+      "Golpe Calor",
+      "Vendaval",
+      "Confidencia",
+      "Llama Embrujada",
+      "Puño Incremento",
+      "Giro Vil",
+      "Vasto Impacto",
+      "Ráfaga Escamas",
+      "Ala Bis",
+      "Arenas Ardientes",
+      "Tera Blast",
+      "Bramido Dragón",
+      "Cólera Ardiente"
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "id": 48,
+  "name": "Venonat",
+  "types": [
+    "Bicho",
+    "Veneno"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "atk": 55,
+    "def": 50,
+    "spa": 40,
+    "spd": 55,
+    "spe": 45
+  },
+  "abilities": [
+    "Ojo Compuesto",
+    "Tinted Lens",
+    "Run Away"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Anulación"
+      },
+      {
+        "level": 1,
+        "move": "Profecía"
+      },
+      {
+        "level": 1,
+        "move": "Estoicismo"
+      },
+      {
+        "level": 11,
+        "move": "Supersónico"
+      },
+      {
+        "level": 19,
+        "move": "Confusión"
+      },
+      {
+        "level": 24,
+        "move": "Polvo Veneno"
+      },
+      {
+        "level": 25,
+        "move": "Megaagotar"
+      },
+      {
+        "level": 25,
+        "move": "Zumbido"
+      },
+      {
+        "level": 27,
+        "move": "Chupavidas"
+      },
+      {
+        "level": 30,
+        "move": "Paralizador"
+      },
+      {
+        "level": 35,
+        "move": "Psicorrayo"
+      },
+      {
+        "level": 35,
+        "move": "Doble Rayo"
+      },
+      {
+        "level": 37,
+        "move": "Cabezazo Zen"
+      },
+      {
+        "level": 38,
+        "move": "Somnífero"
+      },
+      {
+        "level": 41,
+        "move": "Colmillo Veneno"
+      },
+      {
+        "level": 43,
+        "move": "Psíquico"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Golpe Cabeza",
+      "Derribo",
+      "Doble Filo",
+      "Rayo Solar",
+      "Disparo Demora",
+      "Tóxico",
+      "Agilidad",
+      "Furia",
+      "Tinieblas",
+      "Mimético",
+      "Chirrido",
+      "Doble Equipo",
+      "Rayo Confuso",
+      "Reflejo",
+      "Venganza",
+      "Rapidez",
+      "Destello",
+      "Psicoonda",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bomba Lodo",
+      "Gigadrenado",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Relevo",
+      "Dulce Aroma",
+      "Sol Matinal",
+      "Poder Oculto",
+      "Día Soleado",
+      "Imagen",
+      "Esfuerzo",
+      "Intercambio",
+      "Daño Secreto",
+      "Don Natural",
+      "Púas Tóxicas",
+      "Energibola",
+      "Seducción",
+      "Picadura",
+      "Carga Tóxica",
+      "Polvo Ira",
+      "Bomba Ácida",
+      "Canon",
+      "Confidencia",
+      "Acoso",
+      "Plancha",
+      "Golpe Rastrero",
+      "Tera Blast",
+      "Pounce",
+      "Psicorruido"
+    ]
+  }
+}

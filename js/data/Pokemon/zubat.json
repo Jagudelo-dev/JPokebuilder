@@ -1,0 +1,170 @@
+{
+  "id": 41,
+  "name": "Zubat",
+  "types": [
+    "Veneno",
+    "Volador"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "atk": 45,
+    "def": 35,
+    "spa": 30,
+    "spd": 40,
+    "spe": 55
+  },
+  "abilities": [
+    "Foco Interno",
+    "Infiltrator"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Tornado"
+      },
+      {
+        "level": 1,
+        "move": "Absorber"
+      },
+      {
+        "level": 1,
+        "move": "Chupavidas"
+      },
+      {
+        "level": 6,
+        "move": "Hipnosis"
+      },
+      {
+        "level": 10,
+        "move": "Supersónico"
+      },
+      {
+        "level": 11,
+        "move": "Impresionar"
+      },
+      {
+        "level": 15,
+        "move": "Mordisco"
+      },
+      {
+        "level": 21,
+        "move": "Rayo Confuso"
+      },
+      {
+        "level": 23,
+        "move": "Rapidez"
+      },
+      {
+        "level": 25,
+        "move": "Veneno X"
+      },
+      {
+        "level": 28,
+        "move": "Ataque Ala"
+      },
+      {
+        "level": 28,
+        "move": "Tóxico"
+      },
+      {
+        "level": 31,
+        "move": "Aire Afilado"
+      },
+      {
+        "level": 33,
+        "move": "Acróbata"
+      },
+      {
+        "level": 36,
+        "move": "Niebla"
+      },
+      {
+        "level": 36,
+        "move": "Mal de Ojo"
+      },
+      {
+        "level": 37,
+        "move": "Carga Tóxica"
+      },
+      {
+        "level": 41,
+        "move": "Colmillo Veneno"
+      },
+      {
+        "level": 41,
+        "move": "Tajo Aéreo"
+      },
+      {
+        "level": 43,
+        "move": "Anticipo"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Viento Cortante",
+      "Remolino",
+      "Vuelo",
+      "Golpe Cabeza",
+      "Derribo",
+      "Doble Filo",
+      "Megaagotar",
+      "Agilidad",
+      "Ataque Rápido",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Venganza",
+      "Descanso",
+      "Superdiente",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Finta",
+      "Bomba Lodo",
+      "Detección",
+      "Gigadrenado",
+      "Aguante",
+      "Contoneo",
+      "Ala de Acero",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Persecución",
+      "Poder Oculto",
+      "Ciclón",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Triturar",
+      "Bola Sombra",
+      "Alboroto",
+      "Onda Ígnea",
+      "Tormento",
+      "Imagen",
+      "Mofa",
+      "Robo",
+      "Daño Secreto",
+      "Golpe Aéreo",
+      "Respiro",
+      "Don Natural",
+      "Picoteo",
+      "Viento Afín",
+      "Ida y Vuelta",
+      "Vendetta",
+      "Buena Baza",
+      "Pájaro Osado",
+      "Maquinación",
+      "Cabezazo Zen",
+      "Despejar",
+      "Seducción",
+      "Viento Aciago",
+      "Canon",
+      "Confidencia",
+      "Trampa Venenosa",
+      "Ala Bis"
+    ]
+  }
+}

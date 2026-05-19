@@ -1,0 +1,210 @@
+{
+  "id": 65,
+  "name": "Alakazam",
+  "types": [
+    "Psíquico"
+  ],
+  "baseStats": {
+    "hp": 55,
+    "atk": 50,
+    "def": 45,
+    "spa": 135,
+    "spd": 95,
+    "spe": 120
+  },
+  "abilities": [
+    "Sincronía",
+    "Foco Interno",
+    "Muro Mágico"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Anulación"
+      },
+      {
+        "level": 1,
+        "move": "Confusión"
+      },
+      {
+        "level": 1,
+        "move": "Teletransporte"
+      },
+      {
+        "level": 1,
+        "move": "Barrera"
+      },
+      {
+        "level": 1,
+        "move": "Kinético"
+      },
+      {
+        "level": 1,
+        "move": "Destello"
+      },
+      {
+        "level": 1,
+        "move": "Otra Vez"
+      },
+      {
+        "level": 6,
+        "move": "Hipnosis"
+      },
+      {
+        "level": 19,
+        "move": "Tinieblas"
+      },
+      {
+        "level": 22,
+        "move": "Gran Ojo"
+      },
+      {
+        "level": 24,
+        "move": "Cambio de Banda"
+      },
+      {
+        "level": 25,
+        "move": "Cabezazo Zen"
+      },
+      {
+        "level": 26,
+        "move": "Sustituto"
+      },
+      {
+        "level": 27,
+        "move": "Psicorrayo"
+      },
+      {
+        "level": 30,
+        "move": "Psicocarga"
+      },
+      {
+        "level": 31,
+        "move": "Recuperación"
+      },
+      {
+        "level": 31,
+        "move": "Premonición"
+      },
+      {
+        "level": 33,
+        "move": "Paz Mental"
+      },
+      {
+        "level": 34,
+        "move": "Psicocorte"
+      },
+      {
+        "level": 34,
+        "move": "Telequinesis"
+      },
+      {
+        "level": 38,
+        "move": "Psíquico"
+      },
+      {
+        "level": 40,
+        "move": "Imitación"
+      },
+      {
+        "level": 42,
+        "move": "Reflejo"
+      },
+      {
+        "level": 43,
+        "move": "Truco"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Puño Fuego",
+      "Puño Hielo",
+      "Puño Trueno",
+      "Megapatada",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Hiperrayo",
+      "Sumisión",
+      "Contraataque",
+      "Sísmico",
+      "Onda Trueno",
+      "Excavar",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Pantalla de Luz",
+      "Venganza",
+      "Metrónomo",
+      "Rapidez",
+      "Cabezazo",
+      "Comesueños",
+      "Psicoonda",
+      "Descanso",
+      "Triataque",
+      "Ladrón",
+      "Pesadilla",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Electrocañón",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Velo Sagrado",
+      "Puño Dinámico",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Más Psique",
+      "Bola Sombra",
+      "Tormento",
+      "Imagen",
+      "Puño Certero",
+      "Mofa",
+      "Capa Mágica",
+      "Reciclaje",
+      "Desarme",
+      "Intercambio",
+      "Sellar",
+      "Robo",
+      "Daño Secreto",
+      "Doble Rayo",
+      "Onda Voltio",
+      "Gravedad",
+      "Don Natural",
+      "Embargo",
+      "Lanzamiento",
+      "Cambiafuerza",
+      "Cambiadefensa",
+      "Puño Drenaje",
+      "Onda Certera",
+      "Energibola",
+      "Gigaimpacto",
+      "Maquinación",
+      "Espacio Raro",
+      "Seducción",
+      "Hierba Lazo",
+      "Rayo Carga",
+      "Zona Extraña",
+      "Zona Mágica",
+      "Juego Sucio",
+      "Canon",
+      "Poder Reserva",
+      "Confidencia",
+      "Brillo Mágico",
+      "Aguzar",
+      "Campo Psíquico",
+      "Cambiavelocidad",
+      "Vasta Fuerza"
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "id": 51,
+  "name": "Dugtrio",
+  "types": [
+    "Tierra"
+  ],
+  "baseStats": {
+    "hp": 35,
+    "atk": 100,
+    "def": 50,
+    "spa": 50,
+    "spd": 70,
+    "spe": 120
+  },
+  "abilities": [
+    "Velo Arena",
+    "Arena Trampa",
+    "Sand Force"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Arañazo"
+      },
+      {
+        "level": 1,
+        "move": "Gruñido"
+      },
+      {
+        "level": 1,
+        "move": "Excavar"
+      },
+      {
+        "level": 1,
+        "move": "Agilidad"
+      },
+      {
+        "level": 1,
+        "move": "Chirrido"
+      },
+      {
+        "level": 1,
+        "move": "Triataque"
+      },
+      {
+        "level": 1,
+        "move": "Magnitud"
+      },
+      {
+        "level": 1,
+        "move": "Tajo Umbrío"
+      },
+      {
+        "level": 1,
+        "move": "Fertilizante"
+      },
+      {
+        "level": 7,
+        "move": "Impresionar"
+      },
+      {
+        "level": 18,
+        "move": "Terratemblor"
+      },
+      {
+        "level": 21,
+        "move": "Golpes Furia"
+      },
+      {
+        "level": 23,
+        "move": "Golpe Bajo"
+      },
+      {
+        "level": 24,
+        "move": "Ataque Arena"
+      },
+      {
+        "level": 25,
+        "move": "Bofetón Lodo"
+      },
+      {
+        "level": 26,
+        "move": "Bucle Arena"
+      },
+      {
+        "level": 28,
+        "move": "Tierra Viva"
+      },
+      {
+        "level": 30,
+        "move": "Tormenta Arena"
+      },
+      {
+        "level": 33,
+        "move": "Bomba Fango"
+      },
+      {
+        "level": 35,
+        "move": "Cuchillada"
+      },
+      {
+        "level": 47,
+        "move": "Terremoto"
+      },
+      {
+        "level": 61,
+        "move": "Fisura"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Danza Espada",
+      "Corte",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Hiperrayo",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Venganza",
+      "Descanso",
+      "Avalancha",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Inversión",
+      "Protección",
+      "Bomba Lodo",
+      "Aguante",
+      "Encanto",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Poder Oculto",
+      "Día Soleado",
+      "Golpe Roca",
+      "Paliza",
+      "Alboroto",
+      "Imagen",
+      "Esfuerzo",
+      "Daño Secreto",
+      "Tumba Rocas",
+      "Golpe Aéreo",
+      "Disparo Lodo",
+      "Pedrada",
+      "Don Natural",
+      "Buena Baza",
+      "Gigaimpacto",
+      "Garra Umbría",
+      "Roca Afilada",
+      "Seducción",
+      "Trampa Rocas",
+      "Afilagarras",
+      "Antiaéreo",
+      "Onda Tóxica",
+      "Juego Sucio",
+      "Canon",
+      "Eco Voz",
+      "Cambio de Banda",
+      "Avivar",
+      "Confidencia",
+      "Fuerza Equina",
+      "Golpe Mordaza",
+      "Pataleta",
+      "Arenas Ardientes",
+      "Tera Blast"
+    ]
+  }
+}

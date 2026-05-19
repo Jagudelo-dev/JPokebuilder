@@ -1,0 +1,180 @@
+{
+  "id": 59,
+  "name": "Arcanine",
+  "types": [
+    "Fuego"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "atk": 110,
+    "def": 80,
+    "spa": 100,
+    "spd": 80,
+    "spe": 95
+  },
+  "abilities": [
+    "Intimidación",
+    "Absorbe Fuego",
+    "Justiciero"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Derribo"
+      },
+      {
+        "level": 1,
+        "move": "Doble Filo"
+      },
+      {
+        "level": 1,
+        "move": "Malicioso"
+      },
+      {
+        "level": 1,
+        "move": "Mordisco"
+      },
+      {
+        "level": 1,
+        "move": "Rugido"
+      },
+      {
+        "level": 1,
+        "move": "Ascuas"
+      },
+      {
+        "level": 1,
+        "move": "Lanzallamas"
+      },
+      {
+        "level": 1,
+        "move": "Agilidad"
+      },
+      {
+        "level": 1,
+        "move": "Rueda Fuego"
+      },
+      {
+        "level": 1,
+        "move": "Inversión"
+      },
+      {
+        "level": 1,
+        "move": "Triturar"
+      },
+      {
+        "level": 1,
+        "move": "Refuerzo"
+      },
+      {
+        "level": 1,
+        "move": "Rastreo"
+      },
+      {
+        "level": 1,
+        "move": "Aullido"
+      },
+      {
+        "level": 1,
+        "move": "Envite Ígneo"
+      },
+      {
+        "level": 1,
+        "move": "Colmillo Rayo"
+      },
+      {
+        "level": 1,
+        "move": "Colmillo Ígneo"
+      },
+      {
+        "level": 1,
+        "move": "Represalia"
+      },
+      {
+        "level": 1,
+        "move": "Carantoña"
+      },
+      {
+        "level": 1,
+        "move": "Llama Final"
+      },
+      {
+        "level": 50,
+        "move": "Veloc. Extrema"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Hiperrayo",
+      "Fuerza",
+      "Rayo Solar",
+      "Furia Dragón",
+      "Giro Fuego",
+      "Excavar",
+      "Tóxico",
+      "Furia",
+      "Teletransporte",
+      "Mimético",
+      "Doble Equipo",
+      "Reflejo",
+      "Venganza",
+      "Llamarada",
+      "Rapidez",
+      "Cabezazo",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Cara Susto",
+      "Bofetón Lodo",
+      "Enfado",
+      "Aguante",
+      "Encanto",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Velo Sagrado",
+      "Dragoaliento",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Día Soleado",
+      "Golpe Roca",
+      "Onda Ígnea",
+      "Fuego Fatuo",
+      "Imagen",
+      "Fuerza Bruta",
+      "Daño Secreto",
+      "Vozarrón",
+      "Sofoco",
+      "Golpe Aéreo",
+      "Antojo",
+      "Don Natural",
+      "A Bocajarro",
+      "Pulso Dragón",
+      "Gigaimpacto",
+      "Treparrocas",
+      "Cabeza de Hierro",
+      "Seducción",
+      "Nitrocarga",
+      "Canon",
+      "Calcinación",
+      "Terratemblor",
+      "Voltio Cruel",
+      "Golpe Calor",
+      "Alarido",
+      "Confidencia",
+      "Aguzar",
+      "Psicocolmillo",
+      "Arenas Ardientes",
+      "Tera Blast",
+      "Cólera Ardiente"
+    ]
+  }
+}

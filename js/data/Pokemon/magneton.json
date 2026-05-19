@@ -1,0 +1,175 @@
+{
+  "id": 82,
+  "name": "Magneton",
+  "types": [
+    "Eléctrico",
+    "Acero"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "atk": 60,
+    "def": 95,
+    "spa": 120,
+    "spd": 70,
+    "spe": 70
+  },
+  "abilities": [
+    "Magnet Pull",
+    "Robustez",
+    "Analytic"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Bomba Sónica"
+      },
+      {
+        "level": 1,
+        "move": "Impactrueno"
+      },
+      {
+        "level": 1,
+        "move": "Eco Metálico"
+      },
+      {
+        "level": 11,
+        "move": "Campo Eléctrico"
+      },
+      {
+        "level": 13,
+        "move": "Pantalla de Luz"
+      },
+      {
+        "level": 26,
+        "move": "Rayo"
+      },
+      {
+        "level": 26,
+        "move": "Chispa"
+      },
+      {
+        "level": 27,
+        "move": "Fijar Blanco"
+      },
+      {
+        "level": 27,
+        "move": "Bola Voltio"
+      },
+      {
+        "level": 29,
+        "move": "Supersónico"
+      },
+      {
+        "level": 30,
+        "move": "Bomba Imán"
+      },
+      {
+        "level": 35,
+        "move": "Triataque"
+      },
+      {
+        "level": 38,
+        "move": "Onda Trueno"
+      },
+      {
+        "level": 39,
+        "move": "Foco Resplandor"
+      },
+      {
+        "level": 40,
+        "move": "Chispazo"
+      },
+      {
+        "level": 46,
+        "move": "Rapidez"
+      },
+      {
+        "level": 46,
+        "move": "Disparo Espejo"
+      },
+      {
+        "level": 50,
+        "move": "Levitón"
+      },
+      {
+        "level": 53,
+        "move": "Electrocañón"
+      },
+      {
+        "level": 54,
+        "move": "Chirrido"
+      },
+      {
+        "level": 54,
+        "move": "Giro Bola"
+      },
+      {
+        "level": 56,
+        "move": "Trueno"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Golpe Cabeza",
+      "Derribo",
+      "Doble Filo",
+      "Hiperrayo",
+      "Tóxico",
+      "Furia",
+      "Teletransporte",
+      "Mimético",
+      "Doble Equipo",
+      "Rayo Confuso",
+      "Reflejo",
+      "Venganza",
+      "Destello",
+      "Explosión",
+      "Descanso",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Tormenta Arena",
+      "Aguante",
+      "Rodar",
+      "Contoneo",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Más Psique",
+      "Imagen",
+      "Carga",
+      "Refuerzo",
+      "Capa Mágica",
+      "Reciclaje",
+      "Alivio",
+      "Daño Secreto",
+      "Doble Rayo",
+      "Defensa Férrea",
+      "Onda Voltio",
+      "Gravedad",
+      "Don Natural",
+      "Gigaimpacto",
+      "Cabeza de Hierro",
+      "Rayo Carga",
+      "Cuerpo Pesado",
+      "Canon",
+      "Voltiocambio",
+      "Electrotela",
+      "Voltio Cruel",
+      "Confidencia",
+      "Onda Anómala",
+      "Metaláser",
+      "Alto Voltaje",
+      "Tera Blast"
+    ]
+  }
+}

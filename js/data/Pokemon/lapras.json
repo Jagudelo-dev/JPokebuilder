@@ -1,0 +1,197 @@
+{
+  "id": 131,
+  "name": "Lapras",
+  "types": [
+    "Agua",
+    "Hielo"
+  ],
+  "baseStats": {
+    "hp": 130,
+    "atk": 85,
+    "def": 80,
+    "spa": 85,
+    "spd": 95,
+    "spe": 60
+  },
+  "abilities": [
+    "Absorbe Agua",
+    "Armadura Concha",
+    "Hydration"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Gruñido"
+      },
+      {
+        "level": 1,
+        "move": "Pistola Agua"
+      },
+      {
+        "level": 10,
+        "move": "Canto Helado"
+      },
+      {
+        "level": 14,
+        "move": "Hidropulso"
+      },
+      {
+        "level": 15,
+        "move": "Gota Vital"
+      },
+      {
+        "level": 16,
+        "move": "Canto"
+      },
+      {
+        "level": 20,
+        "move": "Neblina"
+      },
+      {
+        "level": 25,
+        "move": "Golpe Cuerpo"
+      },
+      {
+        "level": 29,
+        "move": "Canto Mortal"
+      },
+      {
+        "level": 31,
+        "move": "Rayo Confuso"
+      },
+      {
+        "level": 37,
+        "move": "Salmuera"
+      },
+      {
+        "level": 38,
+        "move": "Rayo Hielo"
+      },
+      {
+        "level": 43,
+        "move": "Danza Lluvia"
+      },
+      {
+        "level": 45,
+        "move": "Surf"
+      },
+      {
+        "level": 46,
+        "move": "Hidrobomba"
+      },
+      {
+        "level": 50,
+        "move": "Velo Sagrado"
+      },
+      {
+        "level": 52,
+        "move": "Pulso Dragón"
+      },
+      {
+        "level": 55,
+        "move": "Frío Polar"
+      },
+      {
+        "level": 58,
+        "move": "Ventisca"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Golpe Cabeza",
+      "Perforador",
+      "Derribo",
+      "Doble Filo",
+      "Rugido",
+      "Rayo Burbuja",
+      "Rayo Aurora",
+      "Hiperrayo",
+      "Fuerza",
+      "Rayo Solar",
+      "Furia Dragón",
+      "Rayo",
+      "Trueno",
+      "Terremoto",
+      "Fisura",
+      "Tóxico",
+      "Psíquico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Niebla",
+      "Reflejo",
+      "Venganza",
+      "Cascada",
+      "Cabezazo",
+      "Comesueños",
+      "Psicoonda",
+      "Descanso",
+      "Sustituto",
+      "Pesadilla",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Electrocañón",
+      "Profecía",
+      "Viento Hielo",
+      "Enfado",
+      "Aguante",
+      "Encanto",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Campana Cura",
+      "Retribución",
+      "Frustración",
+      "Megacuerno",
+      "Dragoaliento",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Poder Pasado",
+      "Premonición",
+      "Golpe Roca",
+      "Torbellino",
+      "Granizo",
+      "Imagen",
+      "Refuerzo",
+      "Alivio",
+      "Daño Secreto",
+      "Buceo",
+      "Vozarrón",
+      "Meteorobola",
+      "Cosquillas",
+      "Doble Rayo",
+      "Agua Lodosa",
+      "Carámbano",
+      "Bloqueo",
+      "Danza Dragón",
+      "Onda Voltio",
+      "Don Natural",
+      "Acua Cola",
+      "Gigaimpacto",
+      "Alud",
+      "Cabezazo Zen",
+      "Cabeza de Hierro",
+      "Seducción",
+      "Canon",
+      "Eco Voz",
+      "Terratemblor",
+      "Vaho Gélido",
+      "Taladradora",
+      "Liofilización",
+      "Voz Cautivadora",
+      "Confidencia",
+      "Aria Burbuja",
+      "Cuerno Certero",
+      "Hidroariete",
+      "Plancha Corporal",
+      "Tera Blast",
+      "Snowscape",
+      "Chilling Water",
+      "Bramido Dragón",
+      "Canto Encantador",
+      "Psicorruido"
+    ]
+  }
+}

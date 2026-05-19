@@ -1,0 +1,187 @@
+{
+  "id": 126,
+  "name": "Magmar",
+  "types": [
+    "Fuego"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "atk": 95,
+    "def": 57,
+    "spa": 100,
+    "spd": 85,
+    "spe": 93
+  },
+  "abilities": [
+    "Flame Body",
+    "Espíritu Vital"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Ascuas"
+      },
+      {
+        "level": 6,
+        "move": "Placaje"
+      },
+      {
+        "level": 16,
+        "move": "Rueda Fuego"
+      },
+      {
+        "level": 16,
+        "move": "Finta"
+      },
+      {
+        "level": 18,
+        "move": "Gas Venenoso"
+      },
+      {
+        "level": 19,
+        "move": "Giro Fuego"
+      },
+      {
+        "level": 19,
+        "move": "Niebla Clara"
+      },
+      {
+        "level": 22,
+        "move": "Patada Baja"
+      },
+      {
+        "level": 24,
+        "move": "Cara Susto"
+      },
+      {
+        "level": 32,
+        "move": "Pirotecnia"
+      },
+      {
+        "level": 33,
+        "move": "Día Soleado"
+      },
+      {
+        "level": 36,
+        "move": "Malicioso"
+      },
+      {
+        "level": 36,
+        "move": "Humareda"
+      },
+      {
+        "level": 39,
+        "move": "Rayo Confuso"
+      },
+      {
+        "level": 43,
+        "move": "Puño Fuego"
+      },
+      {
+        "level": 48,
+        "move": "Pantalla de Humo"
+      },
+      {
+        "level": 52,
+        "move": "Polución"
+      },
+      {
+        "level": 55,
+        "move": "Lanzallamas"
+      },
+      {
+        "level": 57,
+        "move": "Llamarada"
+      },
+      {
+        "level": 64,
+        "move": "Hiperrayo"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Puño Trueno",
+      "Megapatada",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Rugido",
+      "Sumisión",
+      "Contraataque",
+      "Sísmico",
+      "Fuerza",
+      "Tóxico",
+      "Psíquico",
+      "Furia",
+      "Teletransporte",
+      "Mimético",
+      "Chirrido",
+      "Doble Equipo",
+      "Foco Energía",
+      "Venganza",
+      "Metrónomo",
+      "Cabezazo",
+      "Psicoonda",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Ultrapuño",
+      "Tambor",
+      "Bofetón Lodo",
+      "Detección",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Puño Dinámico",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Tajo Cruzado",
+      "Golpe Roca",
+      "Alboroto",
+      "Onda Ígnea",
+      "Fuego Fatuo",
+      "Imagen",
+      "Puño Certero",
+      "Señuelo",
+      "Mofa",
+      "Refuerzo",
+      "Demolición",
+      "Desarme",
+      "Daño Secreto",
+      "Sofoco",
+      "Antojo",
+      "Don Natural",
+      "Lanzamiento",
+      "Cambiafuerza",
+      "Envite Ígneo",
+      "Puya Nociva",
+      "Onda Certera",
+      "Gigaimpacto",
+      "Treparrocas",
+      "Seducción",
+      "Nitrocarga",
+      "Puntapié",
+      "Bomba Ácida",
+      "Canon",
+      "Calcinación",
+      "Golpe Bis",
+      "Golpe Calor",
+      "Eructo",
+      "Confidencia",
+      "Puño Incremento",
+      "Envidia Ardiente",
+      "Arenas Ardientes",
+      "Tera Blast",
+      "Cólera Ardiente"
+    ]
+  }
+}

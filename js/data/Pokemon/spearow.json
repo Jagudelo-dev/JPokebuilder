@@ -1,0 +1,139 @@
+{
+  "id": 21,
+  "name": "Spearow",
+  "types": [
+    "Normal",
+    "Volador"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "atk": 60,
+    "def": 30,
+    "spa": 31,
+    "spd": 31,
+    "spe": 70
+  },
+  "abilities": [
+    "Vista Lince",
+    "Sniper"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Gruñido"
+      },
+      {
+        "level": 1,
+        "move": "Picotazo"
+      },
+      {
+        "level": 9,
+        "move": "Malicioso"
+      },
+      {
+        "level": 15,
+        "move": "Ataque Furia"
+      },
+      {
+        "level": 18,
+        "move": "Ataque Ala"
+      },
+      {
+        "level": 22,
+        "move": "Derribo"
+      },
+      {
+        "level": 22,
+        "move": "Espejo"
+      },
+      {
+        "level": 25,
+        "move": "Persecución"
+      },
+      {
+        "level": 25,
+        "move": "Golpe Aéreo"
+      },
+      {
+        "level": 29,
+        "move": "Pico Taladro"
+      },
+      {
+        "level": 29,
+        "move": "Foco Energía"
+      },
+      {
+        "level": 29,
+        "move": "Buena Baza"
+      },
+      {
+        "level": 33,
+        "move": "Respiro"
+      },
+      {
+        "level": 36,
+        "move": "Agilidad"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Viento Cortante",
+      "Remolino",
+      "Vuelo",
+      "Golpe Cabeza",
+      "Doble Filo",
+      "Tóxico",
+      "Ataque Rápido",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Venganza",
+      "Rapidez",
+      "Ataque Aéreo",
+      "Descanso",
+      "Triataque",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Cara Susto",
+      "Finta",
+      "Bofetón Lodo",
+      "Detección",
+      "Aguante",
+      "Falso Tortazo",
+      "Contoneo",
+      "Ala de Acero",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Relevo",
+      "Poder Oculto",
+      "Ciclón",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Alboroto",
+      "Onda Ígnea",
+      "Imagen",
+      "Daño Secreto",
+      "Danza Pluma",
+      "Impresionar",
+      "Aire Afilado",
+      "Don Natural",
+      "Picoteo",
+      "Viento Afín",
+      "Ida y Vuelta",
+      "Despejar",
+      "Seducción",
+      "Viento Aciago",
+      "Canon",
+      "Eco Voz",
+      "Avivar",
+      "Taladradora",
+      "Confidencia"
+    ]
+  }
+}

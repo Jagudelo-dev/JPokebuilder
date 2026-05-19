@@ -1,0 +1,272 @@
+{
+  "id": 143,
+  "name": "Snorlax",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 160,
+    "atk": 110,
+    "def": 65,
+    "spa": 65,
+    "spd": 110,
+    "spe": 30
+  },
+  "abilities": [
+    "Immunity",
+    "Sebo",
+    "Gluttony"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Golpe Cabeza"
+      },
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Metrónomo"
+      },
+      {
+        "level": 1,
+        "move": "Amnesia"
+      },
+      {
+        "level": 1,
+        "move": "Descanso"
+      },
+      {
+        "level": 1,
+        "move": "Azote"
+      },
+      {
+        "level": 1,
+        "move": "Reserva"
+      },
+      {
+        "level": 1,
+        "move": "Tragar"
+      },
+      {
+        "level": 1,
+        "move": "Reciclaje"
+      },
+      {
+        "level": 1,
+        "move": "Lanzamiento"
+      },
+      {
+        "level": 1,
+        "move": "Última Baza"
+      },
+      {
+        "level": 12,
+        "move": "Lengüetazo"
+      },
+      {
+        "level": 15,
+        "move": "Rizo Defensa"
+      },
+      {
+        "level": 15,
+        "move": "Terratemblor"
+      },
+      {
+        "level": 16,
+        "move": "Mordisco"
+      },
+      {
+        "level": 22,
+        "move": "Tambor"
+      },
+      {
+        "level": 24,
+        "move": "Bostezo"
+      },
+      {
+        "level": 25,
+        "move": "Guardia Baja"
+      },
+      {
+        "level": 29,
+        "move": "Cabezazo Zen"
+      },
+      {
+        "level": 35,
+        "move": "Golpe Cuerpo"
+      },
+      {
+        "level": 36,
+        "move": "Ronquido"
+      },
+      {
+        "level": 37,
+        "move": "Sonámbulo"
+      },
+      {
+        "level": 37,
+        "move": "Bloqueo"
+      },
+      {
+        "level": 39,
+        "move": "Chirrido"
+      },
+      {
+        "level": 41,
+        "move": "Fortaleza"
+      },
+      {
+        "level": 42,
+        "move": "Antojo"
+      },
+      {
+        "level": 44,
+        "move": "Triturar"
+      },
+      {
+        "level": 44,
+        "move": "Machada"
+      },
+      {
+        "level": 48,
+        "move": "Doble Filo"
+      },
+      {
+        "level": 49,
+        "move": "Gigaimpacto"
+      },
+      {
+        "level": 50,
+        "move": "Rodar"
+      },
+      {
+        "level": 52,
+        "move": "Cuerpo Pesado"
+      },
+      {
+        "level": 52,
+        "move": "Eructo"
+      },
+      {
+        "level": 56,
+        "move": "Hiperrayo"
+      },
+      {
+        "level": 57,
+        "move": "Fuerza Equina"
+      },
+      {
+        "level": 65,
+        "move": "Fuerza Bruta"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Día de Pago",
+      "Puño Fuego",
+      "Puño Hielo",
+      "Puño Trueno",
+      "Remolino",
+      "Megapatada",
+      "Derribo",
+      "Lanzallamas",
+      "Pistola Agua",
+      "Hidrobomba",
+      "Surf",
+      "Rayo Hielo",
+      "Ventisca",
+      "Rayo Burbuja",
+      "Sumisión",
+      "Contraataque",
+      "Sísmico",
+      "Fuerza",
+      "Rayo Solar",
+      "Rayo",
+      "Trueno",
+      "Terremoto",
+      "Fisura",
+      "Excavar",
+      "Tóxico",
+      "Psíquico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Reflejo",
+      "Venganza",
+      "Autodestrucción",
+      "Llamarada",
+      "Cabezazo",
+      "Psicoonda",
+      "Avalancha",
+      "Sustituto",
+      "Maldición",
+      "Protección",
+      "Bofetón Lodo",
+      "Electrocañón",
+      "Viento Hielo",
+      "Enfado",
+      "Tormenta Arena",
+      "Aguante",
+      "Encanto",
+      "Contoneo",
+      "Atracción",
+      "Retribución",
+      "Frustración",
+      "Puño Dinámico",
+      "Otra Vez",
+      "Persecución",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Más Psique",
+      "Bola Sombra",
+      "Golpe Roca",
+      "Torbellino",
+      "Alboroto",
+      "Imagen",
+      "Puño Certero",
+      "Refuerzo",
+      "Demolición",
+      "Alivio",
+      "Robo",
+      "Daño Secreto",
+      "Vozarrón",
+      "Tumba Rocas",
+      "Onda Voltio",
+      "Hidropulso",
+      "Don Natural",
+      "Bilis",
+      "Bomba Germen",
+      "Onda Certera",
+      "Treparrocas",
+      "Lanzamugre",
+      "Cabeza de Hierro",
+      "Seducción",
+      "Antiaéreo",
+      "Cede Paso",
+      "Canon",
+      "Calcinación",
+      "Represalia",
+      "Avivar",
+      "Voltio Cruel",
+      "Golpe Calor",
+      "Confidencia",
+      "Puño Incremento",
+      "Lariat Oscuro",
+      "Pataleta",
+      "Plancha Corporal",
+      "Allanador Férreo",
+      "Pulso de Campo",
+      "Tera Blast",
+      "Trailblaze",
+      "Chilling Water",
+      "Prensa Metálica",
+      "Plancha Voltaica"
+    ]
+  }
+}

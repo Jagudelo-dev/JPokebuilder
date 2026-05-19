@@ -1,0 +1,183 @@
+{
+  "id": 72,
+  "name": "Tentacool",
+  "types": [
+    "Agua",
+    "Veneno"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "atk": 40,
+    "def": 35,
+    "spa": 50,
+    "spd": 100,
+    "spe": 70
+  },
+  "abilities": [
+    "Cuerpo Claro",
+    "Liquid Ooze",
+    "Cura Lluvia"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Ácido"
+      },
+      {
+        "level": 6,
+        "move": "Burbuja"
+      },
+      {
+        "level": 7,
+        "move": "Supersónico"
+      },
+      {
+        "level": 13,
+        "move": "Constricción"
+      },
+      {
+        "level": 15,
+        "move": "Púas Tóxicas"
+      },
+      {
+        "level": 18,
+        "move": "Picotazo Veneno"
+      },
+      {
+        "level": 22,
+        "move": "Pistola Agua"
+      },
+      {
+        "level": 25,
+        "move": "Rayo Burbuja"
+      },
+      {
+        "level": 26,
+        "move": "Bomba Ácida"
+      },
+      {
+        "level": 27,
+        "move": "Surf"
+      },
+      {
+        "level": 27,
+        "move": "Restricción"
+      },
+      {
+        "level": 29,
+        "move": "Hidropulso"
+      },
+      {
+        "level": 32,
+        "move": "Armadura Ácida"
+      },
+      {
+        "level": 33,
+        "move": "Barrera"
+      },
+      {
+        "level": 33,
+        "move": "Puya Nociva"
+      },
+      {
+        "level": 34,
+        "move": "Salmuera"
+      },
+      {
+        "level": 40,
+        "move": "Chirrido"
+      },
+      {
+        "level": 43,
+        "move": "Estrujón"
+      },
+      {
+        "level": 43,
+        "move": "Infortunio"
+      },
+      {
+        "level": 48,
+        "move": "Hidrobomba"
+      },
+      {
+        "level": 50,
+        "move": "Onda Tóxica"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Danza Espada",
+      "Corte",
+      "Atadura",
+      "Golpe Cabeza",
+      "Derribo",
+      "Doble Filo",
+      "Rayo Hielo",
+      "Ventisca",
+      "Rayo Aurora",
+      "Megaagotar",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Rayo Confuso",
+      "Niebla",
+      "Reflejo",
+      "Venganza",
+      "Cascada",
+      "Rapidez",
+      "Cabezazo",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bomba Lodo",
+      "Viento Hielo",
+      "Gigadrenado",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Velo Sagrado",
+      "Giro Rápido",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Manto Espejo",
+      "Torbellino",
+      "Granizo",
+      "Imagen",
+      "Capa Mágica",
+      "Desarme",
+      "Daño Secreto",
+      "Buceo",
+      "Cosquillas",
+      "Agua Lodosa",
+      "Disparo Lodo",
+      "Don Natural",
+      "Acupresión",
+      "Vendetta",
+      "Acua Aro",
+      "Veneno X",
+      "Lanzamugre",
+      "Seducción",
+      "Carga Tóxica",
+      "Canon",
+      "Escaldar",
+      "Confidencia",
+      "Brillo Mágico",
+      "Acoso",
+      "Golpe Mordaza",
+      "Giro Vil",
+      "Hidroariete",
+      "Viraje",
+      "Tera Blast",
+      "Pounce",
+      "Chilling Water"
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "id": 25,
+  "name": "Pikachu",
+  "types": [
+    "Eléctrico"
+  ],
+  "baseStats": {
+    "hp": 35,
+    "atk": 55,
+    "def": 40,
+    "spa": 50,
+    "spd": 50,
+    "spe": 90
+  },
+  "abilities": [
+    "Estática",
+    "Pararrayos"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Gruñido"
+      },
+      {
+        "level": 1,
+        "move": "Impactrueno"
+      },
+      {
+        "level": 1,
+        "move": "Beso Dulce"
+      },
+      {
+        "level": 1,
+        "move": "Encanto"
+      },
+      {
+        "level": 1,
+        "move": "Maquinación"
+      },
+      {
+        "level": 6,
+        "move": "Látigo"
+      },
+      {
+        "level": 7,
+        "move": "Camaradería"
+      },
+      {
+        "level": 9,
+        "move": "Doble Patada"
+      },
+      {
+        "level": 9,
+        "move": "Onda Trueno"
+      },
+      {
+        "level": 15,
+        "move": "Doble Equipo"
+      },
+      {
+        "level": 16,
+        "move": "Ataque Rápido"
+      },
+      {
+        "level": 18,
+        "move": "Bola Voltio"
+      },
+      {
+        "level": 20,
+        "move": "Atizar"
+      },
+      {
+        "level": 23,
+        "move": "Moflete Estático"
+      },
+      {
+        "level": 26,
+        "move": "Rayo"
+      },
+      {
+        "level": 26,
+        "move": "Rapidez"
+      },
+      {
+        "level": 26,
+        "move": "Chispa"
+      },
+      {
+        "level": 29,
+        "move": "Amago"
+      },
+      {
+        "level": 33,
+        "move": "Agilidad"
+      },
+      {
+        "level": 37,
+        "move": "Cola Férrea"
+      },
+      {
+        "level": 37,
+        "move": "Chispazo"
+      },
+      {
+        "level": 43,
+        "move": "Trueno"
+      },
+      {
+        "level": 50,
+        "move": "Pantalla de Luz"
+      },
+      {
+        "level": 50,
+        "move": "Voltio Cruel"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Día de Pago",
+      "Puño Trueno",
+      "Megapatada",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Surf",
+      "Sumisión",
+      "Contraataque",
+      "Sísmico",
+      "Fuerza",
+      "Excavar",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Rizo Defensa",
+      "Reflejo",
+      "Venganza",
+      "Cabezazo",
+      "Destello",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Inversión",
+      "Protección",
+      "Bofetón Lodo",
+      "Electrocañón",
+      "Detección",
+      "Aguante",
+      "Rodar",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Puño Dinámico",
+      "Otra Vez",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Golpe Roca",
+      "Alboroto",
+      "Imagen",
+      "Puño Certero",
+      "Carga",
+      "Refuerzo",
+      "Demolición",
+      "Desarme",
+      "Esfuerzo",
+      "Daño Secreto",
+      "Llanto Falso",
+      "Doble Rayo",
+      "Antojo",
+      "Placaje Eléc",
+      "Paz Mental",
+      "Onda Voltio",
+      "Don Natural",
+      "Lanzamiento",
+      "Levitón",
+      "Seducción",
+      "Hierba Lazo",
+      "Rayo Carga",
+      "Canon",
+      "Eco Voz",
+      "Voltiocambio",
+      "Electrotela",
+      "Voz Cautivadora",
+      "Beso Drenaje",
+      "Carantoña",
+      "Confidencia",
+      "Onda Anómala",
+      "Campo Eléctrico",
+      "Aguzar",
+      "Alto Voltaje",
+      "Tera Blast",
+      "Trailblaze",
+      "Canto Encantador",
+      "Palma Rauda"
+    ]
+  }
+}

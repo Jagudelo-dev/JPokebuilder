@@ -1,0 +1,186 @@
+{
+  "id": 139,
+  "name": "Omastar",
+  "types": [
+    "Roca",
+    "Agua"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "atk": 60,
+    "def": 125,
+    "spa": 115,
+    "spd": 70,
+    "spe": 55
+  },
+  "abilities": [
+    "Nado Rápido",
+    "Armadura Concha",
+    "Weak Armor"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 0,
+        "move": "Triturar"
+      },
+      {
+        "level": 1,
+        "move": "Atadura"
+      },
+      {
+        "level": 1,
+        "move": "Ataque Arena"
+      },
+      {
+        "level": 1,
+        "move": "Cornada"
+      },
+      {
+        "level": 1,
+        "move": "Mordisco"
+      },
+      {
+        "level": 1,
+        "move": "Supersónico"
+      },
+      {
+        "level": 1,
+        "move": "Pistola Agua"
+      },
+      {
+        "level": 1,
+        "move": "Refugio"
+      },
+      {
+        "level": 1,
+        "move": "Venganza"
+      },
+      {
+        "level": 1,
+        "move": "Restricción"
+      },
+      {
+        "level": 16,
+        "move": "Rodar"
+      },
+      {
+        "level": 25,
+        "move": "Disparo Lodo"
+      },
+      {
+        "level": 26,
+        "move": "Lanzarrocas"
+      },
+      {
+        "level": 28,
+        "move": "Salmuera"
+      },
+      {
+        "level": 37,
+        "move": "Avalancha"
+      },
+      {
+        "level": 37,
+        "move": "Protección"
+      },
+      {
+        "level": 39,
+        "move": "Malicioso"
+      },
+      {
+        "level": 44,
+        "move": "Clavo Cañón"
+      },
+      {
+        "level": 46,
+        "move": "Cosquillas"
+      },
+      {
+        "level": 49,
+        "move": "Hidrobomba"
+      },
+      {
+        "level": 54,
+        "move": "Poder Pasado"
+      },
+      {
+        "level": 56,
+        "move": "Surf"
+      },
+      {
+        "level": 56,
+        "move": "Pedrada"
+      },
+      {
+        "level": 67,
+        "move": "Rompecoraza"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Golpe Cabeza",
+      "Perforador",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Pin Misil",
+      "Rayo Hielo",
+      "Ventisca",
+      "Rayo Burbuja",
+      "Hiperrayo",
+      "Sumisión",
+      "Sísmico",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Reflejo",
+      "Cascada",
+      "Cabezazo",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Púas",
+      "Viento Hielo",
+      "Tormenta Arena",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Golpe Roca",
+      "Torbellino",
+      "Granizo",
+      "Imagen",
+      "Desarme",
+      "Daño Secreto",
+      "Buceo",
+      "Tumba Rocas",
+      "Agua Lodosa",
+      "Defensa Férrea",
+      "Hidropulso",
+      "Giro Bola",
+      "Don Natural",
+      "Púas Tóxicas",
+      "Pulimento",
+      "Tierra Viva",
+      "Gigaimpacto",
+      "Treparrocas",
+      "Roca Afilada",
+      "Seducción",
+      "Trampa Rocas",
+      "Antiaéreo",
+      "Canon",
+      "Escaldar",
+      "Confidencia",
+      "Hidroariete",
+      "Rayo Meteórico"
+    ]
+  }
+}

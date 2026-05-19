@@ -1,0 +1,178 @@
+{
+  "id": 102,
+  "name": "Exeggcute",
+  "types": [
+    "Planta",
+    "Psíquico"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "atk": 40,
+    "def": 80,
+    "spa": 60,
+    "spd": 45,
+    "spe": 40
+  },
+  "abilities": [
+    "Clorofila",
+    "Harvest"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Absorber"
+      },
+      {
+        "level": 1,
+        "move": "Hipnosis"
+      },
+      {
+        "level": 1,
+        "move": "Bombardeo"
+      },
+      {
+        "level": 1,
+        "move": "Alboroto"
+      },
+      {
+        "level": 15,
+        "move": "Megaagotar"
+      },
+      {
+        "level": 17,
+        "move": "Semilladora"
+      },
+      {
+        "level": 19,
+        "move": "Confusión"
+      },
+      {
+        "level": 25,
+        "move": "Reflejo"
+      },
+      {
+        "level": 25,
+        "move": "Síntesis"
+      },
+      {
+        "level": 27,
+        "move": "Psicorrayo"
+      },
+      {
+        "level": 28,
+        "move": "Drenadoras"
+      },
+      {
+        "level": 32,
+        "move": "Paralizador"
+      },
+      {
+        "level": 33,
+        "move": "Abatidoras"
+      },
+      {
+        "level": 35,
+        "move": "Gigadrenado"
+      },
+      {
+        "level": 37,
+        "move": "Polvo Veneno"
+      },
+      {
+        "level": 37,
+        "move": "Don Natural"
+      },
+      {
+        "level": 42,
+        "move": "Rayo Solar"
+      },
+      {
+        "level": 47,
+        "move": "Psíquico"
+      },
+      {
+        "level": 47,
+        "move": "Paranormal"
+      },
+      {
+        "level": 48,
+        "move": "Somnífero"
+      },
+      {
+        "level": 53,
+        "move": "Ofrenda"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Danza Espada",
+      "Golpe Cabeza",
+      "Derribo",
+      "Doble Filo",
+      "Fuerza",
+      "Tóxico",
+      "Furia",
+      "Teletransporte",
+      "Mimético",
+      "Doble Equipo",
+      "Pantalla de Luz",
+      "Venganza",
+      "Autodestrucción",
+      "Bomba Huevo",
+      "Comesueños",
+      "Destello",
+      "Psicoonda",
+      "Explosión",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Pesadilla",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bomba Lodo",
+      "Aguante",
+      "Rodar",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Luz Lunar",
+      "Poder Oculto",
+      "Día Soleado",
+      "Más Psique",
+      "Poder Pasado",
+      "Imagen",
+      "Adaptación",
+      "Refuerzo",
+      "Truco",
+      "Arraigo",
+      "Intercambio",
+      "Sellar",
+      "Daño Secreto",
+      "Bloqueo",
+      "Gravedad",
+      "Conjuro",
+      "Cambiafuerza",
+      "Bomba Germen",
+      "Energibola",
+      "Cabezazo Zen",
+      "Espacio Raro",
+      "Lluevehojas",
+      "Seducción",
+      "Hierba Lazo",
+      "Psicocarga",
+      "Telequinesis",
+      "Canon",
+      "Poder Reserva",
+      "Campo de Hierba",
+      "Confidencia",
+      "Acoso",
+      "Fitoimpulso",
+      "Tera Blast",
+      "Psicorruido"
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "id": 35,
+  "name": "Clefairy",
+  "types": [
+    "Hada"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "atk": 45,
+    "def": 48,
+    "spa": 60,
+    "spd": 65,
+    "spe": 35
+  },
+  "abilities": [
+    "Gran Encanto",
+    "Muro Mágico",
+    "Friend Guard"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Destructor"
+      },
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Gruñido"
+      },
+      {
+        "level": 1,
+        "move": "Salpicadura"
+      },
+      {
+        "level": 1,
+        "move": "Beso Dulce"
+      },
+      {
+        "level": 1,
+        "move": "Encanto"
+      },
+      {
+        "level": 1,
+        "move": "Copión"
+      },
+      {
+        "level": 1,
+        "move": "Voz Cautivadora"
+      },
+      {
+        "level": 1,
+        "move": "Foco"
+      },
+      {
+        "level": 4,
+        "move": "Otra Vez"
+      },
+      {
+        "level": 5,
+        "move": "Viento Feérico"
+      },
+      {
+        "level": 9,
+        "move": "Ojitos Tiernos"
+      },
+      {
+        "level": 13,
+        "move": "Canto"
+      },
+      {
+        "level": 15,
+        "move": "Beso Drenaje"
+      },
+      {
+        "level": 16,
+        "move": "Amnesia"
+      },
+      {
+        "level": 16,
+        "move": "Gota Vital"
+      },
+      {
+        "level": 17,
+        "move": "Señuelo"
+      },
+      {
+        "level": 18,
+        "move": "Doble Bofetón"
+      },
+      {
+        "level": 21,
+        "move": "Paz Mental"
+      },
+      {
+        "level": 22,
+        "move": "Espabila"
+      },
+      {
+        "level": 24,
+        "move": "Reducción"
+      },
+      {
+        "level": 25,
+        "move": "Ofrenda"
+      },
+      {
+        "level": 28,
+        "move": "Conjuro"
+      },
+      {
+        "level": 29,
+        "move": "Psíquico"
+      },
+      {
+        "level": 31,
+        "move": "Metrónomo"
+      },
+      {
+        "level": 33,
+        "move": "Masa Cósmica"
+      },
+      {
+        "level": 34,
+        "move": "Gravedad"
+      },
+      {
+        "level": 39,
+        "move": "Rizo Defensa"
+      },
+      {
+        "level": 40,
+        "move": "Golpe Cuerpo"
+      },
+      {
+        "level": 43,
+        "move": "Luz Lunar"
+      },
+      {
+        "level": 43,
+        "move": "Poder Reserva"
+      },
+      {
+        "level": 45,
+        "move": "Puño Meteoro"
+      },
+      {
+        "level": 46,
+        "move": "Deseo Cura"
+      },
+      {
+        "level": 46,
+        "move": "Fuerza Lunar"
+      },
+      {
+        "level": 47,
+        "move": "Doble Filo"
+      },
+      {
+        "level": 48,
+        "move": "Pantalla de Luz"
+      },
+      {
+        "level": 52,
+        "move": "Cede Paso"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Puño Fuego",
+      "Puño Hielo",
+      "Puño Trueno",
+      "Megapatada",
+      "Golpe Cabeza",
+      "Derribo",
+      "Lanzallamas",
+      "Pistola Agua",
+      "Rayo Hielo",
+      "Ventisca",
+      "Psicorrayo",
+      "Rayo Burbuja",
+      "Sumisión",
+      "Contraataque",
+      "Sísmico",
+      "Fuerza",
+      "Rayo Solar",
+      "Rayo",
+      "Onda Trueno",
+      "Trueno",
+      "Excavar",
+      "Tóxico",
+      "Furia",
+      "Teletransporte",
+      "Tinieblas",
+      "Mimético",
+      "Doble Equipo",
+      "Reflejo",
+      "Venganza",
+      "Llamarada",
+      "Rapidez",
+      "Cabezazo",
+      "Amortiguador",
+      "Comesueños",
+      "Destello",
+      "Psicoonda",
+      "Descanso",
+      "Triataque",
+      "Sustituto",
+      "Ladrón",
+      "Pesadilla",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bofetón Lodo",
+      "Electrocañón",
+      "Viento Hielo",
+      "Detección",
+      "Aguante",
+      "Rodar",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Campana Cura",
+      "Retribución",
+      "Presente",
+      "Frustración",
+      "Velo Sagrado",
+      "Puño Dinámico",
+      "Relevo",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Más Psique",
+      "Bola Sombra",
+      "Golpe Roca",
+      "Alboroto",
+      "Imagen",
+      "Puño Certero",
+      "Refuerzo",
+      "Truco",
+      "Imitación",
+      "Deseo",
+      "Capa Mágica",
+      "Reciclaje",
+      "Demolición",
+      "Desarme",
+      "Esfuerzo",
+      "Intercambio",
+      "Sellar",
+      "Robo",
+      "Daño Secreto",
+      "Vozarrón",
+      "Llanto Falso",
+      "Cosquillas",
+      "Doble Rayo",
+      "Bote",
+      "Antojo",
+      "Hoja Mágica",
+      "Onda Voltio",
+      "Hidropulso",
+      "Don Natural",
+      "Lanzamiento",
+      "Última Baza",
+      "Puño Drenaje",
+      "Cabezazo Zen",
+      "Seducción",
+      "Trampa Rocas",
+      "Hierba Lazo",
+      "Rayo Carga",
+      "Zona Extraña",
+      "Psicocarga",
+      "Telequinesis",
+      "Canon",
+      "Eco Voz",
+      "Cambio de Banda",
+      "Pulso Cura",
+      "Calcinación",
+      "Represalia",
+      "Avivar",
+      "Campo de Niebla",
+      "Carantoña",
+      "Confidencia",
+      "Llama Embrujada",
+      "Brillo Mágico",
+      "Puño Incremento",
+      "Rayo Meteórico",
+      "Bruma Explosiva",
+      "Ala Bis",
+      "Tera Blast",
+      "Chilling Water",
+      "Canto Encantador"
+    ]
+  }
+}

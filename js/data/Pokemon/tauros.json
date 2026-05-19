@@ -1,0 +1,186 @@
+{
+  "id": 128,
+  "name": "Tauros",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "atk": 100,
+    "def": 95,
+    "spa": 40,
+    "spd": 70,
+    "spe": 110
+  },
+  "abilities": [
+    "Intimidación",
+    "Irascible",
+    "Sheer Force"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 13,
+        "move": "Cornada"
+      },
+      {
+        "level": 15,
+        "move": "Buena Baza"
+      },
+      {
+        "level": 19,
+        "move": "Cara Susto"
+      },
+      {
+        "level": 21,
+        "move": "Pisotón"
+      },
+      {
+        "level": 24,
+        "move": "Vendetta"
+      },
+      {
+        "level": 26,
+        "move": "Contoneo"
+      },
+      {
+        "level": 26,
+        "move": "Persecución"
+      },
+      {
+        "level": 28,
+        "move": "Látigo"
+      },
+      {
+        "level": 29,
+        "move": "Cabezazo Zen"
+      },
+      {
+        "level": 29,
+        "move": "Avivar"
+      },
+      {
+        "level": 34,
+        "move": "Descanso"
+      },
+      {
+        "level": 35,
+        "move": "Malicioso"
+      },
+      {
+        "level": 35,
+        "move": "Raging Bull"
+      },
+      {
+        "level": 38,
+        "move": "Foco Energía"
+      },
+      {
+        "level": 43,
+        "move": "Golpe"
+      },
+      {
+        "level": 44,
+        "move": "Furia"
+      },
+      {
+        "level": 50,
+        "move": "Enfado"
+      },
+      {
+        "level": 51,
+        "move": "Derribo"
+      },
+      {
+        "level": 55,
+        "move": "Gigaimpacto"
+      },
+      {
+        "level": 63,
+        "move": "Doble Filo"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Golpe Cabeza",
+      "Perforador",
+      "Golpe Cuerpo",
+      "Lanzallamas",
+      "Surf",
+      "Rayo Hielo",
+      "Ventisca",
+      "Hiperrayo",
+      "Fuerza",
+      "Rayo Solar",
+      "Rayo",
+      "Trueno",
+      "Terremoto",
+      "Fisura",
+      "Excavar",
+      "Tóxico",
+      "Mimético",
+      "Doble Equipo",
+      "Venganza",
+      "Llamarada",
+      "Cabezazo",
+      "Avalancha",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Inversión",
+      "Rencor",
+      "Protección",
+      "Electrocañón",
+      "Viento Hielo",
+      "Tormenta Arena",
+      "Aguante",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Megacuerno",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Bola Sombra",
+      "Golpe Roca",
+      "Torbellino",
+      "Alboroto",
+      "Imagen",
+      "Refuerzo",
+      "Imitación",
+      "Desquite",
+      "Esfuerzo",
+      "Alivio",
+      "Daño Secreto",
+      "Tumba Rocas",
+      "Onda Voltio",
+      "Hidropulso",
+      "Don Natural",
+      "A Bocajarro",
+      "Treparrocas",
+      "Cabeza de Hierro",
+      "Roca Afilada",
+      "Seducción",
+      "Canon",
+      "Calcinación",
+      "Represalia",
+      "Terratemblor",
+      "Voltio Cruel",
+      "Confidencia",
+      "Fuerza Equina",
+      "Golpe Mordaza",
+      "Cuerno Certero",
+      "Pataleta",
+      "Desahogo",
+      "Tera Blast",
+      "Trailblaze"
+    ]
+  }
+}

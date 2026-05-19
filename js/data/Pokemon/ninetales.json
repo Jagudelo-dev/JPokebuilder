@@ -1,0 +1,190 @@
+{
+  "id": 38,
+  "name": "Ninetales",
+  "types": [
+    "Fuego"
+  ],
+  "baseStats": {
+    "hp": 73,
+    "atk": 76,
+    "def": 75,
+    "spa": 81,
+    "spd": 100,
+    "spe": 100
+  },
+  "abilities": [
+    "Absorbe Fuego",
+    "Sequía"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Látigo"
+      },
+      {
+        "level": 1,
+        "move": "Rugido"
+      },
+      {
+        "level": 1,
+        "move": "Anulación"
+      },
+      {
+        "level": 1,
+        "move": "Ascuas"
+      },
+      {
+        "level": 1,
+        "move": "Lanzallamas"
+      },
+      {
+        "level": 1,
+        "move": "Hipnosis"
+      },
+      {
+        "level": 1,
+        "move": "Ataque Rápido"
+      },
+      {
+        "level": 1,
+        "move": "Rayo Confuso"
+      },
+      {
+        "level": 1,
+        "move": "Llamarada"
+      },
+      {
+        "level": 1,
+        "move": "Rencor"
+      },
+      {
+        "level": 1,
+        "move": "Velo Sagrado"
+      },
+      {
+        "level": 1,
+        "move": "Fuego Fatuo"
+      },
+      {
+        "level": 1,
+        "move": "Sellar"
+      },
+      {
+        "level": 1,
+        "move": "Rabia"
+      },
+      {
+        "level": 1,
+        "move": "Paranormal"
+      },
+      {
+        "level": 1,
+        "move": "Maquinación"
+      },
+      {
+        "level": 1,
+        "move": "Calcinación"
+      },
+      {
+        "level": 1,
+        "move": "Infierno"
+      },
+      {
+        "level": 15,
+        "move": "Rueda Fuego"
+      },
+      {
+        "level": 21,
+        "move": "Infortunio"
+      },
+      {
+        "level": 43,
+        "move": "Giro Fuego"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Hiperrayo",
+      "Rayo Solar",
+      "Excavar",
+      "Tóxico",
+      "Agilidad",
+      "Furia",
+      "Tinieblas",
+      "Mimético",
+      "Doble Equipo",
+      "Reflejo",
+      "Venganza",
+      "Rapidez",
+      "Cabezazo",
+      "Comesueños",
+      "Descanso",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Azote",
+      "Protección",
+      "Aguante",
+      "Encanto",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Divide Dolor",
+      "Relevo",
+      "Otra Vez",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Día Soleado",
+      "Más Psique",
+      "Bola Sombra",
+      "Onda Ígnea",
+      "Legado",
+      "Imagen",
+      "Refuerzo",
+      "Imitación",
+      "Daño Secreto",
+      "Meteorobola",
+      "Llanto Falso",
+      "Sofoco",
+      "Aullido",
+      "Antojo",
+      "Paz Mental",
+      "Deseo Cura",
+      "Don Natural",
+      "Vendetta",
+      "Cambiafuerza",
+      "Envite Ígneo",
+      "Pulso Umbrío",
+      "Energibola",
+      "Gigaimpacto",
+      "Cabezazo Zen",
+      "Seducción",
+      "Viento Aciago",
+      "Psicocarga",
+      "Nitrocarga",
+      "Juego Sucio",
+      "Canon",
+      "Poder Reserva",
+      "Plumerazo",
+      "Alarido",
+      "Confidencia",
+      "Llama Embrujada",
+      "Ojitos Tiernos",
+      "Aguzar",
+      "Envidia Ardiente",
+      "Arenas Ardientes",
+      "Tera Blast"
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "id": 1,
+  "name": "Bulbasaur",
+  "types": [
+    "Planta",
+    "Veneno"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "atk": 49,
+    "def": 49,
+    "spa": 65,
+    "spd": 65,
+    "spe": 45
+  },
+  "abilities": [
+    "Espesura",
+    "Clorofila"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Gruñido"
+      },
+      {
+        "level": 7,
+        "move": "Drenadoras"
+      },
+      {
+        "level": 13,
+        "move": "Látigo Cepa"
+      },
+      {
+        "level": 15,
+        "move": "Derribo"
+      },
+      {
+        "level": 20,
+        "move": "Polvo Veneno"
+      },
+      {
+        "level": 25,
+        "move": "Dulce Aroma"
+      },
+      {
+        "level": 27,
+        "move": "Doble Filo"
+      },
+      {
+        "level": 27,
+        "move": "Hoja Afilada"
+      },
+      {
+        "level": 31,
+        "move": "Abatidoras"
+      },
+      {
+        "level": 33,
+        "move": "Latigazo"
+      },
+      {
+        "level": 34,
+        "move": "Desarrollo"
+      },
+      {
+        "level": 37,
+        "move": "Bomba Germen"
+      },
+      {
+        "level": 39,
+        "move": "Síntesis"
+      },
+      {
+        "level": 41,
+        "move": "Somnífero"
+      },
+      {
+        "level": 48,
+        "move": "Rayo Solar"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Viento Cortante",
+      "Danza Espada",
+      "Corte",
+      "Atadura",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Fuerza",
+      "Megaagotar",
+      "Danza Pétalo",
+      "Disparo Demora",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Rizo Defensa",
+      "Pantalla de Luz",
+      "Reflejo",
+      "Venganza",
+      "Residuos",
+      "Cabezazo",
+      "Amnesia",
+      "Destello",
+      "Descanso",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bomba Lodo",
+      "Bofetón Lodo",
+      "Enfado",
+      "Gigadrenado",
+      "Aguante",
+      "Encanto",
+      "Falso Tortazo",
+      "Contoneo",
+      "Corte Furia",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Velo Sagrado",
+      "Poder Oculto",
+      "Día Soleado",
+      "Golpe Roca",
+      "Imagen",
+      "Adaptación",
+      "Refuerzo",
+      "Arraigo",
+      "Desarme",
+      "Daño Secreto",
+      "Meteorobola",
+      "Silbato",
+      "Semilladora",
+      "Hoja Mágica",
+      "Don Natural",
+      "Energibola",
+      "Lluevehojas",
+      "Seducción",
+      "Hierba Lazo",
+      "Carga Tóxica",
+      "Bomba Ácida",
+      "Canon",
+      "Eco Voz",
+      "Voto Planta",
+      "Avivar",
+      "Campo de Hierba",
+      "Confidencia",
+      "Fitoimpulso",
+      "Tera Blast",
+      "Trailblaze"
+    ]
+  }
+}

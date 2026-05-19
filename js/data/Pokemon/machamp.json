@@ -1,0 +1,228 @@
+{
+  "id": 68,
+  "name": "Machamp",
+  "types": [
+    "Lucha"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "atk": 130,
+    "def": 80,
+    "spa": 65,
+    "spd": 85,
+    "spe": 55
+  },
+  "abilities": [
+    "Agallas",
+    "Indefenso",
+    "Firmeza"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 0,
+        "move": "Fuerza"
+      },
+      {
+        "level": 1,
+        "move": "Golpe Kárate"
+      },
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Malicioso"
+      },
+      {
+        "level": 1,
+        "move": "Patada Baja"
+      },
+      {
+        "level": 1,
+        "move": "Contraataque"
+      },
+      {
+        "level": 1,
+        "move": "Venganza"
+      },
+      {
+        "level": 1,
+        "move": "Otra Vez"
+      },
+      {
+        "level": 1,
+        "move": "Vastaguardia"
+      },
+      {
+        "level": 6,
+        "move": "Golpe Roca"
+      },
+      {
+        "level": 11,
+        "move": "Puño Bala"
+      },
+      {
+        "level": 13,
+        "move": "Puntapié"
+      },
+      {
+        "level": 18,
+        "move": "Doble Golpe"
+      },
+      {
+        "level": 21,
+        "move": "Demolición"
+      },
+      {
+        "level": 21,
+        "move": "Desarme"
+      },
+      {
+        "level": 22,
+        "move": "Ultrapuño"
+      },
+      {
+        "level": 25,
+        "move": "Profecía"
+      },
+      {
+        "level": 25,
+        "move": "Desquite"
+      },
+      {
+        "level": 30,
+        "move": "Puño Drenaje"
+      },
+      {
+        "level": 33,
+        "move": "Golpe Bis"
+      },
+      {
+        "level": 34,
+        "move": "Tiro Vital"
+      },
+      {
+        "level": 36,
+        "move": "Foco Energía"
+      },
+      {
+        "level": 36,
+        "move": "Espabila"
+      },
+      {
+        "level": 43,
+        "move": "Tajo Cruzado"
+      },
+      {
+        "level": 43,
+        "move": "Corpulencia"
+      },
+      {
+        "level": 43,
+        "move": "A Bocajarro"
+      },
+      {
+        "level": 44,
+        "move": "Sísmico"
+      },
+      {
+        "level": 48,
+        "move": "Fuerza Bruta"
+      },
+      {
+        "level": 52,
+        "move": "Sumisión"
+      },
+      {
+        "level": 52,
+        "move": "Cara Susto"
+      },
+      {
+        "level": 59,
+        "move": "Puño Dinámico"
+      },
+      {
+        "level": 66,
+        "move": "Doble Filo"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Puño Fuego",
+      "Puño Hielo",
+      "Puño Trueno",
+      "Megapatada",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Lanzallamas",
+      "Hiperrayo",
+      "Terremoto",
+      "Fisura",
+      "Excavar",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Pantalla de Luz",
+      "Metrónomo",
+      "Llamarada",
+      "Cabezazo",
+      "Descanso",
+      "Avalancha",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Inversión",
+      "Protección",
+      "Bofetón Lodo",
+      "Detección",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Imagen",
+      "Puño Certero",
+      "Refuerzo",
+      "Imitación",
+      "Daño Secreto",
+      "Tumba Rocas",
+      "Pedrada",
+      "Don Natural",
+      "Vendetta",
+      "Buena Baza",
+      "Lanzamiento",
+      "Puya Nociva",
+      "Onda Vacío",
+      "Onda Certera",
+      "Gigaimpacto",
+      "Treparrocas",
+      "Veneno X",
+      "Roca Afilada",
+      "Seducción",
+      "Antiaéreo",
+      "Cuerpo Pesado",
+      "Canon",
+      "Calcinación",
+      "Represalia",
+      "Terratemblor",
+      "Avivar",
+      "Confidencia",
+      "Puño Incremento",
+      "Lariat Oscuro",
+      "Fuerza Equina",
+      "Golpe Mordaza",
+      "Pataleta",
+      "Motivación"
+    ]
+  }
+}

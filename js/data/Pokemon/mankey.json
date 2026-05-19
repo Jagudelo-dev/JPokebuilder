@@ -1,0 +1,217 @@
+{
+  "id": 56,
+  "name": "Mankey",
+  "types": [
+    "Lucha"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "atk": 80,
+    "def": 35,
+    "spa": 35,
+    "spd": 45,
+    "spe": 70
+  },
+  "abilities": [
+    "Espíritu Vital",
+    "Irascible",
+    "Defiant"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Arañazo"
+      },
+      {
+        "level": 1,
+        "move": "Malicioso"
+      },
+      {
+        "level": 1,
+        "move": "Antojo"
+      },
+      {
+        "level": 8,
+        "move": "Bofetón Lodo"
+      },
+      {
+        "level": 8,
+        "move": "Mofa"
+      },
+      {
+        "level": 9,
+        "move": "Patada Baja"
+      },
+      {
+        "level": 12,
+        "move": "Persecución"
+      },
+      {
+        "level": 15,
+        "move": "Golpe Kárate"
+      },
+      {
+        "level": 15,
+        "move": "Represalia"
+      },
+      {
+        "level": 21,
+        "move": "Golpes Furia"
+      },
+      {
+        "level": 25,
+        "move": "Buena Baza"
+      },
+      {
+        "level": 27,
+        "move": "Foco Energía"
+      },
+      {
+        "level": 29,
+        "move": "Cabezazo"
+      },
+      {
+        "level": 29,
+        "move": "Ida y Vuelta"
+      },
+      {
+        "level": 33,
+        "move": "Sísmico"
+      },
+      {
+        "level": 36,
+        "move": "Contoneo"
+      },
+      {
+        "level": 39,
+        "move": "Golpe"
+      },
+      {
+        "level": 39,
+        "move": "Tajo Cruzado"
+      },
+      {
+        "level": 43,
+        "move": "Pataleta"
+      },
+      {
+        "level": 45,
+        "move": "Chirrido"
+      },
+      {
+        "level": 45,
+        "move": "Castigo"
+      },
+      {
+        "level": 47,
+        "move": "Enfado"
+      },
+      {
+        "level": 49,
+        "move": "A Bocajarro"
+      },
+      {
+        "level": 53,
+        "move": "Sacrificio"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Día de Pago",
+      "Puño Fuego",
+      "Puño Hielo",
+      "Puño Trueno",
+      "Megapatada",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Sumisión",
+      "Contraataque",
+      "Fuerza",
+      "Rayo",
+      "Trueno",
+      "Terremoto",
+      "Excavar",
+      "Tóxico",
+      "Meditación",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Rizo Defensa",
+      "Venganza",
+      "Metrónomo",
+      "Rapidez",
+      "Descanso",
+      "Avalancha",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Inversión",
+      "Rencor",
+      "Protección",
+      "Cara Susto",
+      "Profecía",
+      "Detección",
+      "Aguante",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Puño Dinámico",
+      "Otra Vez",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Más Psique",
+      "Golpe Roca",
+      "Paliza",
+      "Alboroto",
+      "Imagen",
+      "Puño Certero",
+      "Estímulo",
+      "Refuerzo",
+      "Imitación",
+      "Desquite",
+      "Demolición",
+      "Esfuerzo",
+      "Daño Secreto",
+      "Sofoco",
+      "Tumba Rocas",
+      "Golpe Aéreo",
+      "Corpulencia",
+      "Don Natural",
+      "Vendetta",
+      "Lanzamiento",
+      "Puya Nociva",
+      "Tajo Umbrío",
+      "Bomba Germen",
+      "Puño Drenaje",
+      "Onda Vacío",
+      "Onda Certera",
+      "Garra Umbría",
+      "Treparrocas",
+      "Lanzamugre",
+      "Roca Afilada",
+      "Seducción",
+      "Afilagarras",
+      "Antiaéreo",
+      "Puntapié",
+      "Canon",
+      "Acróbata",
+      "Terratemblor",
+      "Avivar",
+      "Golpe Bis",
+      "Confidencia",
+      "Puño Incremento",
+      "Golpe Mordaza",
+      "Chulería",
+      "Desahogo",
+      "Tera Blast"
+    ]
+  }
+}

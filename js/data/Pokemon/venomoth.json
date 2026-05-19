@@ -1,0 +1,193 @@
+{
+  "id": 49,
+  "name": "Venomoth",
+  "types": [
+    "Bicho",
+    "Veneno"
+  ],
+  "baseStats": {
+    "hp": 70,
+    "atk": 65,
+    "def": 60,
+    "spa": 90,
+    "spd": 75,
+    "spe": 90
+  },
+  "abilities": [
+    "Shield Dust",
+    "Tinted Lens",
+    "Wonder Skin"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 0,
+        "move": "Tajo Aéreo"
+      },
+      {
+        "level": 1,
+        "move": "Remolino"
+      },
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Supersónico"
+      },
+      {
+        "level": 1,
+        "move": "Anulación"
+      },
+      {
+        "level": 1,
+        "move": "Polvo Veneno"
+      },
+      {
+        "level": 1,
+        "move": "Confusión"
+      },
+      {
+        "level": 1,
+        "move": "Agilidad"
+      },
+      {
+        "level": 1,
+        "move": "Chirrido"
+      },
+      {
+        "level": 1,
+        "move": "Chupavidas"
+      },
+      {
+        "level": 1,
+        "move": "Profecía"
+      },
+      {
+        "level": 1,
+        "move": "Viento Plata"
+      },
+      {
+        "level": 1,
+        "move": "Estoicismo"
+      },
+      {
+        "level": 25,
+        "move": "Megaagotar"
+      },
+      {
+        "level": 30,
+        "move": "Paralizador"
+      },
+      {
+        "level": 31,
+        "move": "Tornado"
+      },
+      {
+        "level": 37,
+        "move": "Doble Rayo"
+      },
+      {
+        "level": 38,
+        "move": "Psicorrayo"
+      },
+      {
+        "level": 41,
+        "move": "Cabezazo Zen"
+      },
+      {
+        "level": 43,
+        "move": "Somnífero"
+      },
+      {
+        "level": 47,
+        "move": "Colmillo Veneno"
+      },
+      {
+        "level": 50,
+        "move": "Psíquico"
+      },
+      {
+        "level": 59,
+        "move": "Zumbido"
+      },
+      {
+        "level": 63,
+        "move": "Danza Aleteo"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Viento Cortante",
+      "Golpe Cabeza",
+      "Derribo",
+      "Doble Filo",
+      "Hiperrayo",
+      "Rayo Solar",
+      "Disparo Demora",
+      "Tóxico",
+      "Furia",
+      "Teletransporte",
+      "Tinieblas",
+      "Mimético",
+      "Doble Equipo",
+      "Rayo Confuso",
+      "Reflejo",
+      "Venganza",
+      "Rapidez",
+      "Comesueños",
+      "Destello",
+      "Psicoonda",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bomba Lodo",
+      "Gigadrenado",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Relevo",
+      "Dulce Aroma",
+      "Poder Oculto",
+      "Ciclón",
+      "Día Soleado",
+      "Imagen",
+      "Esfuerzo",
+      "Intercambio",
+      "Alivio",
+      "Daño Secreto",
+      "Aire Afilado",
+      "Golpe Aéreo",
+      "Respiro",
+      "Don Natural",
+      "Viento Afín",
+      "Ida y Vuelta",
+      "Púas Tóxicas",
+      "Energibola",
+      "Gigaimpacto",
+      "Despejar",
+      "Seducción",
+      "Picadura",
+      "Viento Aciago",
+      "Carga Tóxica",
+      "Onda Tóxica",
+      "Bomba Ácida",
+      "Canon",
+      "Acróbata",
+      "Confidencia",
+      "Acoso",
+      "Plancha",
+      "Golpe Rastrero",
+      "Tera Blast",
+      "Pounce",
+      "Psicorruido"
+    ]
+  }
+}

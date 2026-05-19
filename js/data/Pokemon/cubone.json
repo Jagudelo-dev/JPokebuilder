@@ -1,0 +1,174 @@
+{
+  "id": 104,
+  "name": "Cubone",
+  "types": [
+    "Tierra"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "atk": 50,
+    "def": 95,
+    "spa": 40,
+    "spd": 50,
+    "spe": 35
+  },
+  "abilities": [
+    "Cabeza Roca",
+    "Pararrayos",
+    "Armadura Batalla"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Gruñido"
+      },
+      {
+        "level": 1,
+        "move": "Hueso Palo"
+      },
+      {
+        "level": 1,
+        "move": "Bofetón Lodo"
+      },
+      {
+        "level": 13,
+        "move": "Látigo"
+      },
+      {
+        "level": 18,
+        "move": "Golpe Cabeza"
+      },
+      {
+        "level": 25,
+        "move": "Malicioso"
+      },
+      {
+        "level": 31,
+        "move": "Foco Energía"
+      },
+      {
+        "level": 33,
+        "move": "Falso Tortazo"
+      },
+      {
+        "level": 33,
+        "move": "Lanzamiento"
+      },
+      {
+        "level": 37,
+        "move": "Pataleta"
+      },
+      {
+        "level": 38,
+        "move": "Golpe"
+      },
+      {
+        "level": 41,
+        "move": "Ataque Óseo"
+      },
+      {
+        "level": 41,
+        "move": "Esfuerzo"
+      },
+      {
+        "level": 43,
+        "move": "Huesomerang"
+      },
+      {
+        "level": 45,
+        "move": "Doble Filo"
+      },
+      {
+        "level": 46,
+        "move": "Furia"
+      },
+      {
+        "level": 47,
+        "move": "Represalia"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Puño Fuego",
+      "Puño Trueno",
+      "Danza Espada",
+      "Doble Patada",
+      "Megapatada",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Lanzallamas",
+      "Pistola Agua",
+      "Rayo Hielo",
+      "Ventisca",
+      "Rayo Burbuja",
+      "Sumisión",
+      "Patada Baja",
+      "Contraataque",
+      "Sísmico",
+      "Fuerza",
+      "Terremoto",
+      "Fisura",
+      "Excavar",
+      "Tóxico",
+      "Mimético",
+      "Chirrido",
+      "Doble Equipo",
+      "Venganza",
+      "Llamarada",
+      "Rapidez",
+      "Cabezazo",
+      "Descanso",
+      "Avalancha",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Tambor",
+      "Canto Mortal",
+      "Viento Hielo",
+      "Detección",
+      "Tormenta Arena",
+      "Aguante",
+      "Contoneo",
+      "Corte Furia",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Puño Dinámico",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Día Soleado",
+      "Poder Pasado",
+      "Golpe Roca",
+      "Alboroto",
+      "Imagen",
+      "Puño Certero",
+      "Demolición",
+      "Desarme",
+      "Daño Secreto",
+      "Tumba Rocas",
+      "Golpe Aéreo",
+      "Defensa Férrea",
+      "Don Natural",
+      "Tierra Viva",
+      "Treparrocas",
+      "Cabeza de Hierro",
+      "Seducción",
+      "Trampa Rocas",
+      "Antiaéreo",
+      "Canon",
+      "Eco Voz",
+      "Guardia Baja",
+      "Calcinación",
+      "Terratemblor",
+      "Confidencia",
+      "Puño Incremento",
+      "Giro Vil",
+      "Arenas Ardientes"
+    ]
+  }
+}

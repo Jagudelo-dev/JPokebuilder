@@ -1,0 +1,169 @@
+{
+  "id": 120,
+  "name": "Staryu",
+  "types": [
+    "Agua"
+  ],
+  "baseStats": {
+    "hp": 30,
+    "atk": 45,
+    "def": 55,
+    "spa": 70,
+    "spd": 55,
+    "spe": 85
+  },
+  "abilities": [
+    "Illuminate",
+    "Cura Natural",
+    "Analytic"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 13,
+        "move": "Psicoonda"
+      },
+      {
+        "level": 13,
+        "move": "Giro Rápido"
+      },
+      {
+        "level": 17,
+        "move": "Pistola Agua"
+      },
+      {
+        "level": 19,
+        "move": "Camuflaje"
+      },
+      {
+        "level": 22,
+        "move": "Fortaleza"
+      },
+      {
+        "level": 24,
+        "move": "Psicorrayo"
+      },
+      {
+        "level": 27,
+        "move": "Recuperación"
+      },
+      {
+        "level": 31,
+        "move": "Rayo Burbuja"
+      },
+      {
+        "level": 32,
+        "move": "Rapidez"
+      },
+      {
+        "level": 36,
+        "move": "Salmuera"
+      },
+      {
+        "level": 37,
+        "move": "Reducción"
+      },
+      {
+        "level": 37,
+        "move": "Giro Bola"
+      },
+      {
+        "level": 40,
+        "move": "Rayo Confuso"
+      },
+      {
+        "level": 42,
+        "move": "Psíquico"
+      },
+      {
+        "level": 42,
+        "move": "Pantalla de Luz"
+      },
+      {
+        "level": 42,
+        "move": "Masa Cósmica"
+      },
+      {
+        "level": 44,
+        "move": "Surf"
+      },
+      {
+        "level": 46,
+        "move": "Joya de Luz"
+      },
+      {
+        "level": 46,
+        "move": "Clonatipo"
+      },
+      {
+        "level": 47,
+        "move": "Hidrobomba"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Golpe Cabeza",
+      "Derribo",
+      "Doble Filo",
+      "Supersónico",
+      "Rayo Hielo",
+      "Ventisca",
+      "Rayo Aurora",
+      "Rayo",
+      "Onda Trueno",
+      "Trueno",
+      "Tóxico",
+      "Furia",
+      "Teletransporte",
+      "Mimético",
+      "Doble Equipo",
+      "Barrera",
+      "Reflejo",
+      "Venganza",
+      "Cascada",
+      "Cabezazo",
+      "Destello",
+      "Descanso",
+      "Triataque",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Electrocañón",
+      "Viento Hielo",
+      "Aguante",
+      "Rodar",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Divide Dolor",
+      "Poder Oculto",
+      "Ciclón",
+      "Danza Lluvia",
+      "Más Psique",
+      "Torbellino",
+      "Granizo",
+      "Imagen",
+      "Capa Mágica",
+      "Reciclaje",
+      "Daño Secreto",
+      "Buceo",
+      "Doble Rayo",
+      "Hidropulso",
+      "Gravedad",
+      "Don Natural",
+      "Foco Resplandor",
+      "Canon",
+      "Escaldar",
+      "Confidencia",
+      "Brillo Mágico",
+      "Viraje"
+    ]
+  }
+}

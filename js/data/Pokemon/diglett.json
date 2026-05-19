@@ -1,0 +1,160 @@
+{
+  "id": 50,
+  "name": "Diglett",
+  "types": [
+    "Tierra"
+  ],
+  "baseStats": {
+    "hp": 10,
+    "atk": 55,
+    "def": 25,
+    "spa": 35,
+    "spd": 45,
+    "spe": 95
+  },
+  "abilities": [
+    "Velo Arena",
+    "Arena Trampa",
+    "Sand Force"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Arañazo"
+      },
+      {
+        "level": 7,
+        "move": "Impresionar"
+      },
+      {
+        "level": 9,
+        "move": "Magnitud"
+      },
+      {
+        "level": 12,
+        "move": "Agilidad"
+      },
+      {
+        "level": 15,
+        "move": "Gruñido"
+      },
+      {
+        "level": 18,
+        "move": "Terratemblor"
+      },
+      {
+        "level": 19,
+        "move": "Excavar"
+      },
+      {
+        "level": 21,
+        "move": "Golpes Furia"
+      },
+      {
+        "level": 23,
+        "move": "Golpe Bajo"
+      },
+      {
+        "level": 24,
+        "move": "Ataque Arena"
+      },
+      {
+        "level": 25,
+        "move": "Bofetón Lodo"
+      },
+      {
+        "level": 26,
+        "move": "Tierra Viva"
+      },
+      {
+        "level": 28,
+        "move": "Tormenta Arena"
+      },
+      {
+        "level": 29,
+        "move": "Bomba Fango"
+      },
+      {
+        "level": 31,
+        "move": "Cuchillada"
+      },
+      {
+        "level": 40,
+        "move": "Terremoto"
+      },
+      {
+        "level": 49,
+        "move": "Fisura"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Danza Espada",
+      "Corte",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Chirrido",
+      "Doble Equipo",
+      "Venganza",
+      "Descanso",
+      "Avalancha",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Inversión",
+      "Protección",
+      "Finta",
+      "Bomba Lodo",
+      "Aguante",
+      "Encanto",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Persecución",
+      "Poder Oculto",
+      "Día Soleado",
+      "Poder Pasado",
+      "Golpe Roca",
+      "Paliza",
+      "Alboroto",
+      "Legado",
+      "Imagen",
+      "Refuerzo",
+      "Esfuerzo",
+      "Daño Secreto",
+      "Tumba Rocas",
+      "Bucle Arena",
+      "Golpe Aéreo",
+      "Disparo Lodo",
+      "Pedrada",
+      "Don Natural",
+      "Buena Baza",
+      "Garra Umbría",
+      "Roca Afilada",
+      "Seducción",
+      "Trampa Rocas",
+      "Afilagarras",
+      "Antiaéreo",
+      "Juego Sucio",
+      "Canon",
+      "Eco Voz",
+      "Cambio de Banda",
+      "Sacrificio",
+      "Avivar",
+      "Confidencia",
+      "Golpe Mordaza",
+      "Pataleta",
+      "Arenas Ardientes",
+      "Tera Blast"
+    ]
+  }
+}

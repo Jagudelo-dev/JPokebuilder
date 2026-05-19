@@ -1,0 +1,180 @@
+{
+  "id": 3,
+  "name": "Venusaur",
+  "types": [
+    "Planta",
+    "Veneno"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "atk": 82,
+    "def": 83,
+    "spa": 100,
+    "spd": 100,
+    "spe": 80
+  },
+  "abilities": [
+    "Espesura",
+    "Clorofila"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Látigo Cepa"
+      },
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Gruñido"
+      },
+      {
+        "level": 1,
+        "move": "Drenadoras"
+      },
+      {
+        "level": 1,
+        "move": "Amnesia"
+      },
+      {
+        "level": 1,
+        "move": "Latigazo"
+      },
+      {
+        "level": 15,
+        "move": "Derribo"
+      },
+      {
+        "level": 20,
+        "move": "Bomba Germen"
+      },
+      {
+        "level": 22,
+        "move": "Polvo Veneno"
+      },
+      {
+        "level": 29,
+        "move": "Dulce Aroma"
+      },
+      {
+        "level": 30,
+        "move": "Hoja Afilada"
+      },
+      {
+        "level": 31,
+        "move": "Doble Filo"
+      },
+      {
+        "level": 32,
+        "move": "Danza Pétalo"
+      },
+      {
+        "level": 39,
+        "move": "Abatidoras"
+      },
+      {
+        "level": 43,
+        "move": "Desarrollo"
+      },
+      {
+        "level": 50,
+        "move": "Tormenta Floral"
+      },
+      {
+        "level": 53,
+        "move": "Síntesis"
+      },
+      {
+        "level": 55,
+        "move": "Somnífero"
+      },
+      {
+        "level": 65,
+        "move": "Rayo Solar"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Danza Espada",
+      "Corte",
+      "Atadura",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Rugido",
+      "Hiperrayo",
+      "Fuerza",
+      "Megaagotar",
+      "Disparo Demora",
+      "Terremoto",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Rizo Defensa",
+      "Pantalla de Luz",
+      "Reflejo",
+      "Venganza",
+      "Destello",
+      "Descanso",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Cara Susto",
+      "Bomba Lodo",
+      "Bofetón Lodo",
+      "Enfado",
+      "Gigadrenado",
+      "Aguante",
+      "Encanto",
+      "Falso Tortazo",
+      "Contoneo",
+      "Corte Furia",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Velo Sagrado",
+      "Poder Oculto",
+      "Día Soleado",
+      "Golpe Roca",
+      "Imagen",
+      "Adaptación",
+      "Refuerzo",
+      "Arraigo",
+      "Desarme",
+      "Daño Secreto",
+      "Meteorobola",
+      "Semilladora",
+      "Bloqueo",
+      "Planta Feroz",
+      "Hoja Mágica",
+      "Don Natural",
+      "Puya Nociva",
+      "Energibola",
+      "Tierra Viva",
+      "Gigaimpacto",
+      "Treparrocas",
+      "Lluevehojas",
+      "Seducción",
+      "Hierba Lazo",
+      "Carga Tóxica",
+      "Bomba Ácida",
+      "Canon",
+      "Eco Voz",
+      "Voto Planta",
+      "Terratemblor",
+      "Avivar",
+      "Campo de Hierba",
+      "Confidencia",
+      "Pataleta",
+      "Fitoimpulso",
+      "Pulso de Campo",
+      "Tera Blast",
+      "Trailblaze"
+    ]
+  }
+}

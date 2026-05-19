@@ -1,0 +1,207 @@
+{
+  "id": 54,
+  "name": "Psyduck",
+  "types": [
+    "Agua"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "atk": 52,
+    "def": 48,
+    "spa": 65,
+    "spd": 50,
+    "spe": 55
+  },
+  "abilities": [
+    "Damp",
+    "Cloud Nine",
+    "Nado Rápido"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Arañazo"
+      },
+      {
+        "level": 1,
+        "move": "Burbuja"
+      },
+      {
+        "level": 1,
+        "move": "Hidrochorro"
+      },
+      {
+        "level": 9,
+        "move": "Pistola Agua"
+      },
+      {
+        "level": 18,
+        "move": "Hipnosis"
+      },
+      {
+        "level": 22,
+        "move": "Hidropulso"
+      },
+      {
+        "level": 23,
+        "move": "Chirrido"
+      },
+      {
+        "level": 27,
+        "move": "Psicorrayo"
+      },
+      {
+        "level": 28,
+        "move": "Látigo"
+      },
+      {
+        "level": 31,
+        "move": "Anulación"
+      },
+      {
+        "level": 31,
+        "move": "Más Psique"
+      },
+      {
+        "level": 32,
+        "move": "Acua Cola"
+      },
+      {
+        "level": 35,
+        "move": "Anegar"
+      },
+      {
+        "level": 36,
+        "move": "Surf"
+      },
+      {
+        "level": 36,
+        "move": "Confusión"
+      },
+      {
+        "level": 40,
+        "move": "Cabezazo Zen"
+      },
+      {
+        "level": 43,
+        "move": "Golpes Furia"
+      },
+      {
+        "level": 44,
+        "move": "Amnesia"
+      },
+      {
+        "level": 52,
+        "move": "Hidrobomba"
+      },
+      {
+        "level": 57,
+        "move": "Zona Extraña"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Día de Pago",
+      "Puño Hielo",
+      "Megapatada",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Rayo Hielo",
+      "Ventisca",
+      "Rayo Burbuja",
+      "Sumisión",
+      "Patada Baja",
+      "Contraataque",
+      "Sísmico",
+      "Fuerza",
+      "Excavar",
+      "Tóxico",
+      "Psíquico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Rayo Confuso",
+      "Pantalla de Luz",
+      "Niebla",
+      "Venganza",
+      "Metrónomo",
+      "Cascada",
+      "Rapidez",
+      "Cabezazo",
+      "Destello",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bofetón Lodo",
+      "Profecía",
+      "Viento Hielo",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Puño Dinámico",
+      "Otra Vez",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Tajo Cruzado",
+      "Danza Lluvia",
+      "Premonición",
+      "Golpe Roca",
+      "Torbellino",
+      "Granizo",
+      "Imagen",
+      "Puño Certero",
+      "Mofa",
+      "Refuerzo",
+      "Imitación",
+      "Demolición",
+      "Bostezo",
+      "Desarme",
+      "Esfuerzo",
+      "Intercambio",
+      "Alivio",
+      "Daño Secreto",
+      "Buceo",
+      "Doble Rayo",
+      "Agua Lodosa",
+      "Golpe Aéreo",
+      "Disparo Lodo",
+      "Paz Mental",
+      "Salmuera",
+      "Don Natural",
+      "Lanzamiento",
+      "Abatidoras",
+      "Onda Vacío",
+      "Maquinación",
+      "Garra Umbría",
+      "Bomba Fango",
+      "Seducción",
+      "Afilagarras",
+      "Psicocarga",
+      "Telequinesis",
+      "Sincrorruido",
+      "Puntapié",
+      "Onda Simple",
+      "Canon",
+      "Niebla Clara",
+      "Escaldar",
+      "Confidencia",
+      "Puño Incremento",
+      "Hidroariete",
+      "Viraje",
+      "Tera Blast",
+      "Trailblaze",
+      "Chilling Water",
+      "Psicorruido"
+    ]
+  }
+}

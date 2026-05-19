@@ -1,0 +1,199 @@
+{
+  "id": 96,
+  "name": "Drowzee",
+  "types": [
+    "Psíquico"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "atk": 48,
+    "def": 45,
+    "spa": 43,
+    "spd": 90,
+    "spe": 42
+  },
+  "abilities": [
+    "Insomnio",
+    "Forewarn",
+    "Foco Interno"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Destructor"
+      },
+      {
+        "level": 1,
+        "move": "Hipnosis"
+      },
+      {
+        "level": 12,
+        "move": "Anulación"
+      },
+      {
+        "level": 17,
+        "move": "Confusión"
+      },
+      {
+        "level": 24,
+        "move": "Golpe Cabeza"
+      },
+      {
+        "level": 26,
+        "move": "Psicorrayo"
+      },
+      {
+        "level": 29,
+        "move": "Gas Venenoso"
+      },
+      {
+        "level": 29,
+        "move": "Telépata"
+      },
+      {
+        "level": 29,
+        "move": "Espabila"
+      },
+      {
+        "level": 32,
+        "move": "Psíquico"
+      },
+      {
+        "level": 37,
+        "move": "Meditación"
+      },
+      {
+        "level": 37,
+        "move": "Sincrorruido"
+      },
+      {
+        "level": 40,
+        "move": "Comesueños"
+      },
+      {
+        "level": 41,
+        "move": "Contoneo"
+      },
+      {
+        "level": 43,
+        "move": "Más Psique"
+      },
+      {
+        "level": 43,
+        "move": "Maquinación"
+      },
+      {
+        "level": 45,
+        "move": "Premonición"
+      },
+      {
+        "level": 50,
+        "move": "Cabezazo Zen"
+      },
+      {
+        "level": 57,
+        "move": "Psicocarga"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Puño Fuego",
+      "Puño Hielo",
+      "Puño Trueno",
+      "Megapatada",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Sumisión",
+      "Patada Baja",
+      "Contraataque",
+      "Sísmico",
+      "Onda Trueno",
+      "Tóxico",
+      "Furia",
+      "Teletransporte",
+      "Tinieblas",
+      "Mimético",
+      "Doble Equipo",
+      "Barrera",
+      "Pantalla de Luz",
+      "Niebla",
+      "Reflejo",
+      "Venganza",
+      "Metrónomo",
+      "Rapidez",
+      "Cabezazo",
+      "Destello",
+      "Psicoonda",
+      "Descanso",
+      "Triataque",
+      "Sustituto",
+      "Ladrón",
+      "Pesadilla",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Electrocañón",
+      "Aguante",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Velo Sagrado",
+      "Puño Dinámico",
+      "Otra Vez",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Bola Sombra",
+      "Tormento",
+      "Camelo",
+      "Imagen",
+      "Puño Certero",
+      "Mofa",
+      "Refuerzo",
+      "Truco",
+      "Imitación",
+      "Ayuda",
+      "Capa Mágica",
+      "Reciclaje",
+      "Demolición",
+      "Desarme",
+      "Esfuerzo",
+      "Intercambio",
+      "Sellar",
+      "Robo",
+      "Daño Secreto",
+      "Doble Rayo",
+      "Paz Mental",
+      "Don Natural",
+      "Lanzamiento",
+      "Cambiadefensa",
+      "Puño Drenaje",
+      "Onda Certera",
+      "Psicocorte",
+      "Espacio Raro",
+      "Seducción",
+      "Hierba Lazo",
+      "Isofuerza",
+      "Telequinesis",
+      "Zona Mágica",
+      "Puntapié",
+      "Juego Sucio",
+      "Canon",
+      "Poder Reserva",
+      "Cambio de Banda",
+      "Beso Drenaje",
+      "Confidencia",
+      "Brillo Mágico",
+      "Puño Incremento",
+      "Campo Psíquico",
+      "Vasta Fuerza",
+      "Tera Blast",
+      "Trailblaze",
+      "Psicorruido"
+    ]
+  }
+}

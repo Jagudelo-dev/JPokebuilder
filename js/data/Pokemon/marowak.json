@@ -1,0 +1,183 @@
+{
+  "id": 105,
+  "name": "Marowak",
+  "types": [
+    "Tierra"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "atk": 80,
+    "def": 110,
+    "spa": 50,
+    "spd": 80,
+    "spe": 45
+  },
+  "abilities": [
+    "Cabeza Roca",
+    "Pararrayos",
+    "Armadura Batalla"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 0,
+        "move": "Danza Espada"
+      },
+      {
+        "level": 1,
+        "move": "Látigo"
+      },
+      {
+        "level": 1,
+        "move": "Malicioso"
+      },
+      {
+        "level": 1,
+        "move": "Gruñido"
+      },
+      {
+        "level": 1,
+        "move": "Chirrido"
+      },
+      {
+        "level": 1,
+        "move": "Foco Energía"
+      },
+      {
+        "level": 1,
+        "move": "Hueso Palo"
+      },
+      {
+        "level": 1,
+        "move": "Bofetón Lodo"
+      },
+      {
+        "level": 18,
+        "move": "Golpe Cabeza"
+      },
+      {
+        "level": 37,
+        "move": "Lanzamiento"
+      },
+      {
+        "level": 39,
+        "move": "Falso Tortazo"
+      },
+      {
+        "level": 41,
+        "move": "Golpe"
+      },
+      {
+        "level": 43,
+        "move": "Pataleta"
+      },
+      {
+        "level": 48,
+        "move": "Huesomerang"
+      },
+      {
+        "level": 49,
+        "move": "Esfuerzo"
+      },
+      {
+        "level": 53,
+        "move": "Ataque Óseo"
+      },
+      {
+        "level": 55,
+        "move": "Furia"
+      },
+      {
+        "level": 59,
+        "move": "Represalia"
+      },
+      {
+        "level": 61,
+        "move": "Doble Filo"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Puño Fuego",
+      "Puño Trueno",
+      "Megapatada",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Canto",
+      "Lanzallamas",
+      "Pistola Agua",
+      "Rayo Hielo",
+      "Ventisca",
+      "Rayo Burbuja",
+      "Hiperrayo",
+      "Sumisión",
+      "Patada Baja",
+      "Contraataque",
+      "Sísmico",
+      "Fuerza",
+      "Terremoto",
+      "Fisura",
+      "Excavar",
+      "Tóxico",
+      "Mimético",
+      "Doble Equipo",
+      "Venganza",
+      "Llamarada",
+      "Rapidez",
+      "Cabezazo",
+      "Descanso",
+      "Avalancha",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Viento Hielo",
+      "Detección",
+      "Enfado",
+      "Tormenta Arena",
+      "Aguante",
+      "Contoneo",
+      "Corte Furia",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Puño Dinámico",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Día Soleado",
+      "Golpe Roca",
+      "Alboroto",
+      "Imagen",
+      "Puño Certero",
+      "Demolición",
+      "Desarme",
+      "Daño Secreto",
+      "Tumba Rocas",
+      "Golpe Aéreo",
+      "Defensa Férrea",
+      "Don Natural",
+      "Onda Certera",
+      "Tierra Viva",
+      "Gigaimpacto",
+      "Treparrocas",
+      "Cabeza de Hierro",
+      "Roca Afilada",
+      "Seducción",
+      "Trampa Rocas",
+      "Antiaéreo",
+      "Canon",
+      "Eco Voz",
+      "Calcinación",
+      "Terratemblor",
+      "Confidencia",
+      "Puño Incremento",
+      "Aguzar",
+      "Golpe Mordaza",
+      "Giro Vil",
+      "Arenas Ardientes"
+    ]
+  }
+}

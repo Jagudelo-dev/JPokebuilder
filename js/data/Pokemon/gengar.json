@@ -1,0 +1,228 @@
+{
+  "id": 94,
+  "name": "Gengar",
+  "types": [
+    "Fantasma",
+    "Veneno"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "atk": 65,
+    "def": 60,
+    "spa": 130,
+    "spd": 75,
+    "spe": 110
+  },
+  "abilities": [
+    "Cursed Body"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Anulación"
+      },
+      {
+        "level": 1,
+        "move": "Tinieblas"
+      },
+      {
+        "level": 1,
+        "move": "Rayo Confuso"
+      },
+      {
+        "level": 1,
+        "move": "Niebla"
+      },
+      {
+        "level": 1,
+        "move": "Lengüetazo"
+      },
+      {
+        "level": 1,
+        "move": "Polución"
+      },
+      {
+        "level": 1,
+        "move": "Rencor"
+      },
+      {
+        "level": 1,
+        "move": "Canto Mortal"
+      },
+      {
+        "level": 1,
+        "move": "Impresionar"
+      },
+      {
+        "level": 1,
+        "move": "Clonatipo"
+      },
+      {
+        "level": 7,
+        "move": "Gas Venenoso"
+      },
+      {
+        "level": 13,
+        "move": "Mal de Ojo"
+      },
+      {
+        "level": 14,
+        "move": "Fuego Fatuo"
+      },
+      {
+        "level": 16,
+        "move": "Maldición"
+      },
+      {
+        "level": 18,
+        "move": "Carga Tóxica"
+      },
+      {
+        "level": 21,
+        "move": "Tóxico"
+      },
+      {
+        "level": 22,
+        "move": "Golpe Bajo"
+      },
+      {
+        "level": 25,
+        "move": "Puño Sombra"
+      },
+      {
+        "level": 28,
+        "move": "Vendetta"
+      },
+      {
+        "level": 29,
+        "move": "Hipnosis"
+      },
+      {
+        "level": 38,
+        "move": "Comesueños"
+      },
+      {
+        "level": 44,
+        "move": "Pulso Umbrío"
+      },
+      {
+        "level": 45,
+        "move": "Bola Sombra"
+      },
+      {
+        "level": 48,
+        "move": "Mismo Destino"
+      },
+      {
+        "level": 53,
+        "move": "Pesadilla"
+      },
+      {
+        "level": 55,
+        "move": "Infortunio"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Puño Fuego",
+      "Puño Hielo",
+      "Puño Trueno",
+      "Megapatada",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Hiperrayo",
+      "Sumisión",
+      "Contraataque",
+      "Sísmico",
+      "Fuerza",
+      "Megaagotar",
+      "Rayo",
+      "Onda Trueno",
+      "Trueno",
+      "Psíquico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Venganza",
+      "Metrónomo",
+      "Autodestrucción",
+      "Cabezazo",
+      "Psicoonda",
+      "Explosión",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Protección",
+      "Cara Susto",
+      "Bomba Lodo",
+      "Electrocañón",
+      "Viento Hielo",
+      "Gigadrenado",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Divide Dolor",
+      "Puño Dinámico",
+      "Otra Vez",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Más Psique",
+      "Golpe Roca",
+      "Alboroto",
+      "Tormento",
+      "Imagen",
+      "Puño Certero",
+      "Mofa",
+      "Truco",
+      "Imitación",
+      "Demolición",
+      "Desarme",
+      "Intercambio",
+      "Sellar",
+      "Robo",
+      "Daño Secreto",
+      "Don Natural",
+      "Embargo",
+      "Lanzamiento",
+      "Púas Tóxicas",
+      "Puya Nociva",
+      "Puño Drenaje",
+      "Onda Certera",
+      "Energibola",
+      "Gigaimpacto",
+      "Maquinación",
+      "Garra Umbría",
+      "Espacio Raro",
+      "Lanzamugre",
+      "Seducción",
+      "Viento Aciago",
+      "Zona Extraña",
+      "Telequinesis",
+      "Onda Tóxica",
+      "Bomba Ácida",
+      "Juego Sucio",
+      "Canon",
+      "Cambio de Banda",
+      "Golpe Fantasma",
+      "Confidencia",
+      "Brillo Mágico",
+      "Acoso",
+      "Puño Incremento",
+      "Aguzar",
+      "Golpe Rastrero",
+      "Poltergeist",
+      "Gas Corrosivo",
+      "Tera Blast",
+      "Psicorruido"
+    ]
+  }
+}

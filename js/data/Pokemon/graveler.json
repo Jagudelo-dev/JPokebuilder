@@ -1,0 +1,190 @@
+{
+  "id": 75,
+  "name": "Graveler",
+  "types": [
+    "Roca",
+    "Tierra"
+  ],
+  "baseStats": {
+    "hp": 55,
+    "atk": 95,
+    "def": 115,
+    "spa": 45,
+    "spd": 45,
+    "spe": 35
+  },
+  "abilities": [
+    "Cabeza Roca",
+    "Robustez",
+    "Velo Arena"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Ataque Arena"
+      },
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Rizo Defensa"
+      },
+      {
+        "level": 1,
+        "move": "Venganza"
+      },
+      {
+        "level": 1,
+        "move": "Chapoteo Lodo"
+      },
+      {
+        "level": 1,
+        "move": "Pulimento"
+      },
+      {
+        "level": 4,
+        "move": "Tormenta Arena"
+      },
+      {
+        "level": 9,
+        "move": "Bofetón Lodo"
+      },
+      {
+        "level": 15,
+        "move": "Derribo"
+      },
+      {
+        "level": 15,
+        "move": "Defensa Férrea"
+      },
+      {
+        "level": 16,
+        "move": "Lanzarrocas"
+      },
+      {
+        "level": 16,
+        "move": "Magnitud"
+      },
+      {
+        "level": 21,
+        "move": "Autodestrucción"
+      },
+      {
+        "level": 23,
+        "move": "Avalancha"
+      },
+      {
+        "level": 27,
+        "move": "Antiaéreo"
+      },
+      {
+        "level": 29,
+        "move": "Fortaleza"
+      },
+      {
+        "level": 34,
+        "move": "Rodar"
+      },
+      {
+        "level": 36,
+        "move": "Terremoto"
+      },
+      {
+        "level": 36,
+        "move": "Terratemblor"
+      },
+      {
+        "level": 37,
+        "move": "Pedrada"
+      },
+      {
+        "level": 42,
+        "move": "Trampa Rocas"
+      },
+      {
+        "level": 43,
+        "move": "Explosión"
+      },
+      {
+        "level": 49,
+        "move": "Roca Afilada"
+      },
+      {
+        "level": 62,
+        "move": "Doble Filo"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Puño Fuego",
+      "Puño Trueno",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Lanzallamas",
+      "Sumisión",
+      "Contraataque",
+      "Sísmico",
+      "Fuerza",
+      "Fisura",
+      "Excavar",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Metrónomo",
+      "Llamarada",
+      "Descanso",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Azote",
+      "Protección",
+      "Cara Susto",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Puño Dinámico",
+      "Poder Oculto",
+      "Día Soleado",
+      "Poder Pasado",
+      "Golpe Roca",
+      "Imagen",
+      "Puño Certero",
+      "Adaptación",
+      "Fuerza Bruta",
+      "Demolición",
+      "Daño Secreto",
+      "Tumba Rocas",
+      "Bloqueo",
+      "Disparo Lodo",
+      "Machada",
+      "Giro Bola",
+      "Don Natural",
+      "Lanzamiento",
+      "Golpe Bajo",
+      "Onda Certera",
+      "Tierra Viva",
+      "Treparrocas",
+      "Cabeza de Hierro",
+      "Seducción",
+      "Vastaguardia",
+      "Cuerpo Pesado",
+      "Canon",
+      "Calcinación",
+      "Confidencia",
+      "Puño Incremento",
+      "Fuerza Equina",
+      "Pataleta",
+      "Plancha Corporal",
+      "Tera Blast",
+      "Prensa Metálica"
+    ]
+  }
+}

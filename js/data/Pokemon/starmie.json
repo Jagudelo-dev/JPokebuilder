@@ -1,0 +1,178 @@
+{
+  "id": 121,
+  "name": "Starmie",
+  "types": [
+    "Agua",
+    "Psíquico"
+  ],
+  "baseStats": {
+    "hp": 60,
+    "atk": 75,
+    "def": 85,
+    "spa": 100,
+    "spd": 85,
+    "spe": 115
+  },
+  "abilities": [
+    "Illuminate",
+    "Cura Natural",
+    "Analytic"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Pistola Agua"
+      },
+      {
+        "level": 1,
+        "move": "Hidrobomba"
+      },
+      {
+        "level": 1,
+        "move": "Surf"
+      },
+      {
+        "level": 1,
+        "move": "Psicorrayo"
+      },
+      {
+        "level": 1,
+        "move": "Rayo Burbuja"
+      },
+      {
+        "level": 1,
+        "move": "Psíquico"
+      },
+      {
+        "level": 1,
+        "move": "Recuperación"
+      },
+      {
+        "level": 1,
+        "move": "Fortaleza"
+      },
+      {
+        "level": 1,
+        "move": "Reducción"
+      },
+      {
+        "level": 1,
+        "move": "Pantalla de Luz"
+      },
+      {
+        "level": 1,
+        "move": "Rapidez"
+      },
+      {
+        "level": 1,
+        "move": "Psicoonda"
+      },
+      {
+        "level": 1,
+        "move": "Giro Rápido"
+      },
+      {
+        "level": 1,
+        "move": "Masa Cósmica"
+      },
+      {
+        "level": 1,
+        "move": "Salmuera"
+      },
+      {
+        "level": 1,
+        "move": "Joya de Luz"
+      },
+      {
+        "level": 1,
+        "move": "Foco"
+      },
+      {
+        "level": 37,
+        "move": "Rayo Confuso"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Golpe Cabeza",
+      "Derribo",
+      "Doble Filo",
+      "Rayo Hielo",
+      "Ventisca",
+      "Hiperrayo",
+      "Rayo",
+      "Onda Trueno",
+      "Trueno",
+      "Tóxico",
+      "Agilidad",
+      "Furia",
+      "Teletransporte",
+      "Mimético",
+      "Doble Equipo",
+      "Reflejo",
+      "Venganza",
+      "Cascada",
+      "Cabezazo",
+      "Comesueños",
+      "Destello",
+      "Descanso",
+      "Triataque",
+      "Sustituto",
+      "Pesadilla",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Electrocañón",
+      "Viento Hielo",
+      "Aguante",
+      "Rodar",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Divide Dolor",
+      "Poder Oculto",
+      "Ciclón",
+      "Danza Lluvia",
+      "Más Psique",
+      "Torbellino",
+      "Granizo",
+      "Imagen",
+      "Truco",
+      "Capa Mágica",
+      "Reciclaje",
+      "Intercambio",
+      "Alivio",
+      "Daño Secreto",
+      "Buceo",
+      "Doble Rayo",
+      "Hidropulso",
+      "Gravedad",
+      "Giro Bola",
+      "Don Natural",
+      "Gigaimpacto",
+      "Alud",
+      "Psicocorte",
+      "Foco Resplandor",
+      "Espacio Raro",
+      "Hierba Lazo",
+      "Zona Extraña",
+      "Psicocarga",
+      "Telequinesis",
+      "Canon",
+      "Cambio de Banda",
+      "Escaldar",
+      "Confidencia",
+      "Brillo Mágico",
+      "Vasta Fuerza",
+      "Rayo Meteórico",
+      "Viraje"
+    ]
+  }
+}

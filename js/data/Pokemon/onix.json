@@ -1,0 +1,195 @@
+{
+  "id": 95,
+  "name": "Onix",
+  "types": [
+    "Roca",
+    "Tierra"
+  ],
+  "baseStats": {
+    "hp": 35,
+    "atk": 45,
+    "def": 160,
+    "spa": 30,
+    "spd": 45,
+    "spe": 70
+  },
+  "abilities": [
+    "Cabeza Roca",
+    "Robustez",
+    "Weak Armor"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Chirrido"
+      },
+      {
+        "level": 1,
+        "move": "Rodar"
+      },
+      {
+        "level": 1,
+        "move": "Chapoteo Lodo"
+      },
+      {
+        "level": 11,
+        "move": "Terratemblor"
+      },
+      {
+        "level": 15,
+        "move": "Atadura"
+      },
+      {
+        "level": 17,
+        "move": "Tumba Rocas"
+      },
+      {
+        "level": 19,
+        "move": "Lanzarrocas"
+      },
+      {
+        "level": 20,
+        "move": "Giro Bola"
+      },
+      {
+        "level": 22,
+        "move": "Antiaéreo"
+      },
+      {
+        "level": 25,
+        "move": "Furia"
+      },
+      {
+        "level": 30,
+        "move": "Dragoaliento"
+      },
+      {
+        "level": 30,
+        "move": "Pulimento"
+      },
+      {
+        "level": 33,
+        "move": "Atizar"
+      },
+      {
+        "level": 34,
+        "move": "Avalancha"
+      },
+      {
+        "level": 34,
+        "move": "Fuerza Equina"
+      },
+      {
+        "level": 35,
+        "move": "Terremoto"
+      },
+      {
+        "level": 36,
+        "move": "Tormenta Arena"
+      },
+      {
+        "level": 38,
+        "move": "Maldición"
+      },
+      {
+        "level": 38,
+        "move": "Trampa Rocas"
+      },
+      {
+        "level": 43,
+        "move": "Excavar"
+      },
+      {
+        "level": 43,
+        "move": "Fortaleza"
+      },
+      {
+        "level": 45,
+        "move": "Cola Férrea"
+      },
+      {
+        "level": 49,
+        "move": "Bucle Arena"
+      },
+      {
+        "level": 49,
+        "move": "Roca Afilada"
+      },
+      {
+        "level": 57,
+        "move": "Doble Filo"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Rugido",
+      "Fuerza",
+      "Fisura",
+      "Tóxico",
+      "Mimético",
+      "Doble Equipo",
+      "Rizo Defensa",
+      "Venganza",
+      "Autodestrucción",
+      "Cabezazo",
+      "Explosión",
+      "Descanso",
+      "Sustituto",
+      "Ronquido",
+      "Azote",
+      "Protección",
+      "Cara Susto",
+      "Bofetón Lodo",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Poder Oculto",
+      "Ciclón",
+      "Día Soleado",
+      "Más Psique",
+      "Poder Pasado",
+      "Golpe Roca",
+      "Tormento",
+      "Imagen",
+      "Adaptación",
+      "Mofa",
+      "Daño Secreto",
+      "Bloqueo",
+      "Danza Dragón",
+      "Pedrada",
+      "Don Natural",
+      "Vendetta",
+      "Pulso Dragón",
+      "Tierra Viva",
+      "Foco Resplandor",
+      "Treparrocas",
+      "Cabeza de Hierro",
+      "Seducción",
+      "Testarazo",
+      "Vastaguardia",
+      "Cuerpo Pesado",
+      "Canon",
+      "Cola Dragón",
+      "Taladradora",
+      "Fertilizante",
+      "Confidencia",
+      "Giro Vil",
+      "Pataleta",
+      "Plancha Corporal",
+      "Vasto Impacto",
+      "Rayo Meteórico",
+      "Arenas Ardientes"
+    ]
+  }
+}

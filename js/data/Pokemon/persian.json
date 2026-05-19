@@ -1,0 +1,203 @@
+{
+  "id": 53,
+  "name": "Persian",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "atk": 70,
+    "def": 60,
+    "spa": 65,
+    "spd": 65,
+    "spe": 115
+  },
+  "abilities": [
+    "Flexibilidad",
+    "Experto",
+    "Unnerve"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Arañazo"
+      },
+      {
+        "level": 1,
+        "move": "Mordisco"
+      },
+      {
+        "level": 1,
+        "move": "Gruñido"
+      },
+      {
+        "level": 1,
+        "move": "Hipnosis"
+      },
+      {
+        "level": 1,
+        "move": "Chirrido"
+      },
+      {
+        "level": 1,
+        "move": "Amnesia"
+      },
+      {
+        "level": 1,
+        "move": "Trapicheo"
+      },
+      {
+        "level": 1,
+        "move": "Carantoña"
+      },
+      {
+        "level": 17,
+        "move": "Día de Pago"
+      },
+      {
+        "level": 25,
+        "move": "Mofa"
+      },
+      {
+        "level": 28,
+        "move": "Rapidez"
+      },
+      {
+        "level": 29,
+        "move": "Finta"
+      },
+      {
+        "level": 32,
+        "move": "Joya de Luz"
+      },
+      {
+        "level": 37,
+        "move": "Golpes Furia"
+      },
+      {
+        "level": 44,
+        "move": "Maquinación"
+      },
+      {
+        "level": 49,
+        "move": "Buena Baza"
+      },
+      {
+        "level": 51,
+        "move": "Cuchillada"
+      },
+      {
+        "level": 56,
+        "move": "Seducción"
+      },
+      {
+        "level": 59,
+        "move": "Sorpresa"
+      },
+      {
+        "level": 61,
+        "move": "Contoneo"
+      },
+      {
+        "level": 61,
+        "move": "Tajo Umbrío"
+      },
+      {
+        "level": 68,
+        "move": "Amago"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Corte",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Rugido",
+      "Pistola Agua",
+      "Rayo Burbuja",
+      "Hiperrayo",
+      "Rayo",
+      "Onda Trueno",
+      "Trueno",
+      "Excavar",
+      "Tóxico",
+      "Agilidad",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Rizo Defensa",
+      "Venganza",
+      "Cabezazo",
+      "Comesueños",
+      "Destello",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Pesadilla",
+      "Ronquido",
+      "Maldición",
+      "Rencor",
+      "Protección",
+      "Bofetón Lodo",
+      "Electrocañón",
+      "Viento Hielo",
+      "Detección",
+      "Aguante",
+      "Encanto",
+      "Falso Tortazo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Divide Dolor",
+      "Cola Férrea",
+      "Garra Metal",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Más Psique",
+      "Bola Sombra",
+      "Alboroto",
+      "Tormento",
+      "Imagen",
+      "Refuerzo",
+      "Desarme",
+      "Esfuerzo",
+      "Robo",
+      "Daño Secreto",
+      "Vozarrón",
+      "Llanto Falso",
+      "Golpe Aéreo",
+      "Antojo",
+      "Onda Voltio",
+      "Hidropulso",
+      "Don Natural",
+      "Ida y Vuelta",
+      "Vendetta",
+      "Embargo",
+      "Última Baza",
+      "Pulso Umbrío",
+      "Bomba Germen",
+      "Gigaimpacto",
+      "Garra Umbría",
+      "Lanzamugre",
+      "Afilagarras",
+      "Juego Sucio",
+      "Canon",
+      "Eco Voz",
+      "Represalia",
+      "Avivar",
+      "Alarido",
+      "Confidencia",
+      "Golpe Mordaza",
+      "Golpe Rastrero",
+      "Desahogo",
+      "Tera Blast",
+      "Trailblaze",
+      "Chilling Water"
+    ]
+  }
+}

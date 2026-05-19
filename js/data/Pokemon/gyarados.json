@@ -1,0 +1,207 @@
+{
+  "id": 130,
+  "name": "Gyarados",
+  "types": [
+    "Agua",
+    "Volador"
+  ],
+  "baseStats": {
+    "hp": 95,
+    "atk": 125,
+    "def": 79,
+    "spa": 60,
+    "spd": 100,
+    "spe": 81
+  },
+  "abilities": [
+    "Intimidación",
+    "Entusiasmo"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 0,
+        "move": "Hidropulso"
+      },
+      {
+        "level": 1,
+        "move": "Atadura"
+      },
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Golpe"
+      },
+      {
+        "level": 1,
+        "move": "Malicioso"
+      },
+      {
+        "level": 1,
+        "move": "Mordisco"
+      },
+      {
+        "level": 1,
+        "move": "Hidrobomba"
+      },
+      {
+        "level": 1,
+        "move": "Furia Dragón"
+      },
+      {
+        "level": 1,
+        "move": "Salpicadura"
+      },
+      {
+        "level": 1,
+        "move": "Azote"
+      },
+      {
+        "level": 4,
+        "move": "Torbellino"
+      },
+      {
+        "level": 12,
+        "move": "Salmuera"
+      },
+      {
+        "level": 15,
+        "move": "Foco Energía"
+      },
+      {
+        "level": 21,
+        "move": "Furia"
+      },
+      {
+        "level": 26,
+        "move": "Cola Dragón"
+      },
+      {
+        "level": 31,
+        "move": "Cascada"
+      },
+      {
+        "level": 32,
+        "move": "Colmillo Hielo"
+      },
+      {
+        "level": 33,
+        "move": "Cara Susto"
+      },
+      {
+        "level": 35,
+        "move": "Ciclón"
+      },
+      {
+        "level": 35,
+        "move": "Acua Cola"
+      },
+      {
+        "level": 41,
+        "move": "Enfado"
+      },
+      {
+        "level": 41,
+        "move": "Triturar"
+      },
+      {
+        "level": 45,
+        "move": "Danza Lluvia"
+      },
+      {
+        "level": 48,
+        "move": "Vendaval"
+      },
+      {
+        "level": 50,
+        "move": "Danza Dragón"
+      },
+      {
+        "level": 52,
+        "move": "Hiperrayo"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Rugido",
+      "Lanzallamas",
+      "Pistola Agua",
+      "Surf",
+      "Rayo Hielo",
+      "Ventisca",
+      "Rayo Burbuja",
+      "Fuerza",
+      "Rayo",
+      "Onda Trueno",
+      "Trueno",
+      "Terremoto",
+      "Tóxico",
+      "Mimético",
+      "Doble Equipo",
+      "Reflejo",
+      "Venganza",
+      "Llamarada",
+      "Cabezazo",
+      "Descanso",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Rencor",
+      "Protección",
+      "Electrocañón",
+      "Viento Hielo",
+      "Tormenta Arena",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Dragoaliento",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Día Soleado",
+      "Golpe Roca",
+      "Alboroto",
+      "Granizo",
+      "Tormento",
+      "Imagen",
+      "Mofa",
+      "Refuerzo",
+      "Esfuerzo",
+      "Daño Secreto",
+      "Buceo",
+      "Agua Lodosa",
+      "Bote",
+      "Don Natural",
+      "Vendetta",
+      "Pulso Umbrío",
+      "Pulso Dragón",
+      "Gigaimpacto",
+      "Alud",
+      "Latigazo",
+      "Cabeza de Hierro",
+      "Roca Afilada",
+      "Seducción",
+      "Canon",
+      "Escaldar",
+      "Calcinación",
+      "Terratemblor",
+      "Confidencia",
+      "Giro Vil",
+      "Ráfaga Escamas",
+      "Desahogo",
+      "Tera Blast",
+      "Chilling Water",
+      "Bramido Dragón",
+      "Cólera Ardiente"
+    ]
+  }
+}

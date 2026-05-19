@@ -1,0 +1,150 @@
+{
+  "id": 116,
+  "name": "Horsea",
+  "types": [
+    "Agua"
+  ],
+  "baseStats": {
+    "hp": 30,
+    "atk": 40,
+    "def": 70,
+    "spa": 70,
+    "spd": 25,
+    "spe": 60
+  },
+  "abilities": [
+    "Nado Rápido",
+    "Sniper",
+    "Damp"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Burbuja"
+      },
+      {
+        "level": 14,
+        "move": "Foco Energía"
+      },
+      {
+        "level": 18,
+        "move": "Rayo Burbuja"
+      },
+      {
+        "level": 19,
+        "move": "Pantalla de Humo"
+      },
+      {
+        "level": 20,
+        "move": "Dragoaliento"
+      },
+      {
+        "level": 24,
+        "move": "Malicioso"
+      },
+      {
+        "level": 27,
+        "move": "Cascada"
+      },
+      {
+        "level": 29,
+        "move": "Ciclón"
+      },
+      {
+        "level": 30,
+        "move": "Pistola Agua"
+      },
+      {
+        "level": 30,
+        "move": "Salmuera"
+      },
+      {
+        "level": 35,
+        "move": "Hidropulso"
+      },
+      {
+        "level": 35,
+        "move": "Aguzar"
+      },
+      {
+        "level": 37,
+        "move": "Agilidad"
+      },
+      {
+        "level": 42,
+        "move": "Pulso Dragón"
+      },
+      {
+        "level": 45,
+        "move": "Hidrobomba"
+      },
+      {
+        "level": 50,
+        "move": "Danza Dragón"
+      },
+      {
+        "level": 55,
+        "move": "Danza Lluvia"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Viento Cortante",
+      "Golpe Cabeza",
+      "Derribo",
+      "Doble Filo",
+      "Anulación",
+      "Surf",
+      "Rayo Hielo",
+      "Ventisca",
+      "Rayo Aurora",
+      "Furia Dragón",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Venganza",
+      "Rapidez",
+      "Cabezazo",
+      "Salpicadura",
+      "Descanso",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Azote",
+      "Protección",
+      "Pulpocañón",
+      "Viento Hielo",
+      "Enfado",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Poder Oculto",
+      "Torbellino",
+      "Granizo",
+      "Imagen",
+      "Daño Secreto",
+      "Buceo",
+      "Meteorobola",
+      "Doble Rayo",
+      "Agua Lodosa",
+      "Bote",
+      "Don Natural",
+      "Foco Resplandor",
+      "Seducción",
+      "Canon",
+      "Niebla Clara",
+      "Escaldar",
+      "Confidencia",
+      "Hidroariete",
+      "Ráfaga Escamas",
+      "Viraje",
+      "Tera Blast",
+      "Chilling Water"
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "id": 112,
+  "name": "Rhydon",
+  "types": [
+    "Tierra",
+    "Roca"
+  ],
+  "baseStats": {
+    "hp": 105,
+    "atk": 130,
+    "def": 120,
+    "spa": 45,
+    "spd": 45,
+    "spe": 40
+  },
+  "abilities": [
+    "Pararrayos",
+    "Cabeza Roca",
+    "Reckless"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Pisotón"
+      },
+      {
+        "level": 1,
+        "move": "Ataque Arena"
+      },
+      {
+        "level": 1,
+        "move": "Cornada"
+      },
+      {
+        "level": 1,
+        "move": "Ataque Furia"
+      },
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Látigo"
+      },
+      {
+        "level": 1,
+        "move": "Contraataque"
+      },
+      {
+        "level": 1,
+        "move": "Triturar"
+      },
+      {
+        "level": 11,
+        "move": "Golpe Roca"
+      },
+      {
+        "level": 13,
+        "move": "Antiaéreo"
+      },
+      {
+        "level": 18,
+        "move": "Trampa Rocas"
+      },
+      {
+        "level": 19,
+        "move": "Lanzarrocas"
+      },
+      {
+        "level": 29,
+        "move": "Pedrada"
+      },
+      {
+        "level": 30,
+        "move": "Terratemblor"
+      },
+      {
+        "level": 31,
+        "move": "Cara Susto"
+      },
+      {
+        "level": 34,
+        "move": "Guardia Baja"
+      },
+      {
+        "level": 34,
+        "move": "Fuerza Equina"
+      },
+      {
+        "level": 42,
+        "move": "Machada"
+      },
+      {
+        "level": 43,
+        "move": "Doble Filo"
+      },
+      {
+        "level": 45,
+        "move": "Roca Afilada"
+      },
+      {
+        "level": 47,
+        "move": "Taladradora"
+      },
+      {
+        "level": 48,
+        "move": "Perforador"
+      },
+      {
+        "level": 48,
+        "move": "Avalancha"
+      },
+      {
+        "level": 52,
+        "move": "Gigaimpacto"
+      },
+      {
+        "level": 55,
+        "move": "Malicioso"
+      },
+      {
+        "level": 64,
+        "move": "Derribo"
+      },
+      {
+        "level": 65,
+        "move": "Terremoto"
+      },
+      {
+        "level": 66,
+        "move": "Megacuerno"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Día de Pago",
+      "Puño Fuego",
+      "Puño Hielo",
+      "Puño Trueno",
+      "Danza Espada",
+      "Corte",
+      "Megapatada",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Rugido",
+      "Lanzallamas",
+      "Pistola Agua",
+      "Hidrobomba",
+      "Surf",
+      "Rayo Hielo",
+      "Ventisca",
+      "Rayo Burbuja",
+      "Hiperrayo",
+      "Sumisión",
+      "Sísmico",
+      "Fuerza",
+      "Rayo",
+      "Trueno",
+      "Fisura",
+      "Excavar",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Venganza",
+      "Llamarada",
+      "Cabezazo",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Inversión",
+      "Rencor",
+      "Protección",
+      "Bofetón Lodo",
+      "Electrocañón",
+      "Viento Hielo",
+      "Enfado",
+      "Tormenta Arena",
+      "Aguante",
+      "Rodar",
+      "Contoneo",
+      "Corte Furia",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Puño Dinámico",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Poder Pasado",
+      "Torbellino",
+      "Alboroto",
+      "Imagen",
+      "Puño Certero",
+      "Refuerzo",
+      "Fuerza Bruta",
+      "Demolición",
+      "Esfuerzo",
+      "Daño Secreto",
+      "Tumba Rocas",
+      "Defensa Férrea",
+      "Bloqueo",
+      "Disparo Lodo",
+      "Onda Voltio",
+      "Don Natural",
+      "Represión Metal",
+      "Vendetta",
+      "Lanzamiento",
+      "Pulimento",
+      "Puya Nociva",
+      "Acua Cola",
+      "Pulso Dragón",
+      "Carga Dragón",
+      "Onda Certera",
+      "Tierra Viva",
+      "Alud",
+      "Garra Umbría",
+      "Colmillo Rayo",
+      "Colmillo Hielo",
+      "Colmillo Ígneo",
+      "Treparrocas",
+      "Seducción",
+      "Isoguardia",
+      "Cuerpo Pesado",
+      "Canon",
+      "Calcinación",
+      "Cola Dragón",
+      "Golpe Calor",
+      "Confidencia",
+      "Puño Incremento",
+      "Cuerno Certero",
+      "Giro Vil",
+      "Pataleta",
+      "Plancha Corporal",
+      "Vasto Impacto",
+      "Rayo Meteórico",
+      "Arenas Ardientes",
+      "Tera Blast",
+      "Plancha Voltaica"
+    ]
+  }
+}

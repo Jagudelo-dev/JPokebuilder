@@ -1,0 +1,147 @@
+{
+  "id": 118,
+  "name": "Goldeen",
+  "types": [
+    "Agua"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "atk": 67,
+    "def": 60,
+    "spa": 35,
+    "spd": 50,
+    "spe": 63
+  },
+  "abilities": [
+    "Nado Rápido",
+    "Velo Agua",
+    "Pararrayos"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Látigo"
+      },
+      {
+        "level": 1,
+        "move": "Picotazo"
+      },
+      {
+        "level": 1,
+        "move": "Hidrochorro"
+      },
+      {
+        "level": 10,
+        "move": "Ataque Rápido"
+      },
+      {
+        "level": 17,
+        "move": "Hidropulso"
+      },
+      {
+        "level": 19,
+        "move": "Supersónico"
+      },
+      {
+        "level": 24,
+        "move": "Cornada"
+      },
+      {
+        "level": 24,
+        "move": "Azote"
+      },
+      {
+        "level": 27,
+        "move": "Acua Aro"
+      },
+      {
+        "level": 30,
+        "move": "Ataque Furia"
+      },
+      {
+        "level": 37,
+        "move": "Cascada"
+      },
+      {
+        "level": 45,
+        "move": "Perforador"
+      },
+      {
+        "level": 51,
+        "move": "Anegar"
+      },
+      {
+        "level": 54,
+        "move": "Agilidad"
+      },
+      {
+        "level": 57,
+        "move": "Megacuerno"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Danza Espada",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Pistola Agua",
+      "Hidrobomba",
+      "Surf",
+      "Rayo Hielo",
+      "Ventisca",
+      "Psicorrayo",
+      "Rayo Burbuja",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Niebla",
+      "Venganza",
+      "Rapidez",
+      "Cabezazo",
+      "Descanso",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bofetón Lodo",
+      "Viento Hielo",
+      "Aguante",
+      "Contoneo",
+      "Corte Furia",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Torbellino",
+      "Granizo",
+      "Imagen",
+      "Desarme",
+      "Daño Secreto",
+      "Buceo",
+      "Chapoteo Lodo",
+      "Doble Rayo",
+      "Agua Lodosa",
+      "Bote",
+      "Disparo Lodo",
+      "Don Natural",
+      "Acupresión",
+      "Puya Nociva",
+      "Acua Cola",
+      "Seducción",
+      "Canon",
+      "Escaldar",
+      "Taladradora",
+      "Confidencia",
+      "Golpe Mordaza",
+      "Cuerno Certero",
+      "Ráfaga Escamas",
+      "Viraje"
+    ]
+  }
+}

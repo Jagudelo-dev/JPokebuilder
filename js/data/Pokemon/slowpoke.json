@@ -1,0 +1,196 @@
+{
+  "id": 79,
+  "name": "Slowpoke",
+  "types": [
+    "Agua",
+    "Psíquico"
+  ],
+  "baseStats": {
+    "hp": 90,
+    "atk": 65,
+    "def": 65,
+    "spa": 40,
+    "spd": 40,
+    "spe": 15
+  },
+  "abilities": [
+    "Oblivious",
+    "Own Tempo",
+    "Regeneración"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Confusión"
+      },
+      {
+        "level": 1,
+        "move": "Maldición"
+      },
+      {
+        "level": 1,
+        "move": "Bostezo"
+      },
+      {
+        "level": 18,
+        "move": "Anulación"
+      },
+      {
+        "level": 22,
+        "move": "Golpe Cabeza"
+      },
+      {
+        "level": 27,
+        "move": "Gruñido"
+      },
+      {
+        "level": 29,
+        "move": "Hidropulso"
+      },
+      {
+        "level": 30,
+        "move": "Descanso"
+      },
+      {
+        "level": 33,
+        "move": "Pistola Agua"
+      },
+      {
+        "level": 34,
+        "move": "Cabezazo Zen"
+      },
+      {
+        "level": 36,
+        "move": "Surf"
+      },
+      {
+        "level": 39,
+        "move": "Relajo"
+      },
+      {
+        "level": 40,
+        "move": "Amnesia"
+      },
+      {
+        "level": 47,
+        "move": "Más Psique"
+      },
+      {
+        "level": 48,
+        "move": "Psíquico"
+      },
+      {
+        "level": 53,
+        "move": "Danza Lluvia"
+      },
+      {
+        "level": 58,
+        "move": "Pulso Cura"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Día de Pago",
+      "Pisotón",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Lanzallamas",
+      "Hidrobomba",
+      "Rayo Hielo",
+      "Ventisca",
+      "Psicorrayo",
+      "Rayo Burbuja",
+      "Fuerza",
+      "Onda Trueno",
+      "Terremoto",
+      "Fisura",
+      "Excavar",
+      "Tóxico",
+      "Furia",
+      "Teletransporte",
+      "Mimético",
+      "Doble Equipo",
+      "Pantalla de Luz",
+      "Reflejo",
+      "Venganza",
+      "Llamarada",
+      "Cascada",
+      "Rapidez",
+      "Cabezazo",
+      "Comesueños",
+      "Destello",
+      "Psicoonda",
+      "Triataque",
+      "Sustituto",
+      "Pesadilla",
+      "Ronquido",
+      "Protección",
+      "Tambor",
+      "Bofetón Lodo",
+      "Electrocañón",
+      "Viento Hielo",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Velo Sagrado",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Día Soleado",
+      "Bola Sombra",
+      "Premonición",
+      "Torbellino",
+      "Granizo",
+      "Imagen",
+      "Refuerzo",
+      "Truco",
+      "Capa Mágica",
+      "Reciclaje",
+      "Intercambio",
+      "Sellar",
+      "Daño Secreto",
+      "Buceo",
+      "Chapoteo Lodo",
+      "Meteorobola",
+      "Doble Rayo",
+      "Bloqueo",
+      "Disparo Lodo",
+      "Paz Mental",
+      "Salmuera",
+      "Don Natural",
+      "Yo Primero",
+      "Acua Cola",
+      "Alud",
+      "Espacio Raro",
+      "Seducción",
+      "Hierba Lazo",
+      "Zona Extraña",
+      "Psicocarga",
+      "Telequinesis",
+      "Juego Sucio",
+      "Cede Paso",
+      "Canon",
+      "Eco Voz",
+      "Poder Reserva",
+      "Escaldar",
+      "Calcinación",
+      "Terratemblor",
+      "Eructo",
+      "Confidencia",
+      "Campo Psíquico",
+      "Hidroariete",
+      "Vasta Fuerza",
+      "Tera Blast",
+      "Snowscape",
+      "Chilling Water"
+    ]
+  }
+}

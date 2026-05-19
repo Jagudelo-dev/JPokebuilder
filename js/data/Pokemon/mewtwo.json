@@ -1,0 +1,274 @@
+{
+  "id": 150,
+  "name": "Mewtwo",
+  "types": [
+    "Psíquico"
+  ],
+  "baseStats": {
+    "hp": 106,
+    "atk": 110,
+    "def": 90,
+    "spa": 154,
+    "spd": 90,
+    "spe": 130
+  },
+  "abilities": [
+    "Presión",
+    "Unnerve"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Anulación"
+      },
+      {
+        "level": 1,
+        "move": "Confusión"
+      },
+      {
+        "level": 1,
+        "move": "Psíquico"
+      },
+      {
+        "level": 1,
+        "move": "Teletransporte"
+      },
+      {
+        "level": 1,
+        "move": "Rayo Confuso"
+      },
+      {
+        "level": 1,
+        "move": "Rapidez"
+      },
+      {
+        "level": 1,
+        "move": "Psicoonda"
+      },
+      {
+        "level": 1,
+        "move": "Aguzar"
+      },
+      {
+        "level": 1,
+        "move": "Gota Vital"
+      },
+      {
+        "level": 8,
+        "move": "Poder Pasado"
+      },
+      {
+        "level": 22,
+        "move": "Psicorrayo"
+      },
+      {
+        "level": 33,
+        "move": "Más Psique"
+      },
+      {
+        "level": 36,
+        "move": "Gran Ojo"
+      },
+      {
+        "level": 44,
+        "move": "Premonición"
+      },
+      {
+        "level": 50,
+        "move": "Psicocorte"
+      },
+      {
+        "level": 63,
+        "move": "Barrera"
+      },
+      {
+        "level": 64,
+        "move": "Cambiafuerza"
+      },
+      {
+        "level": 64,
+        "move": "Cambiadefensa"
+      },
+      {
+        "level": 70,
+        "move": "Recuperación"
+      },
+      {
+        "level": 75,
+        "move": "Neblina"
+      },
+      {
+        "level": 79,
+        "move": "Yo Primero"
+      },
+      {
+        "level": 81,
+        "move": "Amnesia"
+      },
+      {
+        "level": 88,
+        "move": "Agilidad"
+      },
+      {
+        "level": 99,
+        "move": "Velo Sagrado"
+      },
+      {
+        "level": 99,
+        "move": "Paz Mental"
+      },
+      {
+        "level": 100,
+        "move": "Esfera Aural"
+      },
+      {
+        "level": 100,
+        "move": "Onda Mental"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Día de Pago",
+      "Puño Fuego",
+      "Puño Hielo",
+      "Puño Trueno",
+      "Megapatada",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Lanzallamas",
+      "Pistola Agua",
+      "Rayo Hielo",
+      "Ventisca",
+      "Rayo Burbuja",
+      "Hiperrayo",
+      "Sumisión",
+      "Patada Baja",
+      "Contraataque",
+      "Sísmico",
+      "Fuerza",
+      "Rayo Solar",
+      "Rayo",
+      "Onda Trueno",
+      "Trueno",
+      "Terremoto",
+      "Tóxico",
+      "Furia",
+      "Tinieblas",
+      "Mimético",
+      "Doble Equipo",
+      "Pantalla de Luz",
+      "Reflejo",
+      "Venganza",
+      "Metrónomo",
+      "Autodestrucción",
+      "Llamarada",
+      "Cabezazo",
+      "Comesueños",
+      "Destello",
+      "Descanso",
+      "Avalancha",
+      "Triataque",
+      "Sustituto",
+      "Pesadilla",
+      "Ronquido",
+      "Maldición",
+      "Inversión",
+      "Rencor",
+      "Protección",
+      "Cara Susto",
+      "Bofetón Lodo",
+      "Electrocañón",
+      "Viento Hielo",
+      "Detección",
+      "Tormenta Arena",
+      "Aguante",
+      "Contoneo",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Puño Dinámico",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Bola Sombra",
+      "Golpe Roca",
+      "Granizo",
+      "Tormento",
+      "Fuego Fatuo",
+      "Imagen",
+      "Puño Certero",
+      "Mofa",
+      "Refuerzo",
+      "Truco",
+      "Imitación",
+      "Capa Mágica",
+      "Reciclaje",
+      "Demolición",
+      "Desarme",
+      "Intercambio",
+      "Sellar",
+      "Robo",
+      "Daño Secreto",
+      "Buceo",
+      "Meteorobola",
+      "Tumba Rocas",
+      "Doble Rayo",
+      "Golpe Aéreo",
+      "Corpulencia",
+      "Onda Voltio",
+      "Hidropulso",
+      "Gravedad",
+      "Don Natural",
+      "Embargo",
+      "Lanzamiento",
+      "Puya Nociva",
+      "Pulso Umbrío",
+      "Acua Cola",
+      "Joya de Luz",
+      "Puño Drenaje",
+      "Onda Certera",
+      "Energibola",
+      "Tierra Viva",
+      "Gigaimpacto",
+      "Maquinación",
+      "Alud",
+      "Cabezazo Zen",
+      "Treparrocas",
+      "Espacio Raro",
+      "Roca Afilada",
+      "Hierba Lazo",
+      "Rayo Carga",
+      "Zona Extraña",
+      "Psicocarga",
+      "Telequinesis",
+      "Zona Mágica",
+      "Bola Voltio",
+      "Puntapié",
+      "Juego Sucio",
+      "Canon",
+      "Poder Reserva",
+      "Cambio de Banda",
+      "Infortunio",
+      "Calcinación",
+      "Terratemblor",
+      "Vendaval",
+      "Confidencia",
+      "Puño Incremento",
+      "Campo Psíquico",
+      "Cambiavelocidad",
+      "Giro Vil",
+      "Pataleta",
+      "Vasta Fuerza",
+      "Desahogo",
+      "Tera Blast",
+      "Trailblaze",
+      "Chilling Water",
+      "Psicorruido"
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "id": 91,
+  "name": "Cloyster",
+  "types": [
+    "Agua",
+    "Hielo"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "atk": 95,
+    "def": 180,
+    "spa": 85,
+    "spd": 45,
+    "spe": 70
+  },
+  "abilities": [
+    "Armadura Concha",
+    "Encadenado",
+    "Overcoat"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 0,
+        "move": "Carámbano"
+      },
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Doble Ataque"
+      },
+      {
+        "level": 1,
+        "move": "Malicioso"
+      },
+      {
+        "level": 1,
+        "move": "Supersónico"
+      },
+      {
+        "level": 1,
+        "move": "Pistola Agua"
+      },
+      {
+        "level": 1,
+        "move": "Hidrobomba"
+      },
+      {
+        "level": 1,
+        "move": "Rayo Hielo"
+      },
+      {
+        "level": 1,
+        "move": "Rayo Aurora"
+      },
+      {
+        "level": 1,
+        "move": "Refugio"
+      },
+      {
+        "level": 1,
+        "move": "Barrera"
+      },
+      {
+        "level": 1,
+        "move": "Tenaza"
+      },
+      {
+        "level": 1,
+        "move": "Protección"
+      },
+      {
+        "level": 1,
+        "move": "Torbellino"
+      },
+      {
+        "level": 1,
+        "move": "Defensa Férrea"
+      },
+      {
+        "level": 1,
+        "move": "Púas Tóxicas"
+      },
+      {
+        "level": 1,
+        "move": "Canto Helado"
+      },
+      {
+        "level": 1,
+        "move": "Rompecoraza"
+      },
+      {
+        "level": 1,
+        "move": "Concha Filo"
+      },
+      {
+        "level": 33,
+        "move": "Púas"
+      },
+      {
+        "level": 50,
+        "move": "Clavo Cañón"
+      },
+      {
+        "level": 52,
+        "move": "Chuzos"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Pin Misil",
+      "Surf",
+      "Ventisca",
+      "Rayo Burbuja",
+      "Hiperrayo",
+      "Tóxico",
+      "Furia",
+      "Teletransporte",
+      "Mimético",
+      "Chirrido",
+      "Doble Equipo",
+      "Pantalla de Luz",
+      "Reflejo",
+      "Venganza",
+      "Autodestrucción",
+      "Cascada",
+      "Rapidez",
+      "Explosión",
+      "Descanso",
+      "Triataque",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Cara Susto",
+      "Viento Hielo",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Granizo",
+      "Tormento",
+      "Imagen",
+      "Refuerzo",
+      "Daño Secreto",
+      "Buceo",
+      "Meteorobola",
+      "Doble Rayo",
+      "Disparo Lodo",
+      "Pedrada",
+      "Hidropulso",
+      "Salmuera",
+      "Don Natural",
+      "Vendetta",
+      "Puya Nociva",
+      "Gigaimpacto",
+      "Alud",
+      "Seducción",
+      "Canon",
+      "Vaho Gélido",
+      "Taladradora",
+      "Confidencia",
+      "Cuerno Certero",
+      "Hidroariete",
+      "Allanador Férreo",
+      "Tera Blast",
+      "Ice Spinner",
+      "Snowscape",
+      "Chilling Water"
+    ]
+  }
+}

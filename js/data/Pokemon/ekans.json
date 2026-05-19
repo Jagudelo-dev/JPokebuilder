@@ -1,0 +1,185 @@
+{
+  "id": 23,
+  "name": "Ekans",
+  "types": [
+    "Veneno"
+  ],
+  "baseStats": {
+    "hp": 35,
+    "atk": 60,
+    "def": 44,
+    "spa": 40,
+    "spd": 54,
+    "spe": 55
+  },
+  "abilities": [
+    "Intimidación",
+    "Mudar",
+    "Unnerve"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Constricción"
+      },
+      {
+        "level": 1,
+        "move": "Malicioso"
+      },
+      {
+        "level": 10,
+        "move": "Picotazo Veneno"
+      },
+      {
+        "level": 17,
+        "move": "Mordisco"
+      },
+      {
+        "level": 24,
+        "move": "Deslumbrar"
+      },
+      {
+        "level": 24,
+        "move": "Puya Nociva"
+      },
+      {
+        "level": 28,
+        "move": "Atizar"
+      },
+      {
+        "level": 28,
+        "move": "Bomba Fango"
+      },
+      {
+        "level": 28,
+        "move": "Bomba Ácida"
+      },
+      {
+        "level": 31,
+        "move": "Chirrido"
+      },
+      {
+        "level": 33,
+        "move": "Bomba Lodo"
+      },
+      {
+        "level": 33,
+        "move": "Bilis"
+      },
+      {
+        "level": 36,
+        "move": "Tóxico"
+      },
+      {
+        "level": 37,
+        "move": "Reserva"
+      },
+      {
+        "level": 37,
+        "move": "Escupir"
+      },
+      {
+        "level": 37,
+        "move": "Tragar"
+      },
+      {
+        "level": 38,
+        "move": "Ácido"
+      },
+      {
+        "level": 38,
+        "move": "Eructo"
+      },
+      {
+        "level": 41,
+        "move": "Lanzamugre"
+      },
+      {
+        "level": 43,
+        "move": "Niebla"
+      },
+      {
+        "level": 44,
+        "move": "Enrosque"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Atadura",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Anulación",
+      "Fuerza",
+      "Megaagotar",
+      "Terremoto",
+      "Fisura",
+      "Excavar",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Venganza",
+      "Cabezazo",
+      "Chupavidas",
+      "Descanso",
+      "Avalancha",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Rencor",
+      "Protección",
+      "Cara Susto",
+      "Bofetón Lodo",
+      "Gigadrenado",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Persecución",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Triturar",
+      "Paliza",
+      "Tormento",
+      "Imagen",
+      "Desarme",
+      "Robo",
+      "Daño Secreto",
+      "Colmillo Veneno",
+      "Tumba Rocas",
+      "Disparo Lodo",
+      "Cola Veneno",
+      "Don Natural",
+      "Vendetta",
+      "Golpe Bajo",
+      "Púas Tóxicas",
+      "Pulso Umbrío",
+      "Acua Cola",
+      "Bomba Germen",
+      "Trapicheo",
+      "Colmillo Ígneo",
+      "Seducción",
+      "Carga Tóxica",
+      "Onda Tóxica",
+      "Canon",
+      "Terratemblor",
+      "Alarido",
+      "Confidencia",
+      "Acoso",
+      "Giro Vil",
+      "Psicocolmillo",
+      "Ráfaga Escamas",
+      "Golpe Rastrero",
+      "Desahogo",
+      "Tera Blast",
+      "Trailblaze"
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "id": 106,
+  "name": "Hitmonlee",
+  "types": [
+    "Lucha"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "atk": 120,
+    "def": 53,
+    "spa": 35,
+    "spd": 110,
+    "spe": 87
+  },
+  "abilities": [
+    "Flexibilidad",
+    "Reckless",
+    "Unburden"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Doble Patada"
+      },
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Meditación"
+      },
+      {
+        "level": 1,
+        "move": "Sorpresa"
+      },
+      {
+        "level": 1,
+        "move": "Refuerzo"
+      },
+      {
+        "level": 1,
+        "move": "Desquite"
+      },
+      {
+        "level": 1,
+        "move": "Puntapié"
+      },
+      {
+        "level": 8,
+        "move": "Patada Baja"
+      },
+      {
+        "level": 16,
+        "move": "Golpe Bajo"
+      },
+      {
+        "level": 20,
+        "move": "Demolición"
+      },
+      {
+        "level": 25,
+        "move": "Imagen"
+      },
+      {
+        "level": 25,
+        "move": "Amago"
+      },
+      {
+        "level": 31,
+        "move": "Telépata"
+      },
+      {
+        "level": 33,
+        "move": "Patada Giro"
+      },
+      {
+        "level": 36,
+        "move": "Profecía"
+      },
+      {
+        "level": 38,
+        "move": "Patada Salto"
+      },
+      {
+        "level": 41,
+        "move": "Aguante"
+      },
+      {
+        "level": 41,
+        "move": "Patada Ígnea"
+      },
+      {
+        "level": 41,
+        "move": "Vastaguardia"
+      },
+      {
+        "level": 43,
+        "move": "Foco Energía"
+      },
+      {
+        "level": 48,
+        "move": "Pat. Salto Alta"
+      },
+      {
+        "level": 50,
+        "move": "Axe Kick"
+      },
+      {
+        "level": 51,
+        "move": "Inversión"
+      },
+      {
+        "level": 53,
+        "move": "Megapatada"
+      },
+      {
+        "level": 53,
+        "move": "A Bocajarro"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Danza Espada",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Sumisión",
+      "Contraataque",
+      "Sísmico",
+      "Fuerza",
+      "Terremoto",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Venganza",
+      "Metrónomo",
+      "Rapidez",
+      "Cabezazo",
+      "Descanso",
+      "Avalancha",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Ultrapuño",
+      "Cara Susto",
+      "Bofetón Lodo",
+      "Detección",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Puño Dinámico",
+      "Relevo",
+      "Giro Rápido",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Golpe Roca",
+      "Alboroto",
+      "Puño Certero",
+      "Mofa",
+      "Imitación",
+      "Fuerza Bruta",
+      "Desarme",
+      "Esfuerzo",
+      "Alivio",
+      "Daño Secreto",
+      "Tumba Rocas",
+      "Corpulencia",
+      "Bote",
+      "Antojo",
+      "Don Natural",
+      "Lanzamiento",
+      "Esfera Aural",
+      "Puya Nociva",
+      "Onda Vacío",
+      "Onda Certera",
+      "Gigaimpacto",
+      "Puño Bala",
+      "Treparrocas",
+      "Roca Afilada",
+      "Seducción",
+      "Canon",
+      "Represalia",
+      "Terratemblor",
+      "Avivar",
+      "Confidencia",
+      "Puño Incremento",
+      "Aguzar",
+      "Golpe Mordaza",
+      "Plancha",
+      "Pataleta",
+      "Motivación",
+      "Tera Blast",
+      "Palma Rauda"
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "id": 149,
+  "name": "Dragonite",
+  "types": [
+    "Dragón",
+    "Volador"
+  ],
+  "baseStats": {
+    "hp": 91,
+    "atk": 134,
+    "def": 95,
+    "spa": 100,
+    "spd": 100,
+    "spe": 80
+  },
+  "abilities": [
+    "Foco Interno",
+    "Multiscale"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Puño Fuego"
+      },
+      {
+        "level": 1,
+        "move": "Puño Trueno"
+      },
+      {
+        "level": 1,
+        "move": "Constricción"
+      },
+      {
+        "level": 1,
+        "move": "Malicioso"
+      },
+      {
+        "level": 1,
+        "move": "Neblina"
+      },
+      {
+        "level": 1,
+        "move": "Onda Trueno"
+      },
+      {
+        "level": 1,
+        "move": "Agilidad"
+      },
+      {
+        "level": 1,
+        "move": "Ciclón"
+      },
+      {
+        "level": 1,
+        "move": "Veloc. Extrema"
+      },
+      {
+        "level": 1,
+        "move": "Respiro"
+      },
+      {
+        "level": 1,
+        "move": "Acua Jet"
+      },
+      {
+        "level": 33,
+        "move": "Acua Cola"
+      },
+      {
+        "level": 33,
+        "move": "Cola Dragón"
+      },
+      {
+        "level": 35,
+        "move": "Atizar"
+      },
+      {
+        "level": 39,
+        "move": "Carga Dragón"
+      },
+      {
+        "level": 45,
+        "move": "Furia Dragón"
+      },
+      {
+        "level": 47,
+        "move": "Velo Sagrado"
+      },
+      {
+        "level": 53,
+        "move": "Danza Lluvia"
+      },
+      {
+        "level": 53,
+        "move": "Danza Dragón"
+      },
+      {
+        "level": 55,
+        "move": "Ataque Ala"
+      },
+      {
+        "level": 60,
+        "move": "Hiperrayo"
+      },
+      {
+        "level": 61,
+        "move": "Enfado"
+      },
+      {
+        "level": 81,
+        "move": "Vendaval"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Puño Hielo",
+      "Viento Cortante",
+      "Corte",
+      "Vuelo",
+      "Atadura",
+      "Megapatada",
+      "Golpe Cabeza",
+      "Perforador",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Rugido",
+      "Lanzallamas",
+      "Pistola Agua",
+      "Hidrobomba",
+      "Surf",
+      "Rayo Hielo",
+      "Ventisca",
+      "Rayo Burbuja",
+      "Patada Baja",
+      "Fuerza",
+      "Giro Fuego",
+      "Rayo",
+      "Trueno",
+      "Terremoto",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Pantalla de Luz",
+      "Niebla",
+      "Reflejo",
+      "Venganza",
+      "Metrónomo",
+      "Llamarada",
+      "Cascada",
+      "Rapidez",
+      "Cabezazo",
+      "Descanso",
+      "Avalancha",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Cara Susto",
+      "Bofetón Lodo",
+      "Electrocañón",
+      "Viento Hielo",
+      "Detección",
+      "Tormenta Arena",
+      "Aguante",
+      "Contoneo",
+      "Corte Furia",
+      "Ala de Acero",
+      "Atracción",
+      "Sonámbulo",
+      "Campana Cura",
+      "Retribución",
+      "Frustración",
+      "Puño Dinámico",
+      "Dragoaliento",
+      "Otra Vez",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Día Soleado",
+      "Golpe Roca",
+      "Torbellino",
+      "Onda Ígnea",
+      "Granizo",
+      "Imagen",
+      "Puño Certero",
+      "Refuerzo",
+      "Fuerza Bruta",
+      "Demolición",
+      "Daño Secreto",
+      "Buceo",
+      "Meteorobola",
+      "Aire Afilado",
+      "Tumba Rocas",
+      "Golpe Aéreo",
+      "Garra Dragón",
+      "Onda Voltio",
+      "Hidropulso",
+      "Don Natural",
+      "Viento Afín",
+      "Lanzamiento",
+      "Tajo Aéreo",
+      "Pulso Dragón",
+      "Onda Certera",
+      "Gigaimpacto",
+      "Despejar",
+      "Cometa Draco",
+      "Cabeza de Hierro",
+      "Roca Afilada",
+      "Seducción",
+      "Viento Aciago",
+      "Afilagarras",
+      "Canon",
+      "Caída Libre",
+      "Calcinación",
+      "Terratemblor",
+      "Confidencia",
+      "Puño Incremento",
+      "Giro Vil",
+      "Pataleta",
+      "Plancha Corporal",
+      "Vasto Impacto",
+      "Ráfaga Escamas",
+      "Ala Bis",
+      "Tera Blast",
+      "Ice Spinner",
+      "Snowscape",
+      "Chilling Water",
+      "Bramido Dragón"
+    ]
+  }
+}

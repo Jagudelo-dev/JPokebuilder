@@ -1,0 +1,177 @@
+{
+  "id": 78,
+  "name": "Rapidash",
+  "types": [
+    "Fuego"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "atk": 100,
+    "def": 70,
+    "spa": 80,
+    "spd": 80,
+    "spe": 105
+  },
+  "abilities": [
+    "Run Away",
+    "Absorbe Fuego",
+    "Flame Body"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 0,
+        "move": "Cuerno Certero"
+      },
+      {
+        "level": 1,
+        "move": "Pisotón"
+      },
+      {
+        "level": 1,
+        "move": "Perforador"
+      },
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Látigo"
+      },
+      {
+        "level": 1,
+        "move": "Gruñido"
+      },
+      {
+        "level": 1,
+        "move": "Ascuas"
+      },
+      {
+        "level": 1,
+        "move": "Hipnosis"
+      },
+      {
+        "level": 1,
+        "move": "Ataque Rápido"
+      },
+      {
+        "level": 1,
+        "move": "Megacuerno"
+      },
+      {
+        "level": 1,
+        "move": "Puya Nociva"
+      },
+      {
+        "level": 9,
+        "move": "Doble Golpe"
+      },
+      {
+        "level": 15,
+        "move": "Doble Patada"
+      },
+      {
+        "level": 15,
+        "move": "Rueda Fuego"
+      },
+      {
+        "level": 21,
+        "move": "Nitrocarga"
+      },
+      {
+        "level": 33,
+        "move": "Infierno"
+      },
+      {
+        "level": 37,
+        "move": "Doble Filo"
+      },
+      {
+        "level": 39,
+        "move": "Giro Fuego"
+      },
+      {
+        "level": 40,
+        "move": "Ataque Furia"
+      },
+      {
+        "level": 47,
+        "move": "Derribo"
+      },
+      {
+        "level": 50,
+        "move": "Bote"
+      },
+      {
+        "level": 55,
+        "move": "Agilidad"
+      },
+      {
+        "level": 58,
+        "move": "Envite Ígneo"
+      },
+      {
+        "level": 61,
+        "move": "Llamarada"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Día de Pago",
+      "Danza Espada",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Lanzallamas",
+      "Hiperrayo",
+      "Patada Baja",
+      "Fuerza",
+      "Rayo Solar",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Reflejo",
+      "Venganza",
+      "Rapidez",
+      "Cabezazo",
+      "Descanso",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Aguante",
+      "Encanto",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Relevo",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Día Soleado",
+      "Onda Ígnea",
+      "Fuego Fatuo",
+      "Imagen",
+      "Daño Secreto",
+      "Sofoco",
+      "Don Natural",
+      "Gigaimpacto",
+      "Seducción",
+      "Canon",
+      "Eco Voz",
+      "Cambio de Banda",
+      "Calcinación",
+      "Voltio Cruel",
+      "Taladradora",
+      "Carantoña",
+      "Confidencia",
+      "Llama Embrujada",
+      "Fuerza Equina",
+      "Cuchilla Solar",
+      "Golpe Mordaza",
+      "Arenas Ardientes"
+    ]
+  }
+}

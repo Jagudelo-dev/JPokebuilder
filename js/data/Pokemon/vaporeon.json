@@ -1,0 +1,217 @@
+{
+  "id": 134,
+  "name": "Vaporeon",
+  "types": [
+    "Agua"
+  ],
+  "baseStats": {
+    "hp": 130,
+    "atk": 65,
+    "def": 60,
+    "spa": 110,
+    "spd": 95,
+    "spe": 65
+  },
+  "abilities": [
+    "Absorbe Agua",
+    "Hydration"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 0,
+        "move": "Burbuja"
+      },
+      {
+        "level": 1,
+        "move": "Ataque Arena"
+      },
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Derribo"
+      },
+      {
+        "level": 1,
+        "move": "Doble Filo"
+      },
+      {
+        "level": 1,
+        "move": "Gruñido"
+      },
+      {
+        "level": 1,
+        "move": "Pistola Agua"
+      },
+      {
+        "level": 1,
+        "move": "Ataque Rápido"
+      },
+      {
+        "level": 1,
+        "move": "Rapidez"
+      },
+      {
+        "level": 1,
+        "move": "Encanto"
+      },
+      {
+        "level": 1,
+        "move": "Relevo"
+      },
+      {
+        "level": 1,
+        "move": "Refuerzo"
+      },
+      {
+        "level": 1,
+        "move": "Bostezo"
+      },
+      {
+        "level": 1,
+        "move": "Antojo"
+      },
+      {
+        "level": 1,
+        "move": "Copión"
+      },
+      {
+        "level": 9,
+        "move": "Ojitos Tiernos"
+      },
+      {
+        "level": 10,
+        "move": "Doble Patada"
+      },
+      {
+        "level": 17,
+        "move": "Hidropulso"
+      },
+      {
+        "level": 25,
+        "move": "Mimético"
+      },
+      {
+        "level": 25,
+        "move": "Acua Cola"
+      },
+      {
+        "level": 34,
+        "move": "Paz Mental"
+      },
+      {
+        "level": 36,
+        "move": "Rayo Aurora"
+      },
+      {
+        "level": 37,
+        "move": "Látigo"
+      },
+      {
+        "level": 40,
+        "move": "Mordisco"
+      },
+      {
+        "level": 42,
+        "move": "Armadura Ácida"
+      },
+      {
+        "level": 43,
+        "move": "Acua Aro"
+      },
+      {
+        "level": 44,
+        "move": "Niebla"
+      },
+      {
+        "level": 48,
+        "move": "Neblina"
+      },
+      {
+        "level": 50,
+        "move": "Última Baza"
+      },
+      {
+        "level": 54,
+        "move": "Hidrobomba"
+      },
+      {
+        "level": 78,
+        "move": "Agua Lodosa"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Día de Pago",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Rugido",
+      "Surf",
+      "Rayo Hielo",
+      "Ventisca",
+      "Rayo Burbuja",
+      "Hiperrayo",
+      "Fuerza",
+      "Excavar",
+      "Tóxico",
+      "Furia",
+      "Doble Equipo",
+      "Reflejo",
+      "Foco Energía",
+      "Venganza",
+      "Cascada",
+      "Cabezazo",
+      "Descanso",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bofetón Lodo",
+      "Viento Hielo",
+      "Detección",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Campana Cura",
+      "Retribución",
+      "Frustración",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Bola Sombra",
+      "Golpe Roca",
+      "Torbellino",
+      "Granizo",
+      "Imagen",
+      "Daño Secreto",
+      "Buceo",
+      "Vozarrón",
+      "Meteorobola",
+      "Llanto Falso",
+      "Doble Rayo",
+      "Salmuera",
+      "Don Natural",
+      "Gigaimpacto",
+      "Seducción",
+      "Canon",
+      "Eco Voz",
+      "Poder Reserva",
+      "Escaldar",
+      "Represalia",
+      "Avivar",
+      "Confidencia",
+      "Aguzar",
+      "Hidroariete",
+      "Viraje",
+      "Tera Blast",
+      "Trailblaze",
+      "Chilling Water",
+      "Canto Encantador"
+    ]
+  }
+}

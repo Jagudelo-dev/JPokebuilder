@@ -1,0 +1,180 @@
+{
+  "id": 137,
+  "name": "Porygon",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "atk": 60,
+    "def": 70,
+    "spa": 85,
+    "spd": 75,
+    "spe": 40
+  },
+  "abilities": [
+    "Rastro",
+    "Descarga",
+    "Analytic"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Afilar"
+      },
+      {
+        "level": 1,
+        "move": "Conversión"
+      },
+      {
+        "level": 1,
+        "move": "Conversión2"
+      },
+      {
+        "level": 15,
+        "move": "Impactrueno"
+      },
+      {
+        "level": 15,
+        "move": "Chispa"
+      },
+      {
+        "level": 18,
+        "move": "Barrera"
+      },
+      {
+        "level": 23,
+        "move": "Psicorrayo"
+      },
+      {
+        "level": 23,
+        "move": "Levitón"
+      },
+      {
+        "level": 27,
+        "move": "Onda Trueno"
+      },
+      {
+        "level": 28,
+        "move": "Recuperación"
+      },
+      {
+        "level": 29,
+        "move": "Rayo"
+      },
+      {
+        "level": 29,
+        "move": "Doble Rayo"
+      },
+      {
+        "level": 32,
+        "move": "Fijar Blanco"
+      },
+      {
+        "level": 35,
+        "move": "Agilidad"
+      },
+      {
+        "level": 40,
+        "move": "Hiperrayo"
+      },
+      {
+        "level": 40,
+        "move": "Chispazo"
+      },
+      {
+        "level": 42,
+        "move": "Triataque"
+      },
+      {
+        "level": 44,
+        "move": "Electrocañón"
+      },
+      {
+        "level": 44,
+        "move": "Reciclaje"
+      },
+      {
+        "level": 50,
+        "move": "Doble Filo"
+      },
+      {
+        "level": 56,
+        "move": "Capa Mágica"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Golpe Cabeza",
+      "Derribo",
+      "Rayo Hielo",
+      "Ventisca",
+      "Rayo Solar",
+      "Trueno",
+      "Tóxico",
+      "Psíquico",
+      "Furia",
+      "Teletransporte",
+      "Mimético",
+      "Doble Equipo",
+      "Reflejo",
+      "Venganza",
+      "Rapidez",
+      "Cabezazo",
+      "Comesueños",
+      "Destello",
+      "Psicoonda",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Pesadilla",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Viento Hielo",
+      "Aguante",
+      "Contoneo",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Divide Dolor",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Más Psique",
+      "Bola Sombra",
+      "Imagen",
+      "Carga",
+      "Truco",
+      "Daño Secreto",
+      "Golpe Aéreo",
+      "Onda Voltio",
+      "Gravedad",
+      "Don Natural",
+      "Cambiafuerza",
+      "Cambiadefensa",
+      "Última Baza",
+      "Gigaimpacto",
+      "Cabezazo Zen",
+      "Espacio Raro",
+      "Rayo Carga",
+      "Zona Extraña",
+      "Psicocarga",
+      "Telequinesis",
+      "Juego Sucio",
+      "Canon",
+      "Cambio de Banda",
+      "Electrotela",
+      "Confidencia",
+      "Onda Anómala",
+      "Cambiavelocidad",
+      "Tera Blast"
+    ]
+  }
+}

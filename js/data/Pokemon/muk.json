@@ -1,0 +1,196 @@
+{
+  "id": 89,
+  "name": "Muk",
+  "types": [
+    "Veneno"
+  ],
+  "baseStats": {
+    "hp": 105,
+    "atk": 105,
+    "def": 75,
+    "spa": 65,
+    "spd": 100,
+    "spe": 50
+  },
+  "abilities": [
+    "Stench",
+    "Sticky Hold",
+    "Poison Touch"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Destructor"
+      },
+      {
+        "level": 1,
+        "move": "Anulación"
+      },
+      {
+        "level": 1,
+        "move": "Niebla"
+      },
+      {
+        "level": 1,
+        "move": "Gas Venenoso"
+      },
+      {
+        "level": 1,
+        "move": "Bofetón Lodo"
+      },
+      {
+        "level": 1,
+        "move": "Fuerza Lunar"
+      },
+      {
+        "level": 18,
+        "move": "Polución"
+      },
+      {
+        "level": 18,
+        "move": "Disparo Lodo"
+      },
+      {
+        "level": 23,
+        "move": "Bomba Fango"
+      },
+      {
+        "level": 28,
+        "move": "Lanzamiento"
+      },
+      {
+        "level": 33,
+        "move": "Reducción"
+      },
+      {
+        "level": 36,
+        "move": "Tóxico"
+      },
+      {
+        "level": 37,
+        "move": "Residuos"
+      },
+      {
+        "level": 38,
+        "move": "Trampa Venenosa"
+      },
+      {
+        "level": 45,
+        "move": "Fortaleza"
+      },
+      {
+        "level": 50,
+        "move": "Onda Tóxica"
+      },
+      {
+        "level": 53,
+        "move": "Chirrido"
+      },
+      {
+        "level": 53,
+        "move": "Eructo"
+      },
+      {
+        "level": 54,
+        "move": "Lanzamugre"
+      },
+      {
+        "level": 60,
+        "move": "Armadura Ácida"
+      },
+      {
+        "level": 60,
+        "move": "Bomba Lodo"
+      },
+      {
+        "level": 61,
+        "move": "Legado"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Puño Fuego",
+      "Puño Hielo",
+      "Puño Trueno",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Lanzallamas",
+      "Hiperrayo",
+      "Fuerza",
+      "Megaagotar",
+      "Rayo",
+      "Trueno",
+      "Excavar",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Rayo Confuso",
+      "Venganza",
+      "Metrónomo",
+      "Autodestrucción",
+      "Llamarada",
+      "Rapidez",
+      "Explosión",
+      "Descanso",
+      "Avalancha",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Rencor",
+      "Protección",
+      "Cara Susto",
+      "Electrocañón",
+      "Tormenta Arena",
+      "Gigadrenado",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Divide Dolor",
+      "Puño Dinámico",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Bola Sombra",
+      "Golpe Roca",
+      "Tormento",
+      "Imagen",
+      "Puño Certero",
+      "Mofa",
+      "Refuerzo",
+      "Demolición",
+      "Desarme",
+      "Sellar",
+      "Daño Secreto",
+      "Tumba Rocas",
+      "Bloqueo",
+      "Onda Voltio",
+      "Don Natural",
+      "Vendetta",
+      "Púas Tóxicas",
+      "Puya Nociva",
+      "Pulso Umbrío",
+      "Puño Drenaje",
+      "Onda Certera",
+      "Gigaimpacto",
+      "Cabezazo Zen",
+      "Seducción",
+      "Carga Tóxica",
+      "Bomba Ácida",
+      "Canon",
+      "Infortunio",
+      "Calcinación",
+      "Confidencia",
+      "Acoso",
+      "Puño Incremento",
+      "Plancha",
+      "Desahogo",
+      "Tera Blast"
+    ]
+  }
+}

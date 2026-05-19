@@ -1,0 +1,178 @@
+{
+  "id": 88,
+  "name": "Grimer",
+  "types": [
+    "Veneno"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "atk": 80,
+    "def": 50,
+    "spa": 40,
+    "spd": 50,
+    "spe": 25
+  },
+  "abilities": [
+    "Stench",
+    "Sticky Hold",
+    "Poison Touch"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Destructor"
+      },
+      {
+        "level": 1,
+        "move": "Anulación"
+      },
+      {
+        "level": 7,
+        "move": "Bofetón Lodo"
+      },
+      {
+        "level": 18,
+        "move": "Polución"
+      },
+      {
+        "level": 18,
+        "move": "Disparo Lodo"
+      },
+      {
+        "level": 23,
+        "move": "Bomba Fango"
+      },
+      {
+        "level": 28,
+        "move": "Lanzamiento"
+      },
+      {
+        "level": 30,
+        "move": "Gas Venenoso"
+      },
+      {
+        "level": 33,
+        "move": "Reducción"
+      },
+      {
+        "level": 36,
+        "move": "Tóxico"
+      },
+      {
+        "level": 37,
+        "move": "Residuos"
+      },
+      {
+        "level": 42,
+        "move": "Fortaleza"
+      },
+      {
+        "level": 44,
+        "move": "Lanzamugre"
+      },
+      {
+        "level": 44,
+        "move": "Onda Tóxica"
+      },
+      {
+        "level": 46,
+        "move": "Eructo"
+      },
+      {
+        "level": 48,
+        "move": "Chirrido"
+      },
+      {
+        "level": 50,
+        "move": "Bomba Lodo"
+      },
+      {
+        "level": 53,
+        "move": "Legado"
+      },
+      {
+        "level": 55,
+        "move": "Armadura Ácida"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Puño Fuego",
+      "Puño Hielo",
+      "Puño Trueno",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Lanzallamas",
+      "Fuerza",
+      "Megaagotar",
+      "Rayo",
+      "Trueno",
+      "Excavar",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Rayo Confuso",
+      "Niebla",
+      "Venganza",
+      "Metrónomo",
+      "Autodestrucción",
+      "Lengüetazo",
+      "Llamarada",
+      "Explosión",
+      "Descanso",
+      "Avalancha",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Cara Susto",
+      "Electrocañón",
+      "Tormenta Arena",
+      "Gigadrenado",
+      "Aguante",
+      "Contoneo",
+      "Mal de Ojo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Divide Dolor",
+      "Puño Dinámico",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Bola Sombra",
+      "Reserva",
+      "Escupir",
+      "Tragar",
+      "Tormento",
+      "Imagen",
+      "Mofa",
+      "Refuerzo",
+      "Sellar",
+      "Daño Secreto",
+      "Tumba Rocas",
+      "Puño Sombra",
+      "Onda Voltio",
+      "Don Natural",
+      "Vendetta",
+      "Puya Nociva",
+      "Puño Drenaje",
+      "Sombra Vil",
+      "Cabezazo Zen",
+      "Seducción",
+      "Carga Tóxica",
+      "Bomba Ácida",
+      "Canon",
+      "Infortunio",
+      "Calcinación",
+      "Confidencia",
+      "Acoso",
+      "Puño Incremento",
+      "Tera Blast"
+    ]
+  }
+}

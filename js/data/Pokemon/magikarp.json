@@ -1,0 +1,40 @@
+{
+  "id": 129,
+  "name": "Magikarp",
+  "types": [
+    "Agua"
+  ],
+  "baseStats": {
+    "hp": 20,
+    "atk": 10,
+    "def": 55,
+    "spa": 15,
+    "spd": 20,
+    "spe": 80
+  },
+  "abilities": [
+    "Nado Rápido",
+    "Rattled"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Salpicadura"
+      },
+      {
+        "level": 15,
+        "move": "Placaje"
+      },
+      {
+        "level": 30,
+        "move": "Azote"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Hidrobomba",
+      "Bote"
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "id": 115,
+  "name": "Kangaskhan",
+  "types": [
+    "Normal"
+  ],
+  "baseStats": {
+    "hp": 105,
+    "atk": 95,
+    "def": 80,
+    "spa": 40,
+    "spd": 80,
+    "spe": 90
+  },
+  "abilities": [
+    "Madrugar",
+    "Impasible",
+    "Foco Interno"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Destructor"
+      },
+      {
+        "level": 1,
+        "move": "Puño Cometa"
+      },
+      {
+        "level": 1,
+        "move": "Furia"
+      },
+      {
+        "level": 4,
+        "move": "Gruñido"
+      },
+      {
+        "level": 16,
+        "move": "Pisotón"
+      },
+      {
+        "level": 19,
+        "move": "Sorpresa"
+      },
+      {
+        "level": 20,
+        "move": "Foco Energía"
+      },
+      {
+        "level": 24,
+        "move": "Golpe Cabeza"
+      },
+      {
+        "level": 26,
+        "move": "Mordisco"
+      },
+      {
+        "level": 31,
+        "move": "Látigo"
+      },
+      {
+        "level": 31,
+        "move": "Triturar"
+      },
+      {
+        "level": 31,
+        "move": "Guardia Baja"
+      },
+      {
+        "level": 36,
+        "move": "Megapuño"
+      },
+      {
+        "level": 37,
+        "move": "Enfado"
+      },
+      {
+        "level": 37,
+        "move": "Aguante"
+      },
+      {
+        "level": 41,
+        "move": "Malicioso"
+      },
+      {
+        "level": 43,
+        "move": "Doble Golpe"
+      },
+      {
+        "level": 46,
+        "move": "Puño Mareo"
+      },
+      {
+        "level": 46,
+        "move": "Golpe Bajo"
+      },
+      {
+        "level": 49,
+        "move": "Inversión"
+      },
+      {
+        "level": 52,
+        "move": "Última Baza"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Puño Fuego",
+      "Puño Hielo",
+      "Puño Trueno",
+      "Corte",
+      "Megapatada",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Rugido",
+      "Canto",
+      "Anulación",
+      "Lanzallamas",
+      "Pistola Agua",
+      "Hidrobomba",
+      "Surf",
+      "Rayo Hielo",
+      "Ventisca",
+      "Rayo Burbuja",
+      "Hiperrayo",
+      "Sumisión",
+      "Patada Baja",
+      "Contraataque",
+      "Sísmico",
+      "Fuerza",
+      "Rayo Solar",
+      "Rayo",
+      "Trueno",
+      "Terremoto",
+      "Fisura",
+      "Excavar",
+      "Tóxico",
+      "Mimético",
+      "Doble Equipo",
+      "Venganza",
+      "Llamarada",
+      "Cabezazo",
+      "Descanso",
+      "Avalancha",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Rencor",
+      "Protección",
+      "Bofetón Lodo",
+      "Electrocañón",
+      "Profecía",
+      "Viento Hielo",
+      "Tormenta Arena",
+      "Contoneo",
+      "Corte Furia",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Velo Sagrado",
+      "Puño Dinámico",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Bola Sombra",
+      "Golpe Roca",
+      "Torbellino",
+      "Paliza",
+      "Alboroto",
+      "Granizo",
+      "Imagen",
+      "Puño Certero",
+      "Refuerzo",
+      "Demolición",
+      "Esfuerzo",
+      "Daño Secreto",
+      "Garra Brutal",
+      "Tumba Rocas",
+      "Golpe Aéreo",
+      "Antojo",
+      "Onda Voltio",
+      "Hidropulso",
+      "Machada",
+      "Don Natural",
+      "Buena Baza",
+      "Lanzamiento",
+      "As Oculto",
+      "Acua Cola",
+      "Puño Drenaje",
+      "Onda Certera",
+      "Gigaimpacto",
+      "Alud",
+      "Garra Umbría",
+      "Treparrocas",
+      "Seducción",
+      "Canon",
+      "Llave Giro",
+      "Calcinación",
+      "Represalia",
+      "Terratemblor",
+      "Avivar",
+      "Confidencia",
+      "Puño Incremento",
+      "Pulso de Campo"
+    ]
+  }
+}

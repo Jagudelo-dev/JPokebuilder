@@ -1,0 +1,176 @@
+{
+  "id": 125,
+  "name": "Electabuzz",
+  "types": [
+    "Eléctrico"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "atk": 83,
+    "def": 57,
+    "spa": 95,
+    "spd": 85,
+    "spe": 105
+  },
+  "abilities": [
+    "Estática",
+    "Espíritu Vital"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Malicioso"
+      },
+      {
+        "level": 1,
+        "move": "Ataque Rápido"
+      },
+      {
+        "level": 1,
+        "move": "Carga"
+      },
+      {
+        "level": 10,
+        "move": "Patada Baja"
+      },
+      {
+        "level": 11,
+        "move": "Chispa"
+      },
+      {
+        "level": 19,
+        "move": "Onda Trueno"
+      },
+      {
+        "level": 19,
+        "move": "Onda Voltio"
+      },
+      {
+        "level": 25,
+        "move": "Rapidez"
+      },
+      {
+        "level": 32,
+        "move": "Bola Voltio"
+      },
+      {
+        "level": 34,
+        "move": "Impactrueno"
+      },
+      {
+        "level": 37,
+        "move": "Chirrido"
+      },
+      {
+        "level": 37,
+        "move": "Chispazo"
+      },
+      {
+        "level": 42,
+        "move": "Puño Trueno"
+      },
+      {
+        "level": 47,
+        "move": "Rayo"
+      },
+      {
+        "level": 49,
+        "move": "Pantalla de Luz"
+      },
+      {
+        "level": 54,
+        "move": "Trueno"
+      },
+      {
+        "level": 64,
+        "move": "Gigaimpacto"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Puño Fuego",
+      "Puño Hielo",
+      "Megapatada",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Hiperrayo",
+      "Sumisión",
+      "Contraataque",
+      "Sísmico",
+      "Fuerza",
+      "Tóxico",
+      "Psíquico",
+      "Furia",
+      "Teletransporte",
+      "Mimético",
+      "Doble Equipo",
+      "Reflejo",
+      "Venganza",
+      "Metrónomo",
+      "Cabezazo",
+      "Destello",
+      "Psicoonda",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bofetón Lodo",
+      "Electrocañón",
+      "Detección",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Puño Dinámico",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Tajo Cruzado",
+      "Danza Lluvia",
+      "Golpe Roca",
+      "Alboroto",
+      "Imagen",
+      "Puño Certero",
+      "Señuelo",
+      "Mofa",
+      "Refuerzo",
+      "Demolición",
+      "Desarme",
+      "Daño Secreto",
+      "Eco Metálico",
+      "Doble Rayo",
+      "Corpulencia",
+      "Antojo",
+      "Machada",
+      "Don Natural",
+      "Amago",
+      "Lanzamiento",
+      "Levitón",
+      "Onda Certera",
+      "Treparrocas",
+      "Seducción",
+      "Rayo Carga",
+      "Puntapié",
+      "Canon",
+      "Voltiocambio",
+      "Electrotela",
+      "Voltio Cruel",
+      "Golpe Bis",
+      "Confidencia",
+      "Onda Anómala",
+      "Campo Eléctrico",
+      "Puño Incremento",
+      "Alto Voltaje",
+      "Tera Blast",
+      "Trailblaze",
+      "Plancha Voltaica"
+    ]
+  }
+}

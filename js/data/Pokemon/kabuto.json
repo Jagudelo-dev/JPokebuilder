@@ -1,0 +1,174 @@
+{
+  "id": 140,
+  "name": "Kabuto",
+  "types": [
+    "Roca",
+    "Agua"
+  ],
+  "baseStats": {
+    "hp": 30,
+    "atk": 80,
+    "def": 90,
+    "spa": 55,
+    "spd": 45,
+    "spe": 55
+  },
+  "abilities": [
+    "Nado Rápido",
+    "Armadura Batalla",
+    "Weak Armor"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Arañazo"
+      },
+      {
+        "level": 1,
+        "move": "Fortaleza"
+      },
+      {
+        "level": 25,
+        "move": "Disparo Lodo"
+      },
+      {
+        "level": 28,
+        "move": "Ataque Arena"
+      },
+      {
+        "level": 30,
+        "move": "Lanzarrocas"
+      },
+      {
+        "level": 31,
+        "move": "Acua Jet"
+      },
+      {
+        "level": 34,
+        "move": "Absorber"
+      },
+      {
+        "level": 35,
+        "move": "Salmuera"
+      },
+      {
+        "level": 37,
+        "move": "Aguante"
+      },
+      {
+        "level": 39,
+        "move": "Cuchillada"
+      },
+      {
+        "level": 41,
+        "move": "Protección"
+      },
+      {
+        "level": 42,
+        "move": "Avalancha"
+      },
+      {
+        "level": 43,
+        "move": "Eco Metálico"
+      },
+      {
+        "level": 44,
+        "move": "Malicioso"
+      },
+      {
+        "level": 46,
+        "move": "Megaagotar"
+      },
+      {
+        "level": 48,
+        "move": "Chupavidas"
+      },
+      {
+        "level": 49,
+        "move": "Hidrobomba"
+      },
+      {
+        "level": 50,
+        "move": "Hidroariete"
+      },
+      {
+        "level": 51,
+        "move": "Estrujón"
+      },
+      {
+        "level": 55,
+        "move": "Poder Pasado"
+      },
+      {
+        "level": 60,
+        "move": "Roca Afilada"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Pistola Agua",
+      "Surf",
+      "Rayo Hielo",
+      "Ventisca",
+      "Rayo Burbuja",
+      "Rayo Aurora",
+      "Excavar",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Chirrido",
+      "Doble Equipo",
+      "Rayo Confuso",
+      "Reflejo",
+      "Venganza",
+      "Cascada",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Azote",
+      "Bofetón Lodo",
+      "Profecía",
+      "Viento Hielo",
+      "Tormenta Arena",
+      "Gigadrenado",
+      "Rodar",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Giro Rápido",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Golpe Roca",
+      "Torbellino",
+      "Granizo",
+      "Imagen",
+      "Desarme",
+      "Daño Secreto",
+      "Tumba Rocas",
+      "Golpe Aéreo",
+      "Defensa Férrea",
+      "Pedrada",
+      "Hidropulso",
+      "Don Natural",
+      "Pulimento",
+      "Tierra Viva",
+      "Seducción",
+      "Trampa Rocas",
+      "Afilagarras",
+      "Antiaéreo",
+      "Canon",
+      "Escaldar",
+      "Confidencia",
+      "Rayo Meteórico"
+    ]
+  }
+}

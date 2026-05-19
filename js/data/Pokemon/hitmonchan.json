@@ -1,0 +1,211 @@
+{
+  "id": 107,
+  "name": "Hitmonchan",
+  "types": [
+    "Lucha"
+  ],
+  "baseStats": {
+    "hp": 50,
+    "atk": 105,
+    "def": 79,
+    "spa": 35,
+    "spd": 110,
+    "spe": 76
+  },
+  "abilities": [
+    "Vista Lince",
+    "Puño Férreo",
+    "Foco Interno"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 0,
+        "move": "Puño Drenaje"
+      },
+      {
+        "level": 1,
+        "move": "Puño Cometa"
+      },
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Agilidad"
+      },
+      {
+        "level": 1,
+        "move": "Sorpresa"
+      },
+      {
+        "level": 1,
+        "move": "Refuerzo"
+      },
+      {
+        "level": 1,
+        "move": "Desquite"
+      },
+      {
+        "level": 5,
+        "move": "Malicioso"
+      },
+      {
+        "level": 8,
+        "move": "Puño Incremento"
+      },
+      {
+        "level": 13,
+        "move": "Persecución"
+      },
+      {
+        "level": 16,
+        "move": "Puño Bala"
+      },
+      {
+        "level": 20,
+        "move": "Rapidez"
+      },
+      {
+        "level": 21,
+        "move": "Amago"
+      },
+      {
+        "level": 25,
+        "move": "Puño Mareo"
+      },
+      {
+        "level": 26,
+        "move": "Onda Vacío"
+      },
+      {
+        "level": 31,
+        "move": "Anticipo"
+      },
+      {
+        "level": 32,
+        "move": "Ultrapuño"
+      },
+      {
+        "level": 32,
+        "move": "Gancho Alto"
+      },
+      {
+        "level": 33,
+        "move": "Puño Fuego"
+      },
+      {
+        "level": 35,
+        "move": "Foco Energía"
+      },
+      {
+        "level": 38,
+        "move": "Puño Hielo"
+      },
+      {
+        "level": 43,
+        "move": "Puño Trueno"
+      },
+      {
+        "level": 44,
+        "move": "Detección"
+      },
+      {
+        "level": 48,
+        "move": "Megapuño"
+      },
+      {
+        "level": 53,
+        "move": "Contraataque"
+      },
+      {
+        "level": 56,
+        "move": "Puño Certero"
+      },
+      {
+        "level": 56,
+        "move": "A Bocajarro"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Danza Espada",
+      "Megapatada",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Sumisión",
+      "Patada Baja",
+      "Sísmico",
+      "Fuerza",
+      "Terremoto",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Venganza",
+      "Metrónomo",
+      "Cabezazo",
+      "Pat. Salto Alta",
+      "Descanso",
+      "Avalancha",
+      "Sustituto",
+      "Ladrón",
+      "Telépata",
+      "Ronquido",
+      "Maldición",
+      "Inversión",
+      "Protección",
+      "Cara Susto",
+      "Bofetón Lodo",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Puño Dinámico",
+      "Relevo",
+      "Otra Vez",
+      "Giro Rápido",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Golpe Roca",
+      "Alboroto",
+      "Imagen",
+      "Mofa",
+      "Imitación",
+      "Demolición",
+      "Desarme",
+      "Esfuerzo",
+      "Daño Secreto",
+      "Tumba Rocas",
+      "Corpulencia",
+      "Antojo",
+      "Don Natural",
+      "Lanzamiento",
+      "Esfera Aural",
+      "Puya Nociva",
+      "Onda Certera",
+      "Gigaimpacto",
+      "Treparrocas",
+      "Roca Afilada",
+      "Seducción",
+      "Puntapié",
+      "Canon",
+      "Represalia",
+      "Terratemblor",
+      "Avivar",
+      "Confidencia",
+      "Aguzar",
+      "Golpe Mordaza",
+      "Motivación",
+      "Tera Blast",
+      "Trailblaze",
+      "Palma Rauda"
+    ]
+  }
+}

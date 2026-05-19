@@ -1,0 +1,172 @@
+{
+  "id": 61,
+  "name": "Poliwhirl",
+  "types": [
+    "Agua"
+  ],
+  "baseStats": {
+    "hp": 65,
+    "atk": 65,
+    "def": 65,
+    "spa": 50,
+    "spd": 50,
+    "spe": 90
+  },
+  "abilities": [
+    "Absorbe Agua",
+    "Damp",
+    "Nado Rápido"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Destructor"
+      },
+      {
+        "level": 1,
+        "move": "Pistola Agua"
+      },
+      {
+        "level": 1,
+        "move": "Hipnosis"
+      },
+      {
+        "level": 1,
+        "move": "Burbuja"
+      },
+      {
+        "level": 1,
+        "move": "Hidrochorro"
+      },
+      {
+        "level": 26,
+        "move": "Doble Bofetón"
+      },
+      {
+        "level": 27,
+        "move": "Rayo Burbuja"
+      },
+      {
+        "level": 27,
+        "move": "Danza Lluvia"
+      },
+      {
+        "level": 30,
+        "move": "Patada Baja"
+      },
+      {
+        "level": 32,
+        "move": "Disparo Lodo"
+      },
+      {
+        "level": 33,
+        "move": "Golpe Cuerpo"
+      },
+      {
+        "level": 40,
+        "move": "Tierra Viva"
+      },
+      {
+        "level": 41,
+        "move": "Amnesia"
+      },
+      {
+        "level": 43,
+        "move": "Tambor"
+      },
+      {
+        "level": 43,
+        "move": "Espabila"
+      },
+      {
+        "level": 49,
+        "move": "Hidrobomba"
+      },
+      {
+        "level": 53,
+        "move": "Bomba Fango"
+      },
+      {
+        "level": 66,
+        "move": "Doble Filo"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Puño Hielo",
+      "Megapatada",
+      "Golpe Cabeza",
+      "Derribo",
+      "Neblina",
+      "Surf",
+      "Rayo Hielo",
+      "Ventisca",
+      "Sumisión",
+      "Contraataque",
+      "Sísmico",
+      "Fuerza",
+      "Terremoto",
+      "Fisura",
+      "Excavar",
+      "Tóxico",
+      "Psíquico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Rizo Defensa",
+      "Niebla",
+      "Venganza",
+      "Metrónomo",
+      "Cascada",
+      "Rapidez",
+      "Cabezazo",
+      "Psicoonda",
+      "Salpicadura",
+      "Descanso",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bofetón Lodo",
+      "Viento Hielo",
+      "Detección",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Otra Vez",
+      "Poder Oculto",
+      "Más Psique",
+      "Golpe Roca",
+      "Torbellino",
+      "Granizo",
+      "Imagen",
+      "Puño Certero",
+      "Refuerzo",
+      "Demolición",
+      "Esfuerzo",
+      "Daño Secreto",
+      "Buceo",
+      "Meteorobola",
+      "Agua Lodosa",
+      "Hidropulso",
+      "Don Natural",
+      "Lanzamiento",
+      "Seducción",
+      "Puntapié",
+      "Canon",
+      "Escaldar",
+      "Terratemblor",
+      "Confidencia",
+      "Puño Incremento",
+      "Hidroariete",
+      "Tera Blast",
+      "Chilling Water"
+    ]
+  }
+}

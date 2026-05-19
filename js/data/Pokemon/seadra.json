@@ -1,0 +1,157 @@
+{
+  "id": 117,
+  "name": "Seadra",
+  "types": [
+    "Agua"
+  ],
+  "baseStats": {
+    "hp": 55,
+    "atk": 65,
+    "def": 95,
+    "spa": 95,
+    "spd": 45,
+    "spe": 85
+  },
+  "abilities": [
+    "Poison Point",
+    "Sniper",
+    "Damp"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Anulación"
+      },
+      {
+        "level": 1,
+        "move": "Pantalla de Humo"
+      },
+      {
+        "level": 1,
+        "move": "Burbuja"
+      },
+      {
+        "level": 1,
+        "move": "Niebla Clara"
+      },
+      {
+        "level": 14,
+        "move": "Foco Energía"
+      },
+      {
+        "level": 18,
+        "move": "Rayo Burbuja"
+      },
+      {
+        "level": 20,
+        "move": "Dragoaliento"
+      },
+      {
+        "level": 24,
+        "move": "Malicioso"
+      },
+      {
+        "level": 27,
+        "move": "Cascada"
+      },
+      {
+        "level": 29,
+        "move": "Ciclón"
+      },
+      {
+        "level": 30,
+        "move": "Pistola Agua"
+      },
+      {
+        "level": 30,
+        "move": "Salmuera"
+      },
+      {
+        "level": 37,
+        "move": "Hidropulso"
+      },
+      {
+        "level": 37,
+        "move": "Aguzar"
+      },
+      {
+        "level": 41,
+        "move": "Agilidad"
+      },
+      {
+        "level": 52,
+        "move": "Hidrobomba"
+      },
+      {
+        "level": 57,
+        "move": "Pulso Dragón"
+      },
+      {
+        "level": 62,
+        "move": "Danza Dragón"
+      },
+      {
+        "level": 65,
+        "move": "Danza Lluvia"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Golpe Cabeza",
+      "Derribo",
+      "Doble Filo",
+      "Surf",
+      "Rayo Hielo",
+      "Ventisca",
+      "Rayo Aurora",
+      "Hiperrayo",
+      "Tóxico",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Venganza",
+      "Rapidez",
+      "Cabezazo",
+      "Salpicadura",
+      "Descanso",
+      "Sustituto",
+      "Ronquido",
+      "Maldición",
+      "Azote",
+      "Protección",
+      "Cara Susto",
+      "Viento Hielo",
+      "Enfado",
+      "Aguante",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Poder Oculto",
+      "Torbellino",
+      "Granizo",
+      "Imagen",
+      "Daño Secreto",
+      "Buceo",
+      "Meteorobola",
+      "Doble Rayo",
+      "Agua Lodosa",
+      "Bote",
+      "Don Natural",
+      "Gigaimpacto",
+      "Foco Resplandor",
+      "Seducción",
+      "Canon",
+      "Escaldar",
+      "Confidencia",
+      "Hidroariete",
+      "Ráfaga Escamas",
+      "Viraje",
+      "Tera Blast",
+      "Snowscape",
+      "Chilling Water"
+    ]
+  }
+}

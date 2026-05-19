@@ -1,0 +1,222 @@
+{
+  "id": 34,
+  "name": "Nidoking",
+  "types": [
+    "Veneno",
+    "Tierra"
+  ],
+  "baseStats": {
+    "hp": 81,
+    "atk": 102,
+    "def": 77,
+    "spa": 85,
+    "spd": 75,
+    "spe": 85
+  },
+  "abilities": [
+    "Poison Point",
+    "Rivalry",
+    "Sheer Force"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Cornada"
+      },
+      {
+        "level": 1,
+        "move": "Ataque Furia"
+      },
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Golpe"
+      },
+      {
+        "level": 1,
+        "move": "Picotazo Veneno"
+      },
+      {
+        "level": 1,
+        "move": "Malicioso"
+      },
+      {
+        "level": 1,
+        "move": "Supersónico"
+      },
+      {
+        "level": 1,
+        "move": "Picotazo"
+      },
+      {
+        "level": 1,
+        "move": "Contraataque"
+      },
+      {
+        "level": 1,
+        "move": "Tóxico"
+      },
+      {
+        "level": 1,
+        "move": "Foco Energía"
+      },
+      {
+        "level": 1,
+        "move": "Camelo"
+      },
+      {
+        "level": 1,
+        "move": "Refuerzo"
+      },
+      {
+        "level": 1,
+        "move": "Púas Tóxicas"
+      },
+      {
+        "level": 1,
+        "move": "Puya Nociva"
+      },
+      {
+        "level": 1,
+        "move": "Onda Tóxica"
+      },
+      {
+        "level": 12,
+        "move": "Doble Patada"
+      },
+      {
+        "level": 23,
+        "move": "Guardia Baja"
+      },
+      {
+        "level": 43,
+        "move": "Megacuerno"
+      },
+      {
+        "level": 43,
+        "move": "Tierra Viva"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Día de Pago",
+      "Puño Fuego",
+      "Puño Hielo",
+      "Puño Trueno",
+      "Corte",
+      "Megapatada",
+      "Golpe Cabeza",
+      "Perforador",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Doble Filo",
+      "Rugido",
+      "Lanzallamas",
+      "Pistola Agua",
+      "Surf",
+      "Rayo Hielo",
+      "Ventisca",
+      "Rayo Burbuja",
+      "Hiperrayo",
+      "Sumisión",
+      "Sísmico",
+      "Fuerza",
+      "Rayo",
+      "Trueno",
+      "Terremoto",
+      "Fisura",
+      "Excavar",
+      "Furia",
+      "Mimético",
+      "Doble Equipo",
+      "Rizo Defensa",
+      "Reflejo",
+      "Venganza",
+      "Llamarada",
+      "Cabezazo",
+      "Amnesia",
+      "Descanso",
+      "Avalancha",
+      "Superdiente",
+      "Sustituto",
+      "Ladrón",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bomba Lodo",
+      "Bofetón Lodo",
+      "Viento Hielo",
+      "Detección",
+      "Enfado",
+      "Tormenta Arena",
+      "Aguante",
+      "Contoneo",
+      "Corte Furia",
+      "Atracción",
+      "Sonámbulo",
+      "Retribución",
+      "Frustración",
+      "Puño Dinámico",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Bola Sombra",
+      "Golpe Roca",
+      "Torbellino",
+      "Paliza",
+      "Alboroto",
+      "Tormento",
+      "Imagen",
+      "Puño Certero",
+      "Mofa",
+      "Fuerza Bruta",
+      "Demolición",
+      "Daño Secreto",
+      "Tumba Rocas",
+      "Bucle Arena",
+      "Disparo Lodo",
+      "Pedrada",
+      "Onda Voltio",
+      "Hidropulso",
+      "Don Natural",
+      "Lanzamiento",
+      "Golpe Bajo",
+      "Acua Cola",
+      "Pulso Dragón",
+      "Onda Certera",
+      "Gigaimpacto",
+      "Alud",
+      "Garra Umbría",
+      "Treparrocas",
+      "Roca Afilada",
+      "Seducción",
+      "Trampa Rocas",
+      "Afilagarras",
+      "Carga Tóxica",
+      "Antiaéreo",
+      "Canon",
+      "Eco Voz",
+      "Infortunio",
+      "Calcinación",
+      "Último Lugar",
+      "Terratemblor",
+      "Cola Dragón",
+      "Taladradora",
+      "Confidencia",
+      "Trampa Venenosa",
+      "Puño Incremento",
+      "Fuerza Equina",
+      "Golpe Mordaza",
+      "Cuerno Certero",
+      "Pataleta",
+      "Plancha Corporal",
+      "Arenas Ardientes"
+    ]
+  }
+}

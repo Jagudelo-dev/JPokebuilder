@@ -1,0 +1,283 @@
+{
+  "id": 36,
+  "name": "Clefable",
+  "types": [
+    "Hada"
+  ],
+  "baseStats": {
+    "hp": 95,
+    "atk": 70,
+    "def": 73,
+    "spa": 95,
+    "spd": 90,
+    "spe": 60
+  },
+  "abilities": [
+    "Gran Encanto",
+    "Muro Mágico",
+    "Ignorante"
+  ],
+  "learnset": {
+    "levelUp": [
+      {
+        "level": 1,
+        "move": "Destructor"
+      },
+      {
+        "level": 1,
+        "move": "Doble Bofetón"
+      },
+      {
+        "level": 1,
+        "move": "Placaje"
+      },
+      {
+        "level": 1,
+        "move": "Gruñido"
+      },
+      {
+        "level": 1,
+        "move": "Canto"
+      },
+      {
+        "level": 1,
+        "move": "Reducción"
+      },
+      {
+        "level": 1,
+        "move": "Rizo Defensa"
+      },
+      {
+        "level": 1,
+        "move": "Metrónomo"
+      },
+      {
+        "level": 1,
+        "move": "Salpicadura"
+      },
+      {
+        "level": 1,
+        "move": "Beso Dulce"
+      },
+      {
+        "level": 1,
+        "move": "Encanto"
+      },
+      {
+        "level": 1,
+        "move": "Otra Vez"
+      },
+      {
+        "level": 1,
+        "move": "Luz Lunar"
+      },
+      {
+        "level": 1,
+        "move": "Señuelo"
+      },
+      {
+        "level": 1,
+        "move": "Puño Meteoro"
+      },
+      {
+        "level": 1,
+        "move": "Masa Cósmica"
+      },
+      {
+        "level": 1,
+        "move": "Gravedad"
+      },
+      {
+        "level": 1,
+        "move": "Deseo Cura"
+      },
+      {
+        "level": 1,
+        "move": "Copión"
+      },
+      {
+        "level": 1,
+        "move": "Cede Paso"
+      },
+      {
+        "level": 1,
+        "move": "Poder Reserva"
+      },
+      {
+        "level": 1,
+        "move": "Voz Cautivadora"
+      },
+      {
+        "level": 1,
+        "move": "Fuerza Lunar"
+      },
+      {
+        "level": 1,
+        "move": "Foco"
+      },
+      {
+        "level": 1,
+        "move": "Gota Vital"
+      },
+      {
+        "level": 5,
+        "move": "Viento Feérico"
+      },
+      {
+        "level": 9,
+        "move": "Ojitos Tiernos"
+      },
+      {
+        "level": 15,
+        "move": "Beso Drenaje"
+      },
+      {
+        "level": 21,
+        "move": "Paz Mental"
+      },
+      {
+        "level": 29,
+        "move": "Psíquico"
+      },
+      {
+        "level": 47,
+        "move": "Doble Filo"
+      }
+    ],
+    "egg": [],
+    "tm": [
+      "Megapuño",
+      "Puño Fuego",
+      "Puño Hielo",
+      "Puño Trueno",
+      "Megapatada",
+      "Golpe Cabeza",
+      "Golpe Cuerpo",
+      "Derribo",
+      "Lanzallamas",
+      "Pistola Agua",
+      "Rayo Hielo",
+      "Ventisca",
+      "Psicorrayo",
+      "Rayo Burbuja",
+      "Hiperrayo",
+      "Sumisión",
+      "Contraataque",
+      "Sísmico",
+      "Fuerza",
+      "Rayo Solar",
+      "Rayo",
+      "Onda Trueno",
+      "Trueno",
+      "Excavar",
+      "Tóxico",
+      "Furia",
+      "Teletransporte",
+      "Tinieblas",
+      "Mimético",
+      "Doble Equipo",
+      "Pantalla de Luz",
+      "Reflejo",
+      "Venganza",
+      "Llamarada",
+      "Rapidez",
+      "Cabezazo",
+      "Amnesia",
+      "Amortiguador",
+      "Comesueños",
+      "Destello",
+      "Psicoonda",
+      "Descanso",
+      "Triataque",
+      "Sustituto",
+      "Ladrón",
+      "Pesadilla",
+      "Ronquido",
+      "Maldición",
+      "Protección",
+      "Bofetón Lodo",
+      "Electrocañón",
+      "Viento Hielo",
+      "Detección",
+      "Aguante",
+      "Rodar",
+      "Contoneo",
+      "Atracción",
+      "Sonámbulo",
+      "Campana Cura",
+      "Retribución",
+      "Presente",
+      "Frustración",
+      "Velo Sagrado",
+      "Puño Dinámico",
+      "Relevo",
+      "Cola Férrea",
+      "Poder Oculto",
+      "Danza Lluvia",
+      "Día Soleado",
+      "Más Psique",
+      "Bola Sombra",
+      "Premonición",
+      "Golpe Roca",
+      "Alboroto",
+      "Imagen",
+      "Puño Certero",
+      "Refuerzo",
+      "Truco",
+      "Imitación",
+      "Deseo",
+      "Capa Mágica",
+      "Reciclaje",
+      "Demolición",
+      "Desarme",
+      "Esfuerzo",
+      "Intercambio",
+      "Sellar",
+      "Robo",
+      "Daño Secreto",
+      "Vozarrón",
+      "Llanto Falso",
+      "Cosquillas",
+      "Doble Rayo",
+      "Bote",
+      "Antojo",
+      "Hoja Mágica",
+      "Onda Voltio",
+      "Hidropulso",
+      "Don Natural",
+      "Lanzamiento",
+      "Última Baza",
+      "Puño Drenaje",
+      "Onda Certera",
+      "Gigaimpacto",
+      "Cabezazo Zen",
+      "Seducción",
+      "Trampa Rocas",
+      "Hierba Lazo",
+      "Rayo Carga",
+      "Zona Extraña",
+      "Psicocarga",
+      "Telequinesis",
+      "Canon",
+      "Eco Voz",
+      "Cambio de Banda",
+      "Pulso Cura",
+      "Calcinación",
+      "Represalia",
+      "Avivar",
+      "Campo de Niebla",
+      "Carantoña",
+      "Confidencia",
+      "Llama Embrujada",
+      "Brillo Mágico",
+      "Puño Incremento",
+      "Aguzar",
+      "Rayo Meteórico",
+      "Bruma Explosiva",
+      "Ala Bis",
+      "Tera Blast",
+      "Chilling Water",
+      "Canto Encantador"
+    ]
+  }
+}
