@@ -3,15 +3,72 @@
 let team = new Team();
 let selectedSlot = 0;
 
+// Cargar equipo guardado al iniciar
+(function initPersistence() {
+    const savedData = loadTeam();
+    if (savedData) {
+        applyLoadedTeam(team, savedData);
+    }
+})();
+
 // Renderiza todo el equipo y el editor
 function renderApp() {
     const app = document.getElementById('app');
     app.innerHTML = `
         <div class="team-grid" id="teamGrid"></div>
+        <div class="toolbar">
+            <button id="exportBtn">📋 Exportar Equipo</button>
+            <button id="importBtn">📥 Importar Equipo</button>
+        </div>
+        <div id="importPanel" class="import-panel hidden">
+            <textarea id="importTextarea" placeholder="Pega aquí el equipo en formato Showdown..."></textarea>
+            <button id="importConfirmBtn">Importar</button>
+            <button id="importCancelBtn">Cancelar</button>
+        </div>
         <div class="editor" id="editorPanel"></div>
     `;
     renderTeamSlots();
     renderEditor();
+
+    // --- Eventos de exportación/importación ---
+    document.getElementById('exportBtn').addEventListener('click', () => {
+        const text = teamToShowdown(team);
+        navigator.clipboard.writeText(text).then(() => {
+            alert('✅ Equipo copiado al portapapeles en formato Showdown.');
+        });
+    });
+
+    document.getElementById('importBtn').addEventListener('click', () => {
+        document.getElementById('importPanel').classList.remove('hidden');
+    });
+
+    document.getElementById('importCancelBtn').addEventListener('click', () => {
+        document.getElementById('importPanel').classList.add('hidden');
+        document.getElementById('importTextarea').value = '';
+    });
+
+    document.getElementById('importConfirmBtn').addEventListener('click', () => {
+        const text = document.getElementById('importTextarea').value;
+        const imported = showdownToTeam(text);
+        imported.forEach((data, idx) => {
+            if (data && idx < 6) {
+                team.setSlot(idx, data.pokemon);
+                const pkmn = team.getSlot(idx);
+                if (pkmn) {
+                    pkmn.nickname = data.nickname;
+                    pkmn.item = data.item;
+                    pkmn.ability = data.ability || pkmn.baseData.abilities[0];
+                    pkmn.nature = data.nature || 'Fuerte';
+                    pkmn.evs = data.evs;
+                    pkmn.moves = data.moves.slice(0, 4);
+                }
+            }
+        });
+        document.getElementById('importPanel').classList.add('hidden');
+        document.getElementById('importTextarea').value = '';
+        saveTeam(team);          // guardar automáticamente tras importar
+        renderApp();
+    });
 }
 
 // Renderiza los 6 slots del equipo
@@ -53,6 +110,7 @@ function renderEditor() {
         document.getElementById('pokemonSelect').addEventListener('change', (e) => {
             if (e.target.value) {
                 team.setSlot(selectedSlot, e.target.value);
+                saveTeam(team);   // guardar tras cambiar el Pokémon
                 renderApp();
             }
         });
@@ -160,24 +218,27 @@ function renderEditor() {
         </div>
     `;
 
-    // Event listeners para actualizar el Pokémon
+    // --- Event listeners con auto-guardado ---
     document.getElementById('nickname').addEventListener('input', (e) => {
         pokemon.nickname = e.target.value;
         renderTeamSlots();
+        autoSave();
     });
     document.getElementById('level').addEventListener('input', (e) => {
         pokemon.level = parseInt(e.target.value) || 50;
         renderEditor();
-        // updateAdvice() se llamará al final de renderEditor()
+        // autoSave se llamará al final de renderEditor
     });
     document.getElementById('ability').addEventListener('change', (e) => {
         pokemon.ability = e.target.value;
         updateAdvice();
+        autoSave();
     });
     document.getElementById('item').addEventListener('change', (e) => {
         pokemon.item = e.target.value;
         renderTeamSlots();
         updateAdvice();
+        autoSave();
     });
     document.getElementById('nature').addEventListener('change', (e) => {
         pokemon.nature = e.target.value;
@@ -190,6 +251,7 @@ function renderEditor() {
             pokemon.moves[i] = e.target.value;
             updateCoverage();
             updateAdvice();
+            autoSave();
         });
     }
 
@@ -198,11 +260,13 @@ function renderEditor() {
         document.getElementById(`iv-${stat}`).addEventListener('input', (e) => {
             pokemon.ivs[stat] = Math.min(31, Math.max(0, parseInt(e.target.value) || 0));
             renderEditor();
+            autoSave();
         });
         document.getElementById(`ev-${stat}`).addEventListener('input', (e) => {
             pokemon.evs[stat] = Math.min(255, Math.max(0, parseInt(e.target.value) || 0));
             validateEVs();
             renderEditor();
+            autoSave();
         });
     });
 
@@ -228,6 +292,9 @@ function renderEditor() {
     // Calcular cobertura y asistente inicial
     updateCoverage();
     updateAdvice();
+
+    // Auto-guardar tras cargar el editor (por si hubo cambios en renderEditor que ya guardan, redundante pero seguro)
+    autoSave();
 }
 
 function validateEVs() {
@@ -260,4 +327,9 @@ function updateAdvice() {
     if (panel) {
         panel.innerHTML = renderAdviceHTML(advice);
     }
+}
+
+// --- Funciones de persistencia y exportación (Fase 6) ---
+function autoSave() {
+    saveTeam(team);
 }
